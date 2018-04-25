@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feelings on Jessica S. Marquis</title>
+    <link>http://example.org/tags/feelings/</link>
+    <description>Recent content in Feelings on Jessica S. Marquis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Feb 2010 15:02:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/feelings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>days #31-39</title>
+      <link>http://example.org/2010/02/08/2010-02-days-31-39-html/</link>
+      <pubDate>Mon, 08 Feb 2010 15:02:00 +0000</pubDate>
+      
+      <guid>http://example.org/2010/02/08/2010-02-days-31-39-html/</guid>
+      <description>it&amp;#8217;s been a long, hard week.
+ lots of driving &amp; busyness,   mixed with trying to settle emotions stirred up by all the activity.   i don&amp;#8217;t tend to be an extremely emotional person,   so enduring emotional upheaval is a true test of patience for me.     but this unsettlement within me allowed me a window into something i rarely examine:   i was able to tune into how i feel about events, behaviors, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

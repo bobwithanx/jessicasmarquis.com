@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accepting on Jessica S. Marquis</title>
+    <link>http://example.org/tags/accepting/</link>
+    <description>Recent content in Accepting on Jessica S. Marquis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Sep 2017 23:43:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/accepting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hard-won advice from a reluctant event organizer and project manager</title>
+      <link>http://example.org/2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/</link>
+      <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
+      
+      <guid>http://example.org/2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/</guid>
+      <description>When I was in middle school, I got the itch to organize events. No, that&amp;#8217;s inaccurate. I realized the need for organization, so I did it. There wasn&amp;#8217;t really an itch, just a desire to get to the end goal and no bridges provided to it. The point is, I got started in event creation and project management shortly after I hit the double digits, so I have a little bit of experience in it.</description>
+    </item>
+    
+    <item>
+      <title>day #12</title>
+      <link>http://example.org/2010/01/13/2010-01-day-12-html/</link>
+      <pubDate>Wed, 13 Jan 2010 04:51:00 +0000</pubDate>
+      
+      <guid>http://example.org/2010/01/13/2010-01-day-12-html/</guid>
+      <description>i decided to inconvenience myself today.
+ being someone who arranges grocery bags so everything can get carried in on one trip,   plots out maps so all errands can be run in one linear course,   and arranges my schedule to make room for surprises,   i don&amp;#8217;t allow space for inconvenience.     so i suppose i was due some.     the call came as i prepared to tackle a new data analysis project:   i was needed to assist with proctoring an exam.</description>
+    </item>
+    
+  </channel>
+</rss>

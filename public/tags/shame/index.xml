@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shame on Jessica S. Marquis</title>
+    <link>http://example.org/tags/shame/</link>
+    <description>Recent content in Shame on Jessica S. Marquis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jan 2010 15:04:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/shame/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>days #10 &amp; #11</title>
+      <link>http://example.org/2010/01/11/2010-01-days-10-11-html/</link>
+      <pubDate>Mon, 11 Jan 2010 15:04:00 +0000</pubDate>
+      
+      <guid>http://example.org/2010/01/11/2010-01-days-10-11-html/</guid>
+      <description>i&amp;#8217;m working on a list of passion-blockers.
+ as i write each one down, i feel a twinge of guilt at how i&amp;#8217;ve let it get to me in the past.     fatigue   denial of ability/passion   fear   resistance   others&amp;#8217; reactions   unrealistic standards   distraction   formalization   and so on&amp;#8230;     my internal conflict comes from my belief that Jesus,   in all His wisdom &amp; love,   has given us all unique passion in each of our lives.</description>
+    </item>
+    
+  </channel>
+</rss>

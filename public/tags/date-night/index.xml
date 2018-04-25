@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Date Night on Jessica S. Marquis</title>
+    <link>http://example.org/tags/date-night/</link>
+    <description>Recent content in Date Night on Jessica S. Marquis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jan 2010 04:53:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/date-night/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>day #4: update</title>
+      <link>http://example.org/2010/01/05/2010-01-day-4-update-html/</link>
+      <pubDate>Tue, 05 Jan 2010 04:53:00 +0000</pubDate>
+      
+      <guid>http://example.org/2010/01/05/2010-01-day-4-update-html/</guid>
+      <description>bob has climbed aboard my attempt to mix it up, and we went on our own adventure tonight.
+ in the 4+ years we&amp;#8217;ve been together, i&amp;#8217;m not sure we&amp;#8217;ve ever &amp;#8220;gone out for a drink&amp;#8221;.   tonight, we took a break from our schedules,   claimed a happy hour,   &amp; descended on sidebar.     we sat on a couch in a dimly lit upstairs bar with no more than 10 other people,   an old kung-fu movie playing on various flat-screens around us.</description>
+    </item>
+    
+  </channel>
+</rss>
