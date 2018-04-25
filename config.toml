@@ -1,34 +1,53 @@
-baseurl                 = "/"               # Your domain name. Must end with "/"
-languageCode            = "en-us"
-title                   = "Call me Sam"
-theme                   = "sam"
-# googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
+baseurl = "http://www.jessicasmarquis.com"
+title = "Jessica S. Marquis"
+
+theme = "coder"
+
+languagecode = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
 [params]
-    dateform            = "Mon Jan 02, 2006"
-    dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
-    favicon             = "/sam.ico"
-    pygmentsStyle       = "monokai"                     # https://help.farbox.com/pygments.html
-    pygmentsCodefences  = true
-    homepage            = "main"                        # What to call the home page link
-    galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
-    clickablePhotos     = true                          # Allow links to the full size images
-    footerText          = "Call me Sam, a theme for Hugo."
+    author = "Jessica S. Marquis"
+    description = "John Doe's personal website"
+    keywords = "blog,developer,personal"
+    info = "Faith + Justice mixed with Humor & Whimsy"
 
-# Metadata
-    description         = "A new Hugo site."            # Max 160 characters show in search results
-    twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
-    primaryImage        = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
+[[params.social]]
+    name = "Twitter"
+    weight = 1
+    url = "https://twitter.com/bizette/"
+[[params.social]]
+    name = "Facebook"
+    weight = 2
+    url = "http://facebook.com/jessicadoesstuff/"
+[[params.social]]
+    name = "Amazon"
+    weight = 3
+    url = "https://www.amazon.com/Jessica-S.-Marquis/e/B005CADOH4/"
+[[params.social]]
+    name = "Goodreads"
+    weight = 3
+    url = "https://www.goodreads.com/author/show/4527822.Jessica_S_Marquis/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/jsmarquis/"
 
-[[params.mainMenu]]
-    link = "/posts"
-    text = "writing"
-
-[[params.mainMenu]]
-    link = "/gallery"
-    text = "gallery"
-
-[[params.mainMenu]]
-    link = "/about"
-    text = "who is sam?"
-    
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "Creations"
+    weight = 1
+    url  = "/creations/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
