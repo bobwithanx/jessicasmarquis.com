@@ -7,7 +7,7 @@ languagecode = "en"
 
 publishDir = "docs"
 
-paginate = 20
+paginate = 12
 canonifyurls = true
 
 pygmentsstyle = "b2"
@@ -22,22 +22,27 @@ pygmentscodefencesguesssyntax = true
 
 [[params.social]]
     name = "Twitter"
+    icon = "fa-twitter"
     weight = 1
     url = "https://twitter.com/bizette/"
 [[params.social]]
     name = "Facebook"
+    icon = "fa-facebook"
     weight = 2
     url = "http://facebook.com/jessicadoesstuff/"
 [[params.social]]
     name = "Amazon"
+    icon = "fa-amazon"
     weight = 3
     url = "https://www.amazon.com/Jessica-S.-Marquis/e/B005CADOH4/"
 [[params.social]]
     name = "Goodreads"
+    icon = "fa-book"
     weight = 3
     url = "https://www.goodreads.com/author/show/4527822.Jessica_S_Marquis/"
 [[params.social]]
     name = "LinkedIn"
+    icon = "fa-linkedin"
     weight = 3
     url = "https://www.linkedin.com/in/jsmarquis/"
 
@@ -47,9 +52,5 @@ pygmentscodefencesguesssyntax = true
     url  = "/posts/"
 [[menu.main]]
     name = "Creations"
-    weight = 1
-    url  = "/creations/"
-[[menu.main]]
-    name = "About"
     weight = 2
-    url = "/about/"
+    url  = "/creations/"
