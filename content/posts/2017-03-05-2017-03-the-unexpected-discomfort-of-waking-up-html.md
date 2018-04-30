@@ -19,17 +19,14 @@ tags:
   - waiting
 
 ---
-<div class="separator" style="clear:both;text-align:center;">
-  <a href="http://static1.squarespace.com/static/5a126df012abd96b9c736edf/t/5a163fb1047d59a21da7e8f0/1511407845142//img.jpg.com/static/5a126df012abd96b9c736edf/t/5a163fb1047d59a21da7e8f1/1511407537379/1000w/" /></a>
-</div>
 
 “I’m not political,” I said.
-  
+
 “Must be nice,” she replied.
 
 Know what’s weird about this conversation? I don’t remember with whom I was speaking. It has transcended an actual setting and characters. All I recall is that I was in a majority class &#8211; white, Christian, straight, able-bodied, whatever &#8211; and my friend was not.
 
-This simple dialogue has taken place in various ways on more than one occasion, boring itself deeper and deeper into my psyche, each time convicting me that I enjoy privilege I have not earned. 
+This simple dialogue has taken place in various ways on more than one occasion, boring itself deeper and deeper into my psyche, each time convicting me that I enjoy privilege I have not earned.
 
 These conversation partners would prefer to have the luxury to say, “Need I speak up on this issue? Nah, I’m good.” They do not eagerly await the opportunity to be the person who has to take a stand, to advocate on their and/or their loved ones’ behalf on controversial issues. But they do it because that is how they have earned rights &#8211; or reclaimed them, in some cases. That is how they bring attention to their plight, because a lot of the rest of us don’t get it.
 
@@ -60,10 +57,10 @@ Either way, to my friends who are not of my demographic, I’m sorry for the tim
 To that last point, my friend Sebastien, one of my favorite humanists, asked me recently if Christianity shaped my belief in social justice. I answered with honesty: Not entirely. Because Christianity, like any belief system, has human flaws and limitations. What has most shaped my belief in social justice is Jesus. When I spend time reading about His life &#8211; words, actions, attitudes, scripture He quoted, friends He chose &#8211; I can’t help but want to live mine in a way that brings out the best in others. (Then I pray He’ll fill in the gaps when I don’t.)
 
 So, to all of you, thank you for loving me despite my biases and shortsightedness. If it means anything, I’m depressed because I care so freakin’ much about you. When I get a thicker skin to go with my tenderized heart, let&#8217;s get down to business, okay?
-  
-_  
+
+_
 Freely you have received; freely give. _
-  
+
 Matthew 10:8 (NIV)
 
 * &#8211; Shai asked me to clarify that she can&#8217;t take credit for her pithy remark, but was actually quoting <a href="https://www.reddit.com/r/todayilearned/comments/1n7a6l/til_that_during_the_filming_of_django_unchained/" target="_blank">Samuel L. Jackson</a>.

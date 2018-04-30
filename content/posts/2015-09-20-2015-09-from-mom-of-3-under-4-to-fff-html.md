@@ -25,18 +25,9 @@ So check out your friends. You have a bad feeling about a few of them, but you&#
 
 Community is a blessing, so get involved with a small group at Genesis now, before you don&#8217;t have time for it. Get the relationships in place so you can rely on them in the tough spots ahead. This will teach you how to share openly, learn from others, live congruently, prioritize your relationship with Christ, and all kinds of other things you&#8217;re trying to do on your own. Think about that, Jess: You&#8217;re trying to be in community _by yourself_. That&#8217;s ridiculous.
 
-But you don&#8217;t have anyone calling you out on it because you&#8217;re ducking and hiding. Let&#8217;s call this what it is: Fear. Listen, girl: The God you serve is not one of fear! He is a God of love and grace, and He&#8217;s bigger than all your bad habits, stupid decisions, and irrationality. <span class="text 1John-4-18" id="en-NIV-30622"><i>There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love. (1 John 4:18) </i>That isn&#8217;t a condemnation of your lack of progress in the journey &#8211; it&#8217;s a call to be perfected even more! He cherishes you and <i>wants</i> this for you! <i>You</i> are the <i>daughter</i> of the <i>King</i>!</span>
+But you don&#8217;t have anyone calling you out on it because you&#8217;re ducking and hiding. Let&#8217;s call this what it is: Fear. Listen, girl: The God you serve is not one of fear! He is a God of love and grace, and He&#8217;s bigger than all your bad habits, stupid decisions, and irrationality. <i>There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love. (1 John 4:18) </i>That isn&#8217;t a condemnation of your lack of progress in the journey &#8211; it&#8217;s a call to be perfected even more! He cherishes you and <i>wants</i> this for you! <i>You</i> are the <i>daughter</i> of the <i>King</i>!
 
-<span class="text 1John-4-18" id="en-NIV-30622">So, before you head into not having a life for more years than you yet realize, get your walk with Jesus straight. Relinquish the crazy control you&#8217;re grasping for &#8211; your husband and kiddos (one of whom is banging his head against a glass cabinet right now) will teach you that you don&#8217;t really have it anyway! &#8211; and relax in the path He&#8217;s designed for you. It will be long, hard work, but you will enjoy it with the right people by your side.</span>
-  
-<span class="text 1John-4-18" id="en-NIV-30622"><br /></span>
-  
-<span class="text 1John-4-18" id="en-NIV-30622">By His grace & in His time,</span>
-  
-<span class="text 1John-4-18" id="en-NIV-30622">&#8211;j</span>
-  
-<span class="text 1John-4-18" id="en-NIV-30622"><br /></span>
-  
-<span class="text 1John-4-18" id="en-NIV-30622"><br /></span>
-  
-<span class="text 1John-4-18" id="en-NIV-30622"><br /></span>
+So, before you head into not having a life for more years than you yet realize, get your walk with Jesus straight. Relinquish the crazy control you&#8217;re grasping for &#8211; your husband and kiddos (one of whom is banging his head against a glass cabinet right now) will teach you that you don&#8217;t really have it anyway! &#8211; and relax in the path He&#8217;s designed for you. It will be long, hard work, but you will enjoy it with the right people by your side.
+
+By His grace & in His time,
+&#8211;j

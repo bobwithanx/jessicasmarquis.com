@@ -658,6 +658,12 @@
   </url>
   
   <url>
+    <loc>http://jess.bobmarquis.com/tags/</loc>
+    <lastmod>2010-01-01T01:17:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://jess.bobmarquis.com/tags/1-thessalonians/</loc>
     <lastmod>2010-02-24T14:54:00+00:00</lastmod>
     <priority>0</priority>
@@ -1556,7 +1562,7 @@
   
   <url>
     <loc>http://jess.bobmarquis.com/tags/</loc>
-    <lastmod>2010-02-24T14:54:00+00:00</lastmod>
+    <lastmod>2010-01-01T01:17:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

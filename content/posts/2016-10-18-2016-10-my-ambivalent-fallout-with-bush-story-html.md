@@ -15,7 +15,7 @@ tags:
   - surrender
 
 ---
-Last December, we had our front and back yards turned into desert landscaping. They went from being full of dirt, weeds, a big mulberry tree that pigeons pooped from, and a thorny bougainvillea, to being full of rocks, desert plants, a smaller tree that pigeons disdain, and a wispy bush with orange flowers. 
+Last December, we had our front and back yards turned into desert landscaping. They went from being full of dirt, weeds, a big mulberry tree that pigeons pooped from, and a thorny bougainvillea, to being full of rocks, desert plants, a smaller tree that pigeons disdain, and a wispy bush with orange flowers.
 
 We were enamored.
 
@@ -33,17 +33,9 @@ We were disgruntled.
 
 And then the beautiful soft bush that had replaced our sinister bougainvillea started to wilt.
 
-<div class="separator" style="clear:both;text-align:center;">
-  <a href="http://static1.squarespace.com/static/5a126df012abd96b9c736edf/t/5a163fb1047d59a21da7e8fe/1511407850132//img.jpg.com/static/5a126df012abd96b9c736edf/t/5a163fb1047d59a21da7e8ff/1511407537382/1000w/" /></a>
-</div>
-
 I was disheartened.
 
 Attempts to reach the landscaper who planted the bush yielded little result, and our gentle green plant with the orange flowers succumbed to little black dots we learned were called aphids &#8211; or the more visceral term &#8220;plant lice&#8221;.
-
-<div class="separator" style="clear:both;text-align:center;">
-  <a href="http://static1.squarespace.com/static/5a126df012abd96b9c736edf/t/5a163fb1047d59a21da7e900/1511407848234//img.jpg.com/static/5a126df012abd96b9c736edf/t/5a163fb1047d59a21da7e901/1511407537382/1000w/" /></a>
-</div>
 
 Every day, I could barely stand to look outside at the yellowed, broken carcass. I felt sickened by the sight of it. Since I wasn&#8217;t comfortable with this sensation, I repackaged it into feeling livid. I felt abandoned, and that bush was evidence of it.
 
@@ -51,20 +43,16 @@ Every day, I could barely stand to look outside at the yellowed, broken carcass.
 
 I felt neglected by my own Creator.
 
-But I knew I couldn&#8217;t let that be the end of the story. He wired me to be too stubborn to let something called plant lice win this battle. 
+But I knew I couldn&#8217;t let that be the end of the story. He wired me to be too stubborn to let something called plant lice win this battle.
 
 So I declared life over our little dead bush. In doing so, I prayed that my Creator would again turn His face toward me. I reached out to an advisor who assisted me in taking bold and measured steps to get the attention of the landscaper. It worked: he immediately got to work on attending to the neglect. Today, our bush showed these signs of life:
 
-<div class="separator" style="clear:both;text-align:center;">
-  <a href="http://static1.squarespace.com/static/5a126df012abd96b9c736edf/t/5a163fb1047d59a21da7e902/1511407850302//img.jpg.com/static/5a126df012abd96b9c736edf/t/5a163fb1047d59a21da7e903/1511407537382/1000w/" /></a>
-</div>
-
-If you look closely, you can see bright green sprouting out of the brown and yellow. It&#8217;s a true visual of <a href="https://youtu.be/skifA9xtq9k" target="_blank">this song</a>. 
+If you look closely, you can see bright green sprouting out of the brown and yellow. It&#8217;s a true visual of <a href="https://youtu.be/skifA9xtq9k" target="_blank">this song</a>.
 
 It&#8217;s also a reflection of how I&#8217;m feeling: I have my Creator&#8217;s attention, and He is bringing new life out of my former self. At last He heard; at last He delivered me.
 
-_I sought the Lord, and He answered me and delivered me from all my fears. Those who look to Him are radiant, and their faces shall never be ashamed. This poor [wo]man cried, and the Lord heard [her] and saved [her] out of all [her] troubles._ 
-  
+_I sought the Lord, and He answered me and delivered me from all my fears. Those who look to Him are radiant, and their faces shall never be ashamed. This poor [wo]man cried, and the Lord heard [her] and saved [her] out of all [her] troubles._
+
 _Psalm 34:4-6&nbsp;_
 
 In all this, I felt inexplicably compelled to read about how caterpillars become butterflies. We all know they crawl into a cocoon, hang out for a bit, then emerge in flight, right? I even shared one of my favorite quotes about this in a <a href="/cottonwoodblessings/2015/11/cocoons.html" target="_blank">previous post</a>.

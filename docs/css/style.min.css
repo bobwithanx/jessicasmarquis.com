@@ -237,7 +237,7 @@ img {
   }
 }
 
-.list ul li span {
+.list ul li .date {
   display: inline-block;
   text-align: right;
   width: 20rem;
@@ -245,7 +245,7 @@ img {
 }
 
 @media only screen and (min-width:320px) and (max-width:480px) {
-  .list ul li span {
+  .list ul li .date {
     display: block;
     text-align: left
   }
@@ -265,13 +265,13 @@ img {
   text-align: center
 }
 
-.pagination li span {
+.pagination li .date {
   margin: 0;
   text-align: center;
   width: 3.2rem
 }
 
-.pagination li a span {
+.pagination li a .date {
   margin: 0;
   text-align: center;
   width: 3.2rem

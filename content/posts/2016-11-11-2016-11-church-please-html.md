@@ -14,12 +14,6 @@ tags:
   - unity
 
 ---
-<div class="separator" style="clear:both;text-align:center;">
-</div>
-
-<div class="separator" style="clear:both;text-align:center;">
-  <a href="http://static1.squarespace.com/static/5a126df012abd96b9c736edf/t/5a163fb1047d59a21da7e8f8/1511407847531//img.jpg.com/static/5a126df012abd96b9c736edf/t/5a163fb1047d59a21da7e8f9/1511407537381/1000w/" /></a>
-</div>
 
 Dear Bride of Christ,
 
@@ -42,11 +36,9 @@ So let&#8217;s take a radical step to save our tree with its dying branches. Ins
 Bride, we have a black eye we gave ourselves. So let&#8217;s put healing back as a priority so we can resume the work of the One who called us, who has been waiting for us to return to His open arms &#8211; together. He has a lot of other stuff for us to do, and I promise it involves very little blog commenting.
 
 By His grace & in His time,
-  
+
 &#8211;j
 
-P.S. Please listen to this song. We need to sing it together every day. 
+P.S. Please listen to this song. We need to sing it together every day.
 
-<div class="separator" style="clear:both;text-align:center;">
-  [youtube=https://www.youtube.com/watch?v=E7vyiI9vC2w&w=320&h=266]
-</div>
+{{< youtube E7vyiI9vC2w >}}

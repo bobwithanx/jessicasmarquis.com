@@ -10,6 +10,4 @@ categories:
 ---
 I had the incredible opportunity to present on my book, _Raising Unicorns,_ in Berlin last month at the re:publica conference. I talked about the importance of WHIMSY. Enjoy, my friends!
 
-<div class="separator" style="clear:both;text-align:center;">
-  [youtube=http://www.youtube.com/watch?v=2C7Fkov1IpU&w=320&h=266]
-</div>
+{{< youtube  2C7Fkov1IpU >}}
