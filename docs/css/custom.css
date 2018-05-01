@@ -242,6 +242,26 @@ h6 {
   color: #000;
 }
 
-.social-icons ul li a:hover {
+/* .social-icons ul li a:hover {
   color: #5123BB;
+} */
+
+a:hover i.fa-facebook {
+  color: #4868AD;
+}
+
+a:hover i.fa-amazon {
+  color: #F39D39;
+}
+
+a:hover i.fa-linkedin {
+  color: #2C73AB;
+}
+
+a:hover i.fa-book {
+  color: #7E5B49;
+}
+
+a:hover i.fa-twitter {
+  color: #4099FF;
 }

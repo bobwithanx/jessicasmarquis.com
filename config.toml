@@ -7,8 +7,7 @@ languagecode = "en"
 
 publishDir = "docs"
 
-paginate = 12
-canonifyurls = true
+paginate = 10
 
 pygmentsstyle = "b2"
 pygmentscodefences = true

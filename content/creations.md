@@ -44,7 +44,7 @@ Select creations: books, speaking engagements, writings, events, films, and proj
 
 #### Short Films (Written)
 
-* Cordones – Featured in 2013 art exhibit “Construyendo Tamayo, 1922-1937” at Rufino Tamayo Museum of Contemporary Art in Mexico City, Official Selection of 2013 Phoenix Film Festival
+* [Cordones](https://vimeo.com/41571112) – Featured in 2013 art exhibit “Construyendo Tamayo, 1922-1937” at Rufino Tamayo Museum of Contemporary Art in Mexico City, Official Selection of 2013 Phoenix Film Festival
 * [Awesome Guy](https://vimeo.com/31805329) – Official Selection of 2012 Phoenix Film Festival, Official Selection of 2012 Prescott Film Festival
 * [An Uplifting Tale](https://vimeo.com/21274431) – Official Selection of 2010 Phoenix Film Festival
 * [Gettin’ Skool’d](https://www.youtube.com/watch?v=iOu0ilzu52g) – a pilot that *totally* should have been pitched to MTV (yes, those characters are made of authentic *Yo! MTV Raps* cards)

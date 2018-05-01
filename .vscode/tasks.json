@@ -4,9 +4,21 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Hugo Build",
+      "label": "hugo build",
       "type": "shell",
-      "command": "hugo"
+      "command": "hugo ",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": [
+        "$go"
+      ]
+    },
+    {
+      "label": "hugo server",
+      "type": "shell",
+      "command": "hugo server"
     }
   ]
 }
