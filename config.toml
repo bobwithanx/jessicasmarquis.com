@@ -1,55 +1,24 @@
-baseurl = "http://jess.bobmarquis.com"
+baseURL = "/"
+languageCode = "en-us"
 title = "Jessica S. Marquis"
+theme = "kube"
+description = "Kube is a professional  and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog"
+Paginate = 10
 
-theme = "coder"
+staticDir2 = "static"
 
-languagecode = "en"
-
-publishDir = "docs"
-
-paginate = 10
-
-pygmentsstyle = "b2"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-
-[params]
-    author = "Jessica S. Marquis"
-    description = "Jessica S. Marquis' personal website"
-    keywords = "blog,personal"
-    info = "Faith + Justice mixed with Humor & Whimsy"
-
-[[params.social]]
-    name = "Twitter"
-    icon = "fa-twitter"
-    weight = 1
-    url = "https://twitter.com/bizette/"
-[[params.social]]
-    name = "Facebook"
-    icon = "fa-facebook"
-    weight = 2
-    url = "http://facebook.com/jessicadoesstuff/"
-[[params.social]]
-    name = "Amazon"
-    icon = "fa-amazon"
-    weight = 3
-    url = "https://www.amazon.com/Jessica-S.-Marquis/e/B005CADOH4/"
-[[params.social]]
-    name = "Goodreads"
-    icon = "fa-book"
-    weight = 3
-    url = "https://www.goodreads.com/author/show/4527822.Jessica_S_Marquis/"
-[[params.social]]
-    name = "LinkedIn"
-    icon = "fa-linkedin"
-    weight = 3
-    url = "https://www.linkedin.com/in/jsmarquis/"
+[Params]
+  RSSLink = "/index.xml"
+  author = "Jessica S. Marquis" # add your company name
+  github = "" # add your github profile name
+  twitter = "bizette" # add your twitter profile
+  email = "myemail@myaddress.xxx"
 
 [[menu.main]]
     name = "Blog"
-    weight = 1
-    url  = "/posts/"
+    weight = -100
+    url = "/blog/"
 [[menu.main]]
     name = "Creations"
-    weight = 2
-    url  = "/creations/"
+    weight = -100
+    url = "/creations/"

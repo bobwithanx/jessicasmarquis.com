@@ -1,0 +1,18 @@
+<nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="{{ "/" | absURL }}">
+      <!-- <span class="home-icon"><i class="fa fa-home"></i>
+      </span> -->
+      <span class="home-text">{{ .Site.Title }}</span>
+    </a>
+    {{ with .Site.Menus.main }}
+    <ul class="navigation-list float-right">
+      {{ range sort . }}
+      <li class="navigation-item">
+        <a class="navigation-link" href="{{ .URL }}">{{ .Name }}</a>
+      </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </section>
+</nav>

@@ -1,49 +1,63 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+  {{ .Hugo.Generator }}
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 
-    {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-    {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-    {{ with .Site.Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+  {{ with .Description }}
+  <meta name="description" content="{{ . }}"> {{ end }}
+  <!-- noindex meta -->
+  {{ $default_noindex_kinds := slice "section" "taxonomy" "taxonomyTerm" }}
+  {{ $noindex_kinds := .Site.Params.noindex_kinds | default $default_noindex_kinds }}
+  {{ $is_noindex_true := and (isset .Params "noindex") .Params.noindex }}
+  {{ if or (in $noindex_kinds .Kind) ($is_noindex_true) }}
+  <meta name="robots" content="noindex">
+  {{ end }}
 
-    <base href="{{ .Site.BaseURL }}">
-    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+  {{ partial "meta/name-author" . }}
+  {{ template "_internal/opengraph.html" . }}
+  {{ partial "meta/ogimage" . }}
+  <!-- Site verification -->
+  {{ if .IsHome }} {{ partial "site-verification" . }} {{ end }}
+  <!-- add googleAnalytics in config.toml -->
+  {{ template "_internal/google_analytics_async.html" . }}
+  {{ if .RSSLink }}
+  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" /> {{ end }}
 
-    <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="canonical" href="{{ .Permalink }}"> {{ if (isset .Params "prev") }}
+  <link rel="prev" href="{{ .Params.prev }}"> {{ end }} {{ if (isset .Params "next") }}
+  <link rel="next" href="{{ .Params.next }}"> {{ end }}
 
-    <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Mono:400,700">
-    <link rel="stylesheet" href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="{{ "css/style.min.css" | absURL }}">
-    <link rel="stylesheet" href="{{ "css/custom.css" | absURL }}">
+  {{ partial "favicon" . }}
 
-    <link rel="icon" type="image/png" href="{{ "/images/favicon-32x32.png" | absURL }}" sizes="32x32">
-    <link rel="icon" type="image/png" href="{{ "/images/favicon-16x16.png" | absURL }}" sizes="16x16">
+  <link href="{{ .Site.BaseURL }}css/font.css" rel="stylesheet" type="text/css">
+  <link href="{{ .Site.BaseURL }}css/kube.min.css" rel="stylesheet" type="text/css">
+  <link href="{{ .Site.BaseURL }}css/kube.legenda.css" rel="stylesheet" type="text/css">
+  <link href="{{ .Site.BaseURL }}css/highlight.css" rel="stylesheet" type="text/css">
+  <link href="{{ .Site.BaseURL }}css/master.css" rel="stylesheet" type="text/css">
+  <link href="{{ .Site.BaseURL }}css/kube.demo.css" rel="stylesheet" type="text/css">
 
-    {{ if .RSSLink }}
-      <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-      <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
-    {{ end }}
+<!-- Your own theme here -->
+<link href="{{ .Site.BaseURL }}css/custom.css" rel="stylesheet" type="text/css">
+<!-- js vendor -->
+<script src="{{ .Site.BaseURL }}js/jquery-3.3.1.slim.min.js" type="text/javascript"></script>
 
-    {{ .Hugo.Generator }}
-  </head>
+<script src="{{ .Site.BaseURL }}js/tocbot.min.js" type="text/javascript"></script>
+</head>
 
-  <body>
-    <main class="wrapper">
-      {{ partial "header.html" . }}
 
-      <div class="content">
-        {{ block "content" . }}{{ end }}
-      </div>
+<body class="page-kube">
+  <header>{{ block "header" . }}{{ end }}</header>
+  <main>{{ block "main" . }}{{ end }}</main>
+  <footer>{{ block "footer" . }}{{ end }}</footer>
 
-      {{ partial "footer.html" . }}
-    </main>
-
-    {{ template "_internal/google_analytics.html" . }}
-
-  </body>
+  <script src="{{ .Site.BaseURL }}js/kube.js" type="text/javascript"></script>
+  <script src="{{ .Site.BaseURL }}js/kube.legenda.js" type="text/javascript"></script>
+  <script src="{{ .Site.BaseURL }}js/master.js" type="text/javascript"></script>
+</body>
 
 </html>

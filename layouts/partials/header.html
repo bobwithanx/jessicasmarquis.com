@@ -1,18 +1,33 @@
-<nav class="navigation">
-  <section class="container">
-    <a class="navigation-title" href="{{ "/" | absURL }}">
-      <!-- <span class="home-icon"><i class="fa fa-home"></i>
-      </span> -->
-      <span class="home-text">{{ .Site.Title }}</span>
+<div class="show-sm bg-black">
+  <div id="nav-toggle-box">
+    <div id="nav-toggle-brand">
+      <a class="aluminum" href="/">{{ .Site.Title }}</a>
+    </div>
+    <a data-component="toggleme" data-target="#top" href="#" id="nav-toggle">
+      <i class="aluminum kube-menu"></i>
     </a>
-    {{ with .Site.Menus.main }}
-    <ul class="navigation-list float-right">
-      {{ range sort . }}
-      <li class="navigation-item">
-        <a class="navigation-link" href="{{ .URL }}">{{ .Name }}</a>
+  </div>
+</div>
+<div class="hide-sm bg-black" id="top">
+  <div id="top-brand">
+    <a class="aluminum" href="/" title="home">{{ .Site.Title }}</a>
+  </div>
+  <nav id="top-nav-main">
+    <ul class="align-right">
+      {{ $currentPage := . }} {{ range .Site.Menus.main }}
+      <li>
+        <a href="{{ .URL }}" {{if $currentPage.IsMenuCurrent "main" . }} class="active" {{end}}>{{ .Name }}</a>
+      </li>
+      {{end}}
+    </ul>
+  </nav>
+  <nav id="top-nav-extra">
+    <ulc>
+      {{ range .Site.Menus.extra }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Name }}</a>
       </li>
       {{ end }}
-    </ul>
-    {{ end }}
-  </section>
-</nav>
+    </ulc>
+  </nav>
+</div>
