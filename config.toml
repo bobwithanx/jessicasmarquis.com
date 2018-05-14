@@ -2,13 +2,10 @@ baseURL = "http://example.com/"
 languageCode = "en-us"
 title = "Jessica S. Marquis"
 theme = "minimal"
-googleAnalytics = ""
 
 [params]
     author = "Jessia S. Marquis"
     description = "Personal blog theme powered by Hugo"
-    githubUsername = "#"
-    accent = "red"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
@@ -18,7 +15,7 @@ googleAnalytics = ""
 
 [[menu.main]]
     url = "/post/"
-    name = "Posts"
+    name = "Blog"
     weight = 2
 
 [[menu.main]]
