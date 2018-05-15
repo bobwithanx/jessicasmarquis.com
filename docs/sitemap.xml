@@ -3,1694 +3,1892 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jess.bobmarquis.com/2017/11/03/2017-11-the-poop-talk-embargo-and-its-fallout-html/</loc>
+    <loc>/blog/welcome/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/quick-start/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/custom-plugins/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/typography/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/typography/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/prototyping/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/grid/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/tables/</loc>
+    <lastmod>2017-04-10T16:40:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/forms/</loc>
+    <lastmod>2017-04-10T16:40:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/buttons/</loc>
+    <lastmod>2017-04-10T16:41:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/labels/</loc>
+    <lastmod>2017-04-10T16:40:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/messages/</loc>
+    <lastmod>2017-04-10T16:41:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/messages/</loc>
+    <lastmod>2017-04-10T16:41:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/tabs/</loc>
+    <lastmod>2017-04-10T16:41:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/breadcrumbs/</loc>
+    <lastmod>2017-04-10T16:41:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/pagination/</loc>
+    <lastmod>2017-04-10T16:42:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/dropdown/</loc>
+    <lastmod>2017-04-10T16:42:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/modal/</loc>
+    <lastmod>2017-04-10T16:42:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/sticky/</loc>
+    <lastmod>2017-04-10T16:42:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/collapse/</loc>
+    <lastmod>2017-04-10T16:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/collapse/</loc>
+    <lastmod>2017-04-10T16:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/offcanvas/</loc>
+    <lastmod>2017-04-10T16:42:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/toggleme/</loc>
+    <lastmod>2017-04-10T16:42:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/animation/</loc>
+    <lastmod>2017-04-10T16:43:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/colors/</loc>
+    <lastmod>2017-04-10T16:43:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/sizing/</loc>
+    <lastmod>2017-04-10T16:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/mixins/</loc>
+    <lastmod>2017-04-10T16:43:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/utils/</loc>
+    <lastmod>2017-04-10T16:43:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/11/03/2017-11-the-poop-talk-embargo-and-its-fallout-html/</loc>
     <lastmod>2017-11-03T21:25:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/</loc>
+    <loc>/2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/</loc>
     <lastmod>2017-09-19T23:43:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2017/04/27/2017-04-a-permission-slip-to-deconstruct-html/</loc>
+    <loc>/2017/04/27/2017-04-a-permission-slip-to-deconstruct-html/</loc>
     <lastmod>2017-04-27T23:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2017/04/19/2017-04-the-in-between-html/</loc>
+    <loc>/2017/04/19/2017-04-the-in-between-html/</loc>
     <lastmod>2017-04-19T22:51:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2017/03/05/2017-03-the-unexpected-discomfort-of-waking-up-html/</loc>
+    <loc>/blog/inline-style/</loc>
+    <lastmod>2017-04-02T21:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/03/05/2017-03-the-unexpected-discomfort-of-waking-up-html/</loc>
     <lastmod>2017-03-05T20:49:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2017/02/05/2017-02-why-my-kids-may-have-lot-of-hospital-html/</loc>
+    <loc>/2017/02/05/2017-02-why-my-kids-may-have-lot-of-hospital-html/</loc>
     <lastmod>2017-02-05T20:40:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/11/11/2016-11-church-please-html/</loc>
+    <loc>/2016/11/11/2016-11-church-please-html/</loc>
     <lastmod>2016-11-11T23:06:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/11/07/2016-11-excavating-accidentally-buried-talents-html/</loc>
+    <loc>/2016/11/07/2016-11-excavating-accidentally-buried-talents-html/</loc>
     <lastmod>2016-11-07T03:33:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/10/18/2016-10-my-ambivalent-fallout-with-bush-story-html/</loc>
+    <loc>/2016/10/18/2016-10-my-ambivalent-fallout-with-bush-story-html/</loc>
     <lastmod>2016-10-18T03:35:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/10/07/2016-10-cover-charge-html/</loc>
+    <loc>/2016/10/07/2016-10-cover-charge-html/</loc>
     <lastmod>2016-10-07T22:59:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/08/20/2016-08-where-are-my-eagle-wings-html/</loc>
+    <loc>/2016/08/20/2016-08-where-are-my-eagle-wings-html/</loc>
     <lastmod>2016-08-20T18:13:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/06/26/2016-06-uncle-marks-troublesome-toy-car-html/</loc>
+    <loc>/2016/06/26/2016-06-uncle-marks-troublesome-toy-car-html/</loc>
     <lastmod>2016-06-26T20:38:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/06/17/2016-06-snowflake-vigil-how-to-for-grief-and-html/</loc>
+    <loc>/2016/06/17/2016-06-snowflake-vigil-how-to-for-grief-and-html/</loc>
     <lastmod>2016-06-17T23:11:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/06/16/2016-06-presumptive-pain-sharing-html/</loc>
+    <loc>/2016/06/16/2016-06-presumptive-pain-sharing-html/</loc>
     <lastmod>2016-06-16T22:53:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/06/14/2016-06-forgotten-storylines-how-sitcoms-taught-html/</loc>
+    <loc>/2016/06/14/2016-06-forgotten-storylines-how-sitcoms-taught-html/</loc>
     <lastmod>2016-06-14T17:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/06/13/2016-06-snowflake-vigil-html/</loc>
+    <loc>/2016/06/13/2016-06-snowflake-vigil-html/</loc>
     <lastmod>2016-06-13T20:27:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/05/26/2016-05-confessions-of-idol-worshiper-html/</loc>
+    <loc>/2016/05/26/2016-05-confessions-of-idol-worshiper-html/</loc>
     <lastmod>2016-05-26T17:56:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/05/05/2016-05-of-obstacles-and-birdsongs-html/</loc>
+    <loc>/2016/05/05/2016-05-of-obstacles-and-birdsongs-html/</loc>
     <lastmod>2016-05-05T18:25:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/04/24/2016-04-casting-cast-html/</loc>
+    <loc>/2016/04/24/2016-04-casting-cast-html/</loc>
     <lastmod>2016-04-24T22:48:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/03/25/2016-03-too-close-to-define-html/</loc>
+    <loc>/2016/03/25/2016-03-too-close-to-define-html/</loc>
     <lastmod>2016-03-25T02:51:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/03/09/2016-03-the-commentary-track-html/</loc>
+    <loc>/2016/03/09/2016-03-the-commentary-track-html/</loc>
     <lastmod>2016-03-09T18:29:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/02/06/2016-02-waiting-for-taxi-html/</loc>
+    <loc>/2016/02/06/2016-02-waiting-for-taxi-html/</loc>
     <lastmod>2016-02-06T21:50:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/01/16/2016-01-on-spiritual-gluttony-html/</loc>
+    <loc>/2016/01/16/2016-01-on-spiritual-gluttony-html/</loc>
     <lastmod>2016-01-16T22:36:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2016/01/07/2016-01-the-countdown-html/</loc>
+    <loc>/2016/01/07/2016-01-the-countdown-html/</loc>
     <lastmod>2016-01-07T22:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/12/11/2015-12-from-other-side-of-chrysalis-html/</loc>
+    <loc>/2015/12/11/2015-12-from-other-side-of-chrysalis-html/</loc>
     <lastmod>2015-12-11T16:52:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/12/03/2015-12-letter-to-my-departed-friend-html/</loc>
+    <loc>/2015/12/03/2015-12-letter-to-my-departed-friend-html/</loc>
     <lastmod>2015-12-03T15:11:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/11/22/2015-11-cocoons-html/</loc>
+    <loc>/2015/11/22/2015-11-cocoons-html/</loc>
     <lastmod>2015-11-22T19:38:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/11/08/2015-11-holes-in-wood-html/</loc>
+    <loc>/2015/11/08/2015-11-holes-in-wood-html/</loc>
     <lastmod>2015-11-08T21:47:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/11/05/2015-11-trajectory-html/</loc>
+    <loc>/2015/11/05/2015-11-trajectory-html/</loc>
     <lastmod>2015-11-05T23:10:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/11/01/2015-11-toeing-line-html/</loc>
+    <loc>/2015/11/01/2015-11-toeing-line-html/</loc>
     <lastmod>2015-11-01T23:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/10/29/2015-10-fits-and-starts-html/</loc>
+    <loc>/2015/10/29/2015-10-fits-and-starts-html/</loc>
     <lastmod>2015-10-29T03:21:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/10/24/2015-10-burnt-out-on-burnout-html/</loc>
+    <loc>/2015/10/24/2015-10-burnt-out-on-burnout-html/</loc>
     <lastmod>2015-10-24T02:28:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/09/30/2015-09-digesting-with-gratitude-html/</loc>
+    <loc>/2015/09/30/2015-09-digesting-with-gratitude-html/</loc>
     <lastmod>2015-09-30T18:52:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/09/23/2015-09-of-lemons-and-lost-paychecks-html/</loc>
+    <loc>/2015/09/23/2015-09-of-lemons-and-lost-paychecks-html/</loc>
     <lastmod>2015-09-23T02:26:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/09/20/2015-09-from-mom-of-3-under-4-to-fff-html/</loc>
+    <loc>/2015/09/20/2015-09-from-mom-of-3-under-4-to-fff-html/</loc>
     <lastmod>2015-09-20T00:18:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/09/12/2015-09-the-inclusive-misfit-html/</loc>
+    <loc>/2015/09/12/2015-09-the-inclusive-misfit-html/</loc>
     <lastmod>2015-09-12T03:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/04/01/2015-04-corrosion-html/</loc>
+    <loc>/2015/04/01/2015-04-corrosion-html/</loc>
     <lastmod>2015-04-01T18:18:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/03/31/2015-03-eating-hands-html/</loc>
+    <loc>/2015/03/31/2015-03-eating-hands-html/</loc>
     <lastmod>2015-03-31T04:33:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/03/19/2015-03-should-you-stay-or-should-you-go-html/</loc>
+    <loc>/2015/03/19/2015-03-should-you-stay-or-should-you-go-html/</loc>
     <lastmod>2015-03-19T23:53:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/03/01/2015-02-the-power-of-relaxing-html/</loc>
+    <loc>/2015/03/01/2015-02-the-power-of-relaxing-html/</loc>
     <lastmod>2015-03-01T01:02:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2015/02/13/2015-02-the-consequences-of-cleansing-html/</loc>
+    <loc>/2015/02/13/2015-02-the-consequences-of-cleansing-html/</loc>
     <lastmod>2015-02-13T01:09:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/12/28/2014-12-pushing-together-or-pulling-apart-html/</loc>
+    <loc>/2014/12/28/2014-12-pushing-together-or-pulling-apart-html/</loc>
     <lastmod>2014-12-28T01:15:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/12/27/2014-12-redeemed-parenting-html/</loc>
+    <loc>/2014/12/27/2014-12-redeemed-parenting-html/</loc>
     <lastmod>2014-12-27T01:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/12/01/2014-12-welcome-to-world-html/</loc>
+    <loc>/2014/12/01/2014-12-welcome-to-world-html/</loc>
     <lastmod>2014-12-01T18:52:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/11/15/2014-11-milkweed-turns-1-year-old-isnt-moldy-yet-html/</loc>
+    <loc>/2014/11/15/2014-11-milkweed-turns-1-year-old-isnt-moldy-yet-html/</loc>
     <lastmod>2014-11-15T01:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/11/03/2014-11-sharing-victories-html/</loc>
+    <loc>/2014/11/03/2014-11-sharing-victories-html/</loc>
     <lastmod>2014-11-03T01:24:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/10/24/2014-10-as-women-as-moms-were-subtly-fed-lies-html/</loc>
+    <loc>/2014/10/24/2014-10-as-women-as-moms-were-subtly-fed-lies-html/</loc>
     <lastmod>2014-10-24T00:28:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/10/12/2014-10-grudge-removal-html/</loc>
+    <loc>/2014/10/12/2014-10-grudge-removal-html/</loc>
     <lastmod>2014-10-12T00:32:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/10/06/2014-10-dethroning-money-html/</loc>
+    <loc>/2014/10/06/2014-10-dethroning-money-html/</loc>
     <lastmod>2014-10-06T00:34:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/10/03/2014-10-flame-retardants-need-not-apply-html/</loc>
+    <loc>/2014/10/03/2014-10-flame-retardants-need-not-apply-html/</loc>
     <lastmod>2014-10-03T00:36:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/10/01/2014-09-its-okay-to-be-happy-html/</loc>
+    <loc>/2014/10/01/2014-09-its-okay-to-be-happy-html/</loc>
     <lastmod>2014-10-01T00:38:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/09/30/2014-09-we-are-more-than-just-givers-of-life-to-html/</loc>
+    <loc>/2014/09/30/2014-09-we-are-more-than-just-givers-of-life-to-html/</loc>
     <lastmod>2014-09-30T00:39:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/09/19/2014-09-temptation-is-html/</loc>
+    <loc>/2014/09/19/2014-09-temptation-is-html/</loc>
     <lastmod>2014-09-19T00:42:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/09/16/2014-09-5-minute-reflection-html/</loc>
+    <loc>/2014/09/16/2014-09-5-minute-reflection-html/</loc>
     <lastmod>2014-09-16T00:43:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/09/07/2014-09-sabbath-as-preemptive-strike-html/</loc>
+    <loc>/2014/09/07/2014-09-sabbath-as-preemptive-strike-html/</loc>
     <lastmod>2014-09-07T00:45:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/08/31/2014-08-what-everyone-needs-in-their-medicine-html/</loc>
+    <loc>/2014/08/31/2014-08-what-everyone-needs-in-their-medicine-html/</loc>
     <lastmod>2014-08-31T00:48:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/08/29/2014-08-when-your-sin-isnt-cool-enough-html/</loc>
+    <loc>/2014/08/29/2014-08-when-your-sin-isnt-cool-enough-html/</loc>
     <lastmod>2014-08-29T00:50:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/08/27/2014-08-an-incomplete-intro-to-fasting-html/</loc>
+    <loc>/2014/08/27/2014-08-an-incomplete-intro-to-fasting-html/</loc>
     <lastmod>2014-08-27T00:52:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/08/24/2014-08-being-chosen-one-html/</loc>
+    <loc>/2014/08/24/2014-08-being-chosen-one-html/</loc>
     <lastmod>2014-08-24T01:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/08/22/2014-08-wasted-words-html/</loc>
+    <loc>/2014/08/22/2014-08-wasted-words-html/</loc>
     <lastmod>2014-08-22T01:01:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/08/18/2014-08-purposeful-parenting-html/</loc>
+    <loc>/2014/08/18/2014-08-purposeful-parenting-html/</loc>
     <lastmod>2014-08-18T01:03:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/07/30/2014-07-banishing-bad-moms-html/</loc>
+    <loc>/2014/07/30/2014-07-banishing-bad-moms-html/</loc>
     <lastmod>2014-07-30T01:10:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/06/02/2014-06-working-with-whimsy-or-me-on-film-html/</loc>
+    <loc>/2014/06/02/2014-06-working-with-whimsy-or-me-on-film-html/</loc>
     <lastmod>2014-06-02T04:14:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/04/22/2014-04-thinking-straight-html/</loc>
+    <loc>/2014/04/22/2014-04-thinking-straight-html/</loc>
     <lastmod>2014-04-22T01:15:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/04/16/2014-04-affection-reflection-html/</loc>
+    <loc>/2014/04/16/2014-04-affection-reflection-html/</loc>
     <lastmod>2014-04-16T01:16:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/04/03/2014-04-the-lie-of-guilt-html/</loc>
+    <loc>/2014/04/03/2014-04-the-lie-of-guilt-html/</loc>
     <lastmod>2014-04-03T01:19:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/03/30/2014-03-sacred-setbacks-html/</loc>
+    <loc>/2014/03/30/2014-03-sacred-setbacks-html/</loc>
     <lastmod>2014-03-30T01:19:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/03/12/2014-03-rescue-html/</loc>
+    <loc>/2014/03/12/2014-03-rescue-html/</loc>
     <lastmod>2014-03-12T01:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/03/06/2014-03-just-as-i-am-html/</loc>
+    <loc>/2014/03/06/2014-03-just-as-i-am-html/</loc>
     <lastmod>2014-03-06T02:23:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/02/27/2014-02-walls-focus-html/</loc>
+    <loc>/2014/02/27/2014-02-walls-focus-html/</loc>
     <lastmod>2014-02-27T02:24:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/02/05/2014-02-new-diet-html/</loc>
+    <loc>/2014/02/05/2014-02-new-diet-html/</loc>
     <lastmod>2014-02-05T02:26:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2014/01/17/2014-01-in-praise-of-dedicated-mamas-html/</loc>
+    <loc>/2014/01/17/2014-01-in-praise-of-dedicated-mamas-html/</loc>
     <lastmod>2014-01-17T03:19:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2013/12/05/2013-12-stocking-stuffer-html/</loc>
+    <loc>/2013/12/05/2013-12-stocking-stuffer-html/</loc>
     <lastmod>2013-12-05T03:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2013/11/29/2013-11-giving-thanks-when-your-heart-hurts-html/</loc>
+    <loc>/2013/11/29/2013-11-giving-thanks-when-your-heart-hurts-html/</loc>
     <lastmod>2013-11-29T03:24:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2013/11/23/2013-11-boundaries-primer-html/</loc>
+    <loc>/2013/11/23/2013-11-boundaries-primer-html/</loc>
     <lastmod>2013-11-23T03:43:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2013/11/11/2013-11-an-unnecessary-cover-up-html/</loc>
+    <loc>/2013/11/11/2013-11-an-unnecessary-cover-up-html/</loc>
     <lastmod>2013-11-11T03:41:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2013/11/08/2013-11-wise-prepping-html/</loc>
+    <loc>/2013/11/08/2013-11-wise-prepping-html/</loc>
     <lastmod>2013-11-08T03:40:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2013/11/06/2013-11-blog-post-html/</loc>
+    <loc>/2013/11/06/2013-11-blog-post-html/</loc>
     <lastmod>2013-11-06T03:39:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2013/10/26/2013-10-rest-again-html/</loc>
+    <loc>/2013/10/26/2013-10-rest-again-html/</loc>
     <lastmod>2013-10-26T02:36:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2013/10/23/2013-10-rest-html/</loc>
+    <loc>/2013/10/23/2013-10-rest-html/</loc>
     <lastmod>2013-10-23T02:35:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2013/10/10/2013-10-milkweed-cottonwood-im-back-html/</loc>
+    <loc>/2013/10/10/2013-10-milkweed-cottonwood-im-back-html/</loc>
     <lastmod>2013-10-10T02:54:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2013/03/28/2013-03-harmony-vs-melody-html/</loc>
+    <loc>/2013/03/28/2013-03-harmony-vs-melody-html/</loc>
     <lastmod>2013-03-28T02:25:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/04/14/2010-04-day-94-html/</loc>
+    <loc>/2010/04/14/2010-04-day-94-html/</loc>
     <lastmod>2010-04-14T14:05:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/03/10/2010-03-day-69-html/</loc>
+    <loc>/2010/03/10/2010-03-day-69-html/</loc>
     <lastmod>2010-03-10T14:54:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/02/24/2010-02-day-55-html/</loc>
+    <loc>/2010/02/24/2010-02-day-55-html/</loc>
     <lastmod>2010-02-24T14:54:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/02/12/2010-02-day-43-html/</loc>
+    <loc>/2010/02/12/2010-02-day-43-html/</loc>
     <lastmod>2010-02-12T15:10:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/02/11/2010-02-day-41-html/</loc>
+    <loc>/2010/02/11/2010-02-day-41-html/</loc>
     <lastmod>2010-02-11T01:31:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/02/08/2010-02-days-31-39-html/</loc>
+    <loc>/2010/02/08/2010-02-days-31-39-html/</loc>
     <lastmod>2010-02-08T15:02:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/31/2010-01-days-26-30-html/</loc>
+    <loc>/2010/01/31/2010-01-days-26-30-html/</loc>
     <lastmod>2010-01-31T01:34:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/26/2010-01-days-22-25-html/</loc>
+    <loc>/2010/01/26/2010-01-days-22-25-html/</loc>
     <lastmod>2010-01-26T04:38:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/22/2010-01-day-21-html/</loc>
+    <loc>/2010/01/22/2010-01-day-21-html/</loc>
     <lastmod>2010-01-22T05:11:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/21/2010-01-days-19-20-html/</loc>
+    <loc>/2010/01/21/2010-01-days-19-20-html/</loc>
     <lastmod>2010-01-21T01:13:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/18/2010-01-days-15-18-html/</loc>
+    <loc>/2010/01/18/2010-01-days-15-18-html/</loc>
     <lastmod>2010-01-18T16:35:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/15/2010-01-days-13-14-html/</loc>
+    <loc>/2010/01/15/2010-01-days-13-14-html/</loc>
     <lastmod>2010-01-15T14:57:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/13/2010-01-day-12-html/</loc>
+    <loc>/2010/01/13/2010-01-day-12-html/</loc>
     <lastmod>2010-01-13T04:51:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/11/2010-01-days-10-11-html/</loc>
+    <loc>/2010/01/11/2010-01-days-10-11-html/</loc>
     <lastmod>2010-01-11T15:04:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/10/2010-01-day-9-new-face-html/</loc>
+    <loc>/2010/01/10/2010-01-day-9-new-face-html/</loc>
     <lastmod>2010-01-10T01:04:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/08/2010-01-day-8-disconnect-to-connect-html/</loc>
+    <loc>/2010/01/08/2010-01-day-8-disconnect-to-connect-html/</loc>
     <lastmod>2010-01-08T14:56:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/07/2010-01-day-7-html/</loc>
+    <loc>/2010/01/07/2010-01-day-7-html/</loc>
     <lastmod>2010-01-07T15:54:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/06/2010-01-day-5-6-html/</loc>
+    <loc>/2010/01/06/2010-01-day-5-6-html/</loc>
     <lastmod>2010-01-06T15:55:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/05/2010-01-day-4-update-html/</loc>
+    <loc>/2010/01/05/2010-01-day-4-update-html/</loc>
     <lastmod>2010-01-05T04:53:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/04/2010-01-day-3-4-html/</loc>
+    <loc>/2010/01/04/2010-01-day-3-4-html/</loc>
     <lastmod>2010-01-04T14:46:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/02/2010-01-day-2-html/</loc>
+    <loc>/2010/01/02/2010-01-day-2-html/</loc>
     <lastmod>2010-01-02T16:43:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/01/2010-01-first-morning-html/</loc>
+    <loc>/2010/01/01/2010-01-first-morning-html/</loc>
     <lastmod>2010-01-01T19:11:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2010/01/01/2009-12-introducing-pash10-html/</loc>
+    <loc>/2010/01/01/2009-12-introducing-pash10-html/</loc>
     <lastmod>2010-01-01T01:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2009/05/03/2009-05-weeding-html/</loc>
+    <loc>/2009/05/03/2009-05-weeding-html/</loc>
     <lastmod>2009-05-03T16:19:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2009/01/11/2009-01-un-compartmentalizing-html/</loc>
+    <loc>/2009/01/11/2009-01-un-compartmentalizing-html/</loc>
     <lastmod>2009-01-11T16:02:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/12/27/2008-12-garden-talk-html/</loc>
+    <loc>/2008/12/27/2008-12-garden-talk-html/</loc>
     <lastmod>2008-12-27T04:29:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/12/13/2008-12-tidings-of-joy-suffering-html/</loc>
+    <loc>/2008/12/13/2008-12-tidings-of-joy-suffering-html/</loc>
     <lastmod>2008-12-13T17:56:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/12/04/2008-12-another-gift-html/</loc>
+    <loc>/2008/12/04/2008-12-another-gift-html/</loc>
     <lastmod>2008-12-04T04:33:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/11/25/2008-11-mouth-trap-html/</loc>
+    <loc>/2008/11/25/2008-11-mouth-trap-html/</loc>
     <lastmod>2008-11-25T04:56:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/11/18/2008-11-leaning-on-that-which-stands-on-its-own-html/</loc>
+    <loc>/2008/11/18/2008-11-leaning-on-that-which-stands-on-its-own-html/</loc>
     <lastmod>2008-11-18T03:26:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/11/12/2008-11-myth-of-achieving-happiness-html/</loc>
+    <loc>/2008/11/12/2008-11-myth-of-achieving-happiness-html/</loc>
     <lastmod>2008-11-12T14:43:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/11/08/2008-11-trees-such-html/</loc>
+    <loc>/2008/11/08/2008-11-trees-such-html/</loc>
     <lastmod>2008-11-08T02:33:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/10/31/2008-10-giving-thanks-when-things-suck-html/</loc>
+    <loc>/2008/10/31/2008-10-giving-thanks-when-things-suck-html/</loc>
     <lastmod>2008-10-31T00:50:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/10/22/2008-10-in-motion-out-of-strength-html/</loc>
+    <loc>/2008/10/22/2008-10-in-motion-out-of-strength-html/</loc>
     <lastmod>2008-10-22T05:11:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/10/16/2008-10-black-hole-html/</loc>
+    <loc>/2008/10/16/2008-10-black-hole-html/</loc>
     <lastmod>2008-10-16T04:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/10/10/2008-10-dirty-rag-problem-html/</loc>
+    <loc>/2008/10/10/2008-10-dirty-rag-problem-html/</loc>
     <lastmod>2008-10-10T06:13:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/09/26/2008-09-upgrading-dream-10-html/</loc>
+    <loc>/2008/09/26/2008-09-upgrading-dream-10-html/</loc>
     <lastmod>2008-09-26T17:01:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/09/19/2008-09-day-30-html/</loc>
+    <loc>/2008/09/19/2008-09-day-30-html/</loc>
     <lastmod>2008-09-19T14:12:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/09/16/2008-09-prayer-html/</loc>
+    <loc>/2008/09/16/2008-09-prayer-html/</loc>
     <lastmod>2008-09-16T14:41:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/09/07/2008-09-foot-bath-html/</loc>
+    <loc>/2008/09/07/2008-09-foot-bath-html/</loc>
     <lastmod>2008-09-07T15:50:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/08/31/2008-08-unsettling-down-html/</loc>
+    <loc>/2008/08/31/2008-08-unsettling-down-html/</loc>
     <lastmod>2008-08-31T16:09:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/08/16/2008-08-legos-html/</loc>
+    <loc>/2008/08/16/2008-08-legos-html/</loc>
     <lastmod>2008-08-16T14:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/08/09/2008-08-kids-these-days-html/</loc>
+    <loc>/2008/08/09/2008-08-kids-these-days-html/</loc>
     <lastmod>2008-08-09T19:53:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/08/07/2008-08-title-of-song-html/</loc>
+    <loc>/2008/08/07/2008-08-title-of-song-html/</loc>
     <lastmod>2008-08-07T03:35:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/08/03/2008-08-being-human-html/</loc>
+    <loc>/2008/08/03/2008-08-being-human-html/</loc>
     <lastmod>2008-08-03T02:28:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/2008/07/28/2008-07-preview-html/</loc>
+    <loc>/2008/07/28/2008-07-preview-html/</loc>
     <lastmod>2008-07-28T00:18:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2010-01-01T01:17:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/1-thessalonians/</loc>
+    <loc>/tags/1-thessalonians/</loc>
     <lastmod>2010-02-24T14:54:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/2010/</loc>
+    <loc>/tags/2010/</loc>
     <lastmod>2010-01-01T01:17:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/90-days/</loc>
+    <loc>/tags/90-days/</loc>
     <lastmod>2008-09-19T14:12:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/accepting/</loc>
+    <loc>/tags/accepting/</loc>
     <lastmod>2017-09-19T23:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/ache/</loc>
+    <loc>/tags/ache/</loc>
     <lastmod>2010-02-12T15:10:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/addiction/</loc>
+    <loc>/tags/addiction/</loc>
     <lastmod>2016-06-26T20:38:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/advocacy/</loc>
+    <loc>/tags/advocacy/</loc>
     <lastmod>2017-03-05T20:49:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/alcoholism/</loc>
+    <loc>/tags/alcoholism/</loc>
     <lastmod>2016-06-26T20:38:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/alignment/</loc>
+    <loc>/tags/alignment/</loc>
     <lastmod>2010-01-18T16:35:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/am-gratitude/</loc>
+    <loc>/tags/am-gratitude/</loc>
     <lastmod>2010-02-24T14:54:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/anger/</loc>
+    <loc>/tags/anger/</loc>
     <lastmod>2016-06-13T20:27:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/annoyance/</loc>
+    <loc>/tags/annoyance/</loc>
     <lastmod>2010-02-08T15:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/anxiety/</loc>
+    <loc>/tags/anxiety/</loc>
     <lastmod>2017-03-05T20:49:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/apostle-paul/</loc>
+    <loc>/tags/apostle-paul/</loc>
     <lastmod>2010-02-12T15:10:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/authenticity/</loc>
+    <loc>/tags/authenticity/</loc>
     <lastmod>2010-04-14T14:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/awe/</loc>
+    <loc>/tags/awe/</loc>
     <lastmod>2008-08-16T14:20:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/boundaries/</loc>
+    <loc>/blog/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/boundaries/</loc>
     <lastmod>2016-06-26T20:38:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/burnout/</loc>
+    <loc>/tags/burnout/</loc>
     <lastmod>2015-10-24T02:28:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/busyness/</loc>
+    <loc>/tags/busyness/</loc>
     <lastmod>2016-04-24T22:48:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/butterflies/</loc>
+    <loc>/tags/butterflies/</loc>
     <lastmod>2017-04-27T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/cast/</loc>
+    <loc>/tags/cast/</loc>
     <lastmod>2017-09-19T23:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/celebration/</loc>
+    <loc>/tags/celebration/</loc>
     <lastmod>2010-02-11T01:31:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/challenge/</loc>
+    <loc>/tags/challenge/</loc>
     <lastmod>2016-03-25T02:51:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/change/</loc>
+    <loc>/tags/change/</loc>
     <lastmod>2016-03-09T18:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/changing-routine/</loc>
+    <loc>/tags/changing-routine/</loc>
     <lastmod>2010-01-31T01:34:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/children/</loc>
+    <loc>/tags/children/</loc>
     <lastmod>2017-11-03T21:25:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/church/</loc>
+    <loc>/tags/church/</loc>
     <lastmod>2017-04-19T22:51:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/church-orphans/</loc>
+    <loc>/tags/church-orphans/</loc>
     <lastmod>2017-04-19T22:51:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/clogged-arteries/</loc>
+    <loc>/tags/clogged-arteries/</loc>
     <lastmod>2010-01-18T16:35:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/closing-eyes/</loc>
+    <loc>/tags/closing-eyes/</loc>
     <lastmod>2010-01-21T01:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/cocoon/</loc>
+    <loc>/tags/cocoon/</loc>
     <lastmod>2015-12-11T16:52:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/commitment/</loc>
+    <loc>/tags/commitment/</loc>
     <lastmod>2016-01-07T22:08:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/community/</loc>
+    <loc>/tags/community/</loc>
     <lastmod>2016-04-24T22:48:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/compassion/</loc>
+    <loc>/company/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/compassion/</loc>
     <lastmod>2017-03-05T20:49:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/consistency/</loc>
+    <loc>/tags/consistency/</loc>
     <lastmod>2015-10-29T03:21:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/creations/</loc>
+    <loc>/creations/</loc>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/creativity/</loc>
+    <loc>/tags/creativity/</loc>
     <lastmod>2010-04-14T14:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/daniel-fast/</loc>
+    <loc>/tags/daniel-fast/</loc>
     <lastmod>2016-01-16T22:36:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/date-night/</loc>
+    <loc>/tags/date-night/</loc>
     <lastmod>2010-01-05T04:53:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/debt/</loc>
+    <loc>/tags/debt/</loc>
     <lastmod>2010-01-07T15:54:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/deconstruction/</loc>
+    <loc>/tags/deconstruction/</loc>
     <lastmod>2017-04-27T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/deferred-opportunities/</loc>
+    <loc>/tags/deferred-opportunities/</loc>
     <lastmod>2010-03-10T14:54:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/depression/</loc>
+    <loc>/tags/depression/</loc>
     <lastmod>2017-03-05T20:49:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/development/</loc>
+    <loc>/categories/design/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
     <lastmod>2017-09-19T23:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/disciples/</loc>
+    <loc>/tags/disciples/</loc>
     <lastmod>2015-12-11T16:52:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/discipline/</loc>
+    <loc>/tags/discipline/</loc>
     <lastmod>2015-10-29T03:21:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/discrimination/</loc>
+    <loc>/tags/discrimination/</loc>
     <lastmod>2017-03-05T20:49:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/dismantling/</loc>
+    <loc>/tags/dismantling/</loc>
     <lastmod>2017-04-27T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/division/</loc>
+    <loc>/tags/division/</loc>
     <lastmod>2016-11-11T23:06:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/doubt/</loc>
+    <loc>/docs/</loc>
+    <lastmod>2017-04-10T16:40:43+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/doubt/</loc>
     <lastmod>2017-04-27T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/driving/</loc>
+    <loc>/tags/driving/</loc>
     <lastmod>2010-01-06T15:55:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/emotions/</loc>
+    <loc>/tags/emotions/</loc>
     <lastmod>2017-03-05T20:49:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/energy/</loc>
+    <loc>/tags/energy/</loc>
     <lastmod>2010-04-14T14:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/enjoyment/</loc>
+    <loc>/tags/enjoyment/</loc>
     <lastmod>2010-04-14T14:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/eros/</loc>
+    <loc>/tags/eros/</loc>
     <lastmod>2010-02-12T15:10:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/events/</loc>
+    <loc>/tags/events/</loc>
     <lastmod>2017-09-19T23:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/faith/</loc>
+    <loc>/tags/example/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/faith/</loc>
     <lastmod>2017-04-19T22:51:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/family/</loc>
+    <loc>/tags/family/</loc>
     <lastmod>2016-05-26T17:56:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/fasting/</loc>
+    <loc>/tags/fasting/</loc>
     <lastmod>2016-01-16T22:36:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/fear/</loc>
+    <loc>/tags/fear/</loc>
     <lastmod>2016-05-05T18:25:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/feelings/</loc>
+    <loc>/tags/feelings/</loc>
     <lastmod>2010-02-08T15:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/filming/</loc>
+    <loc>/tags/filming/</loc>
     <lastmod>2010-03-10T14:54:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/financial-peace/</loc>
+    <loc>/tags/financial-peace/</loc>
     <lastmod>2010-01-07T15:54:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/flow/</loc>
+    <loc>/tags/flow/</loc>
     <lastmod>2010-01-15T14:57:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/forgiveness/</loc>
+    <loc>/tags/forgiveness/</loc>
     <lastmod>2016-02-06T21:50:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/friendship/</loc>
+    <loc>/tags/friendship/</loc>
     <lastmod>2017-03-05T20:49:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/goals/</loc>
+    <loc>/categories/general/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/goals/</loc>
     <lastmod>2017-09-19T23:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/goodbye/</loc>
+    <loc>/tags/goodbye/</loc>
     <lastmod>2015-11-22T19:38:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/grace/</loc>
+    <loc>/tags/grace/</loc>
     <lastmod>2016-08-20T18:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/grief/</loc>
+    <loc>/tags/grief/</loc>
     <lastmod>2017-04-19T22:51:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/growth/</loc>
+    <loc>/tags/growth/</loc>
     <lastmod>2016-10-18T03:35:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/guilt/</loc>
+    <loc>/tags/guilt/</loc>
     <lastmod>2010-01-11T15:04:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/happy-hour/</loc>
+    <loc>/tags/happy-hour/</loc>
     <lastmod>2010-01-05T04:53:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/healing/</loc>
+    <loc>/tags/healing/</loc>
     <lastmod>2016-05-05T18:25:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/hope/</loc>
+    <loc>/tags/hope/</loc>
     <lastmod>2010-02-11T01:31:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/humility/</loc>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/humility/</loc>
     <lastmod>2015-10-29T03:21:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/husband/</loc>
+    <loc>/tags/husband/</loc>
     <lastmod>2010-01-26T04:38:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/idolatry/</loc>
+    <loc>/tags/idolatry/</loc>
     <lastmod>2016-05-26T17:56:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/ignoring-passion/</loc>
+    <loc>/tags/ignoring-passion/</loc>
     <lastmod>2010-02-24T14:54:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/illness/</loc>
+    <loc>/tags/illness/</loc>
     <lastmod>2015-12-03T15:11:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/in-the-moment/</loc>
+    <loc>/tags/in-the-moment/</loc>
     <lastmod>2010-01-10T01:04:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/inconsistency/</loc>
+    <loc>/tags/inconsistency/</loc>
     <lastmod>2015-10-29T03:21:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/</loc>
-    <lastmod>2017-11-03T21:25:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/jesus/</loc>
+    <loc>/tags/jesus/</loc>
     <lastmod>2017-03-05T20:49:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/kids/</loc>
+    <loc>/tags/kids/</loc>
     <lastmod>2016-06-26T20:38:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/killing-dreams/</loc>
+    <loc>/tags/killing-dreams/</loc>
     <lastmod>2010-01-18T16:35:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/leadership/</loc>
+    <loc>/tags/leadership/</loc>
     <lastmod>2016-11-07T03:33:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/lgbtq/</loc>
+    <loc>/tags/lgbtq/</loc>
     <lastmod>2017-04-19T22:51:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/listening/</loc>
+    <loc>/tags/listening/</loc>
     <lastmod>2016-06-16T22:53:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/love/</loc>
+    <loc>/tags/love/</loc>
     <lastmod>2016-11-11T23:06:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/makeup/</loc>
+    <loc>/tags/makeup/</loc>
     <lastmod>2010-01-10T01:04:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/marriage/</loc>
+    <loc>/tags/markdown/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/marriage/</loc>
     <lastmod>2015-09-30T18:52:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/mascara/</loc>
+    <loc>/tags/mascara/</loc>
     <lastmod>2010-01-10T01:04:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/maturity/</loc>
+    <loc>/tags/maturity/</loc>
     <lastmod>2017-04-27T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/mental-illness/</loc>
+    <loc>/tags/mental-illness/</loc>
     <lastmod>2016-06-26T20:38:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/metaphor/</loc>
+    <loc>/tags/metaphor/</loc>
     <lastmod>2016-06-26T20:38:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/milkweed/</loc>
+    <loc>/tags/milkweed/</loc>
     <lastmod>2015-11-22T19:38:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/ministry/</loc>
+    <loc>/tags/ministry/</loc>
     <lastmod>2016-05-05T18:25:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/morning/</loc>
+    <loc>/tags/morning/</loc>
     <lastmod>2010-01-06T15:55:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/mourning/</loc>
+    <loc>/tags/mourning/</loc>
     <lastmod>2016-06-17T23:11:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/movement/</loc>
+    <loc>/tags/movement/</loc>
     <lastmod>2010-01-04T14:46:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/movies/</loc>
+    <loc>/tags/movies/</loc>
     <lastmod>2010-01-26T04:38:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/new-years-day/</loc>
+    <loc>/tags/new-years-day/</loc>
     <lastmod>2010-01-02T16:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/numb/</loc>
+    <loc>/tags/numb/</loc>
     <lastmod>2016-08-20T18:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/openness/</loc>
+    <loc>/tags/openness/</loc>
     <lastmod>2010-04-14T14:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/overview/</loc>
+    <loc>/tags/overview/</loc>
     <lastmod>2010-01-01T01:17:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/pain/</loc>
+    <loc>/tags/pain/</loc>
     <lastmod>2016-10-18T03:35:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/parable/</loc>
+    <loc>/tags/parable/</loc>
     <lastmod>2016-03-09T18:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/pash10/</loc>
+    <loc>/tags/pash10/</loc>
     <lastmod>2010-01-01T01:17:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/passion/</loc>
+    <loc>/tags/passion/</loc>
     <lastmod>2016-03-25T02:51:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/passion-blockers/</loc>
+    <loc>/tags/passion-blockers/</loc>
     <lastmod>2010-03-10T14:54:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/peace/</loc>
+    <loc>/password-recovery/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/peace/</loc>
     <lastmod>2010-01-15T14:57:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/philos/</loc>
+    <loc>/tags/philos/</loc>
     <lastmod>2010-02-12T15:10:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/phoenix/</loc>
+    <loc>/tags/phoenix/</loc>
     <lastmod>2010-01-02T16:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/planning/</loc>
+    <loc>/tags/planning/</loc>
     <lastmod>2017-09-19T23:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/posts/</loc>
-    <lastmod>2017-11-03T21:25:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jess.bobmarquis.com/tags/prayer/</loc>
+    <loc>/tags/prayer/</loc>
     <lastmod>2016-01-07T22:08:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/preparation/</loc>
+    <loc>/tags/preparation/</loc>
     <lastmod>2016-01-07T22:08:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/progress/</loc>
+    <loc>/tags/progress/</loc>
     <lastmod>2017-09-19T23:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/projects/</loc>
+    <loc>/tags/projects/</loc>
     <lastmod>2017-09-19T23:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/redemption/</loc>
+    <loc>/tags/prototype/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/redemption/</loc>
     <lastmod>2016-10-18T03:35:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/relationships/</loc>
+    <loc>/tags/relationships/</loc>
     <lastmod>2010-01-04T14:46:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/relaxing/</loc>
+    <loc>/tags/relaxing/</loc>
     <lastmod>2010-01-02T16:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/rest/</loc>
+    <loc>/tags/rest/</loc>
     <lastmod>2016-05-05T18:25:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/restoration/</loc>
+    <loc>/tags/restoration/</loc>
     <lastmod>2016-11-11T23:06:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/role-model/</loc>
+    <loc>/tags/role-model/</loc>
     <lastmod>2010-01-22T05:11:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/rules/</loc>
+    <loc>/tags/rules/</loc>
     <lastmod>2017-11-03T21:25:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/sacrifice/</loc>
+    <loc>/tags/sacrifice/</loc>
     <lastmod>2016-10-07T22:59:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/sailbear/</loc>
+    <loc>/tags/sailbear/</loc>
     <lastmod>2010-01-26T04:38:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/security/</loc>
+    <loc>/tags/security/</loc>
     <lastmod>2010-01-31T01:34:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/seeds/</loc>
+    <loc>/tags/seeds/</loc>
     <lastmod>2016-03-09T18:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/sensations/</loc>
+    <loc>/tags/sensations/</loc>
     <lastmod>2010-01-21T01:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/senses/</loc>
+    <loc>/tags/senses/</loc>
     <lastmod>2010-01-21T01:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/serving/</loc>
+    <loc>/tags/serving/</loc>
     <lastmod>2009-01-11T16:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/sex/</loc>
+    <loc>/tags/sex/</loc>
     <lastmod>2015-11-01T23:20:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/shame/</loc>
+    <loc>/tags/shame/</loc>
     <lastmod>2010-01-11T15:04:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/simplifying/</loc>
+    <loc>/account/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/simplifying/</loc>
     <lastmod>2010-01-15T14:57:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/sin/</loc>
+    <loc>/tags/sin/</loc>
     <lastmod>2015-11-08T21:47:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/snowflake-vigil/</loc>
+    <loc>/tags/snowflake-vigil/</loc>
     <lastmod>2016-06-17T23:11:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/social-justice/</loc>
+    <loc>/tags/social-justice/</loc>
     <lastmod>2017-11-03T21:25:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/sower/</loc>
+    <loc>/tags/sower/</loc>
     <lastmod>2016-03-09T18:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/spiritual-gifts/</loc>
+    <loc>/tags/spiritual-gifts/</loc>
     <lastmod>2016-11-07T03:33:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/spiritual-growth/</loc>
+    <loc>/tags/spiritual-growth/</loc>
     <lastmod>2016-01-16T22:36:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/stirred-up/</loc>
+    <loc>/tags/stirred-up/</loc>
     <lastmod>2010-01-31T01:34:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/storytelling/</loc>
+    <loc>/tags/storytelling/</loc>
     <lastmod>2016-03-09T18:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/strategy/</loc>
+    <loc>/tags/strategy/</loc>
     <lastmod>2017-09-19T23:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/substance-abuse/</loc>
+    <loc>/tags/substance-abuse/</loc>
     <lastmod>2016-06-26T20:38:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/surrender/</loc>
+    <loc>/tags/surrender/</loc>
     <lastmod>2016-10-18T03:35:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2010-01-01T01:17:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/temptation/</loc>
+    <loc>/tags/temptation/</loc>
     <lastmod>2015-11-01T23:20:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/testimony/</loc>
+    <loc>/tags/testimony/</loc>
     <lastmod>2015-11-08T21:47:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/thanks/</loc>
+    <loc>/tags/thanks/</loc>
     <lastmod>2010-02-24T14:54:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/the-body/</loc>
+    <loc>/tags/the-body/</loc>
     <lastmod>2008-08-16T14:20:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/the-great-commission/</loc>
+    <loc>/tags/the-great-commission/</loc>
     <lastmod>2015-12-11T16:52:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/theme/</loc>
+    <loc>/tags/theme/</loc>
     <lastmod>2010-01-01T01:17:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/time-travel/</loc>
+    <loc>/tags/time-travel/</loc>
     <lastmod>2016-03-09T18:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/together/</loc>
+    <loc>/tags/together/</loc>
     <lastmod>2016-03-25T02:51:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/toy-train/</loc>
+    <loc>/tags/toy-train/</loc>
     <lastmod>2016-06-26T20:38:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/tragedy/</loc>
+    <loc>/tags/tragedy/</loc>
     <lastmod>2016-06-13T20:27:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/trees/</loc>
+    <loc>/tags/trees/</loc>
     <lastmod>2009-05-03T16:19:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/trust/</loc>
+    <loc>/tags/trust/</loc>
     <lastmod>2016-03-25T02:51:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/truth/</loc>
+    <loc>/tags/truth/</loc>
     <lastmod>2017-04-27T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/categories/uncategorized/</loc>
+    <loc>/categories/uncategorized/</loc>
     <lastmod>2017-11-03T21:25:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/unity/</loc>
+    <loc>/tags/unity/</loc>
     <lastmod>2016-11-11T23:06:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/unplanned/</loc>
+    <loc>/tags/unplanned/</loc>
     <lastmod>2010-01-31T01:34:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/unscheduled/</loc>
+    <loc>/tags/unscheduled/</loc>
     <lastmod>2010-01-05T04:53:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/waiting/</loc>
+    <loc>/tags/waiting/</loc>
     <lastmod>2017-03-05T20:49:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/weeds/</loc>
+    <loc>/tags/weeds/</loc>
     <lastmod>2009-05-03T16:19:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/whiteaugusttea.com/</loc>
+    <loc>/tags/whiteaugusttea.com/</loc>
     <lastmod>2010-01-02T16:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/women/</loc>
+    <loc>/tags/women/</loc>
     <lastmod>2016-11-07T03:33:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/words/</loc>
+    <loc>/tags/words/</loc>
     <lastmod>2008-11-25T04:56:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/work/</loc>
+    <loc>/tags/work/</loc>
     <lastmod>2010-04-14T14:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/worship/</loc>
+    <loc>/tags/worship/</loc>
     <lastmod>2016-03-25T02:51:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jess.bobmarquis.com/tags/writing/</loc>
+    <loc>/tags/writing/</loc>
     <lastmod>2017-09-19T23:43:00+00:00</lastmod>
     <priority>0</priority>
   </url>
