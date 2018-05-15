@@ -10,15 +10,45 @@ staticDir2 = "static"
 [Params]
   RSSLink = "/index.xml"
   author = "Jessica S. Marquis" # add your company name
-  github = "" # add your github profile name
-  twitter = "bizette" # add your twitter profile
-  email = "myemail@myaddress.xxx"
+  accent = "red"
+  showBorder = true
+  font = "Raleway" # should match the name on Google Fonts!
 
 [[menu.main]]
     name = "Blog"
-    weight = -100
+    weight = 100
     url = "/blog/"
 [[menu.main]]
     name = "Creations"
     weight = -100
     url = "/creations/"
+
+[[menu.icon]]
+    url = "mailto:jessica@jessicasmarquis.com"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://twitter.com/bizette/"
+    name = "twitter"
+    weight = 1
+
+[[menu.icon]]
+    url = "http://facebook.com/jessicadoesstuff/"
+    name = "facebook"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://www.amazon.com/Jessica-S.-Marquis/e/B005CADOH4/"
+    name = "amazon"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://www.goodreads.com/author/show/4527822.Jessica_S_Marquis/"
+    name = "book"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/jsmarquis/"
+    name = "linkedin"
+    weight = 4
