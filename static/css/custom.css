@@ -34,6 +34,15 @@
 
 }
 
+#overlay {
+  @include blur(5px);
+}
+
+figure:hover #overlay {
+  @include blur(5px);
+}
+
+
 #footer nav ul li { margin-left: unset;
 }
 

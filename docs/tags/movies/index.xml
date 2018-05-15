@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Movies on Jessica S. Marquis</title>
-    <link>http://jess.bobmarquis.com/tags/movies/</link>
+    <link>/tags/movies/</link>
     <description>Recent content in Movies on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Tue, 26 Jan 2010 04:38:00 +0000</lastBuildDate>
     
-	<atom:link href="http://jess.bobmarquis.com/tags/movies/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/movies/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>days #22-#25</title>
-      <link>http://jess.bobmarquis.com/2010/01/26/2010-01-days-22-25-html/</link>
+      <link>/2010/01/26/2010-01-days-22-25-html/</link>
       <pubDate>Tue, 26 Jan 2010 04:38:00 +0000</pubDate>
       
-      <guid>http://jess.bobmarquis.com/2010/01/26/2010-01-days-22-25-html/</guid>
+      <guid>/2010/01/26/2010-01-days-22-25-html/</guid>
       <description>i&amp;#8217;ve been off the grid, indulging a growing passion:
 bob, a team of PHX creatives, &amp;amp; i made a full microshort this weekend.
-we&amp;amp;#8217;ve been making films together since we met: he directs, i write, &amp;amp; we make magic happen. it&amp;amp;#8217;s tough working so closely &amp;amp; intensely sometimes, and we&amp;amp;#8217;ve learned a lot about teamwork through it all. i guess my passion for making films goes hand-in-hand with my passion for my marriage.</description>
+ we&amp;amp;#8217;ve been making films together since we met: he directs, i write, &amp;amp; we make magic happen. it&amp;amp;#8217;s tough working so closely &amp;amp; intensely sometimes, and we&amp;amp;#8217;ve learned a lot about teamwork through it all. i guess my passion for making films goes hand-in-hand with my passion for my marriage.</description>
     </item>
     
   </channel>
