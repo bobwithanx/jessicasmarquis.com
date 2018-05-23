@@ -27,13 +27,6 @@
         {{ end }}
     </head>
 
-    {{ if .Site.Params.MathJax | default true }}
-    <!-- adds MathJax support -->
-    <script type="text/javascript" async
-      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    </script>
-    {{ end }}
-
     <body>
         {{ partial "body-open" . }}
         <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -65,7 +58,7 @@
                     {{ if .Site.Menus.icon }}
                         <ul class="nav navbar-nav navbar-right">
                             {{ range sort .Site.Menus.icon }}
-                                <li class="navbar-icon"><a href="{{ .URL }}"><i class="fa fa-{{ .Name }}"></i></a></li>
+                                <li class="navbar-icon"><a href="{{ .URL }}"><i class="{{ .Name }}"></i></a></li>
                             {{ end }}
                         </ul>
                     {{ end }}

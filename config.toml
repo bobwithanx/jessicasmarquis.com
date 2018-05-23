@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "http://www.jessicasmarquis.com/"
 languageCode = "en-us"
 title = "Jessica S. Marquis"
 theme = "minimal"
@@ -7,14 +7,16 @@ theme = "minimal"
     author = "Jessia S. Marquis"
     description = "Personal blog theme powered by Hugo"
     showBorder = true
+    accent = "#40017F"
+    accentLight = "rgba(106, 97, 195, .3)"
     backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
-    highlight = true
+    font = "Open Sans" # should match the name on Google Fonts!
+    highlight = false
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [[menu.main]]
-    url = "/post/"
+    url = "/posts/"
     name = "Blog"
     weight = 2
 
@@ -29,30 +31,30 @@ theme = "minimal"
 
 [[menu.icon]]
     url = "mailto:jessica@jessicasmarquis.com"
-    name = "envelope-o"
+    name = "fas fa-at"
     weight = 1
 
 [[menu.icon]]
     url = "https://twitter.com/bizette/"
-    name = "twitter"
-    weight = 1
-
-[[menu.icon]]
-    url = "http://facebook.com/jessicadoesstuff/"
-    name = "facebook"
+    name = "fab fa-twitter"
     weight = 2
 
 [[menu.icon]]
+    url = "http://facebook.com/jessicadoesstuff/"
+    name = "fab fa-facebook"
+    weight = 3
+
+[[menu.icon]]
     url = "https://www.amazon.com/Jessica-S.-Marquis/e/B005CADOH4/"
-    name = "amazon"
+    name = "fab fa-amazon"
     weight = 4
 
 [[menu.icon]]
     url = "https://www.goodreads.com/author/show/4527822.Jessica_S_Marquis/"
-    name = "book"
+    name = "fab fa-goodreads"
     weight = 4
 
 [[menu.icon]]
     url = "https://www.linkedin.com/in/jsmarquis/"
-    name = "linkedin"
+    name = "fab fa-linkedin"
     weight = 4
