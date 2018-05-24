@@ -2,21 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Redemption on Jessica S. Marquis</title>
+<<<<<<< HEAD
     <link>/tags/redemption/</link>
+=======
+    <link>http://dev.jessicasmarquis.com/tags/redemption/</link>
+>>>>>>> minimal
     <description>Recent content in Redemption on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Oct 2016 03:35:00 +0000</lastBuildDate>
     
+<<<<<<< HEAD
 	<atom:link href="/tags/redemption/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://dev.jessicasmarquis.com/tags/redemption/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> minimal
     
     
     <item>
       <title>My Ambivalent Fallout with a Bush: A Story of Unexpected Restoration</title>
+<<<<<<< HEAD
       <link>/2016/10/18/2016-10-my-ambivalent-fallout-with-bush-story-html/</link>
       <pubDate>Tue, 18 Oct 2016 03:35:00 +0000</pubDate>
       
       <guid>/2016/10/18/2016-10-my-ambivalent-fallout-with-bush-story-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2016/10/18/2016-10-my-ambivalent-fallout-with-bush-story-html/</link>
+      <pubDate>Tue, 18 Oct 2016 03:35:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2016/10/18/2016-10-my-ambivalent-fallout-with-bush-story-html/</guid>
+>>>>>>> minimal
       <description>Last December, we had our front and back yards turned into desert landscaping. They went from being full of dirt, weeds, a big mulberry tree that pigeons pooped from, and a thorny bougainvillea, to being full of rocks, desert plants, a smaller tree that pigeons disdain, and a wispy bush with orange flowers.
 We were enamored.
 And then the weeds started. They got out of control. We tried to fight them, but we had to have professionals come in.</description>
@@ -24,10 +39,17 @@ And then the weeds started. They got out of control. We tried to fight them, but
     
     <item>
       <title>Holes in Wood</title>
+<<<<<<< HEAD
       <link>/2015/11/08/2015-11-holes-in-wood-html/</link>
       <pubDate>Sun, 08 Nov 2015 21:47:00 +0000</pubDate>
       
       <guid>/2015/11/08/2015-11-holes-in-wood-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2015/11/08/2015-11-holes-in-wood-html/</link>
+      <pubDate>Sun, 08 Nov 2015 21:47:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2015/11/08/2015-11-holes-in-wood-html/</guid>
+>>>>>>> minimal
       <description>There is a popular anecdote about a kid with anger issues. Here&amp;#8217;s a version of it:
 &amp;#8220;&amp;#8216;There once was a little boy who had a bad temper. His father gave him a bag of nails and told him that every time he lost his temper, he must hammer a nail into the back of the fence.&amp;nbsp;
 The first day the boy had&amp;nbsp; driven 37 nails into the fence. Over the next few weeks, as he learned to control his anger, the number of nails hammered daily gradually dwindled down.</description>

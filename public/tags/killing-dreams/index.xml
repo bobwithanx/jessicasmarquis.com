@@ -2,21 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Killing Dreams on Jessica S. Marquis</title>
+<<<<<<< HEAD
     <link>/tags/killing-dreams/</link>
+=======
+    <link>http://dev.jessicasmarquis.com/tags/killing-dreams/</link>
+>>>>>>> minimal
     <description>Recent content in Killing Dreams on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Jan 2010 16:35:00 +0000</lastBuildDate>
     
+<<<<<<< HEAD
 	<atom:link href="/tags/killing-dreams/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://dev.jessicasmarquis.com/tags/killing-dreams/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> minimal
     
     
     <item>
       <title>days #15-#18</title>
+<<<<<<< HEAD
       <link>/2010/01/18/2010-01-days-15-18-html/</link>
       <pubDate>Mon, 18 Jan 2010 16:35:00 +0000</pubDate>
       
       <guid>/2010/01/18/2010-01-days-15-18-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2010/01/18/2010-01-days-15-18-html/</link>
+      <pubDate>Mon, 18 Jan 2010 16:35:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2010/01/18/2010-01-days-15-18-html/</guid>
+>>>>>>> minimal
       <description>three-day weekends throw me for a loop.
 when i was younger, a day off meant VACATION!
 now, it means having more time for organizing, errand-running, &amp;amp; homework.
