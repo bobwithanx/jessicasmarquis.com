@@ -3,9 +3,6 @@ title: What Everyone Needs in Their Medicine Cabinet
 author: jsmarquis
 type: post
 date: 2014-08-31T00:48:00+00:00
-url: /2014/08/31/2014-08-what-everyone-needs-in-their-medicine-html/
-categories:
-  - Uncategorized
 
 ---
 Last night, I had a pretty scary reaction due to a medication/pregnancy hormone interaction, and it threw one more grievance on top of my massive pile of maternity issues. But what I&#8217;ve found to be most effective in combating the vacuum of self-pity isn&#8217;t Tylenol or ginger essential oil or urgent calls to my midwife. It&#8217;s gratitude. It&#8217;s trust my loving Daddy is sovereign & is always with me & using this all to His glory.

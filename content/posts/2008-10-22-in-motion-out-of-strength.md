@@ -3,9 +3,6 @@ title: 'in motion & out of strength'
 author: jsmarquis
 type: post
 date: 2008-10-22T05:11:00+00:00
-url: /2008/10/22/2008-10-in-motion-out-of-strength-html/
-categories:
-  - Uncategorized
 tags:
   - rest
 

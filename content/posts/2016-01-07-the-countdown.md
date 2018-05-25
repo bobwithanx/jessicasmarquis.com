@@ -3,9 +3,6 @@ title: The Countdown
 author: jsmarquis
 type: post
 date: 2016-01-07T22:08:00+00:00
-url: /2016/01/07/2016-01-the-countdown-html/
-categories:
-  - Uncategorized
 tags:
   - commitment
   - community

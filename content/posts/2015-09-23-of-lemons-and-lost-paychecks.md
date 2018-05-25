@@ -3,9 +3,6 @@ title: Of Lemons and Lost Paychecks
 author: jsmarquis
 type: post
 date: 2015-09-23T02:26:00+00:00
-url: /2015/09/23/2015-09-of-lemons-and-lost-paychecks-html/
-categories:
-  - Uncategorized
 
 ---
 Before the onset of children, my husband sold his reliable red 2003 Ford Focus ZX5 so he could get something bigger, more adult-looking, with more trunk space. He wanted to be able to haul our film equipment more easily, and there were only so many Tetris moves he could do to fit it all in the little hatchback.

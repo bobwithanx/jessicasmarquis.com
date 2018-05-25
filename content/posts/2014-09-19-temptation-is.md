@@ -3,9 +3,6 @@ title: Temptation Is…
 author: jsmarquis
 type: post
 date: 2014-09-19T00:42:00+00:00
-url: /2014/09/19/2014-09-temptation-is-html/
-categories:
-  - Uncategorized
 
 ---
 Temptation doesn&#8217;t just mean lust. For some of us, the temptation is to react in anger, judge others, please others, or overeat; for others, the temptation is to get bogged down by our past or give in to anxiety about our future.

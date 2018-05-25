@@ -3,9 +3,6 @@ title: Freedom from Mommy Guilt
 author: jsmarquis
 type: post
 date: 2014-10-24T00:28:00+00:00
-url: /2014/10/24/2014-10-as-women-as-moms-were-subtly-fed-lies-html/
-categories:
-  - Uncategorized
 
 ---
 As women &#8211; as moms &#8211; we&#8217;re subtly fed the lies that we should always carry some degree of guilt & an endearing tendency toward worry. It&#8217;s almost like a membership card or a badge of honor.

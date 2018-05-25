@@ -3,9 +3,6 @@ title: kids these days
 author: jsmarquis
 type: post
 date: 2008-08-09T19:53:00+00:00
-url: /2008/08/09/2008-08-kids-these-days-html/
-categories:
-  - Uncategorized
 tags:
   - serving
 

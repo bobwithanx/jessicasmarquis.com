@@ -3,9 +3,6 @@ title: Corrosion
 author: jsmarquis
 type: post
 date: 2015-04-01T18:18:00+00:00
-url: /2015/04/01/2015-04-corrosion-html/
-categories:
-  - Uncategorized
 
 ---
 As I&#8217;ve spent time in authentic community &#8211; something I avoided for years out of fear of being known &#8211; I have started to see how the Spirit has re-sensitized me. Or perhaps there is no &#8220;re-&#8220;; perhaps it&#8217;s for the first time.

@@ -3,9 +3,6 @@ title: Cover Charge
 author: jsmarquis
 type: post
 date: 2016-10-07T22:59:00+00:00
-url: /2016/10/07/2016-10-cover-charge-html/
-categories:
-  - Uncategorized
 tags:
   - growth
   - love

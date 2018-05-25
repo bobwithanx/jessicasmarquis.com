@@ -3,9 +3,6 @@ title: upgrading dream 1.0
 author: jsmarquis
 type: post
 date: 2008-09-26T17:01:00+00:00
-url: /2008/09/26/2008-09-upgrading-dream-10-html/
-categories:
-  - Uncategorized
 tags:
   - growth
 

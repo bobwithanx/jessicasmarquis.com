@@ -3,9 +3,6 @@ title: Excavating Accidentally Buried Talents
 author: jsmarquis
 type: post
 date: 2016-11-07T03:33:00+00:00
-url: /2016/11/07/2016-11-excavating-accidentally-buried-talents-html/
-categories:
-  - Uncategorized
 tags:
   - leadership
   - spiritual gifts

@@ -3,9 +3,6 @@ title: Too Close to Define
 author: jsmarquis
 type: post
 date: 2016-03-25T02:51:00+00:00
-url: /2016/03/25/2016-03-too-close-to-define-html/
-categories:
-  - Uncategorized
 tags:
   - CAST
   - challenge

@@ -3,9 +3,6 @@ title: 'day #9: a new face'
 author: jsmarquis
 type: post
 date: 2010-01-10T01:04:00+00:00
-url: /2010/01/10/2010-01-day-9-new-face-html/
-categories:
-  - Uncategorized
 tags:
   - changing routine
   - in-the-moment

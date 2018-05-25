@@ -3,9 +3,6 @@ title: Confessions of an Idol-Worshiper
 author: jsmarquis
 type: post
 date: 2016-05-26T17:56:00+00:00
-url: /2016/05/26/2016-05-confessions-of-idol-worshiper-html/
-categories:
-  - Uncategorized
 tags:
   - family
   - idolatry

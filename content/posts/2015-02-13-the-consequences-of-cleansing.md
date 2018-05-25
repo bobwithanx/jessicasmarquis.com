@@ -3,9 +3,6 @@ title: The Consequences of Cleansing
 author: jsmarquis
 type: post
 date: 2015-02-13T01:09:00+00:00
-url: /2015/02/13/2015-02-the-consequences-of-cleansing-html/
-categories:
-  - Uncategorized
 
 ---
 God loves object lessons. Just look at the Old Testament prophets & how He had them deliver important messages to kings! So here&#8217;s what He taught me last night. Does this make me royalty? 

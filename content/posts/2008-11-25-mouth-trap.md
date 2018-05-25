@@ -3,9 +3,6 @@ title: the mouth trap
 author: jsmarquis
 type: post
 date: 2008-11-25T04:56:00+00:00
-url: /2008/11/25/2008-11-mouth-trap-html/
-categories:
-  - Uncategorized
 tags:
   - thanks
   - words

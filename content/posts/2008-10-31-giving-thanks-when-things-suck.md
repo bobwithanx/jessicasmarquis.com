@@ -3,9 +3,6 @@ title: giving thanks when things suck
 author: jsmarquis
 type: post
 date: 2008-10-31T00:50:00+00:00
-url: /2008/10/31/2008-10-giving-thanks-when-things-suck-html/
-categories:
-  - Uncategorized
 tags:
   - growth
   - thanks

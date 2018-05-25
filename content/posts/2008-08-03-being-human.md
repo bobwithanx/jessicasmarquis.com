@@ -3,9 +3,6 @@ title: being human
 author: jsmarquis
 type: post
 date: 2008-08-03T02:28:00+00:00
-url: /2008/08/03/2008-08-being-human-html/
-categories:
-  - Uncategorized
 tags:
   - love
 

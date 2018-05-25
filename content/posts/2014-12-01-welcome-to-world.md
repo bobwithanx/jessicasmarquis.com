@@ -3,9 +3,6 @@ title: Welcome to the World
 author: jsmarquis
 type: post
 date: 2014-12-01T18:52:00+00:00
-url: /2014/12/01/2014-12-welcome-to-world-html/
-categories:
-  - Uncategorized
 
 ---
 On a personal note, I had twins yesterday. The two boys join their daddy & sister in our wacky home. Off to cocoon for a few hours & bask in this double joy&#8230;

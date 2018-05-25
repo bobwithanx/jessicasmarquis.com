@@ -3,9 +3,6 @@ title: When Your Sin Isn’t Cool Enough
 author: jsmarquis
 type: post
 date: 2014-08-29T00:50:00+00:00
-url: /2014/08/29/2014-08-when-your-sin-isnt-cool-enough-html/
-categories:
-  - Uncategorized
 
 ---
 As inspiring as it is to hear about God&#8217;s forgiveness toward drug addicts & murderers, how atheists can do a 180 & serial adulterers can experience fulfillment in the redemptive love of Jesus, these stories can also isolate us. They can make us think, &#8220;I&#8217;m not _that_ bad &#8211; why would God waste His massive, precious grace on someone who just cheats a bit on her taxes or had sex with her boyfriend in high school or secretly judges others for their parenting styles?&#8221;

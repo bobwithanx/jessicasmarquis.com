@@ -3,9 +3,6 @@ title: Flame Retardants Need Not Apply
 author: jsmarquis
 type: post
 date: 2014-10-03T00:36:00+00:00
-url: /2014/10/03/2014-10-flame-retardants-need-not-apply-html/
-categories:
-  - Uncategorized
 
 ---
 ~Don’t burn out; keep yourselves fueled and aflame. Be alert servants of the Master, cheerfully expectant. Don’t quit in hard times; pray all the harder. Help needy Christians; be inventive in hospitality.~  

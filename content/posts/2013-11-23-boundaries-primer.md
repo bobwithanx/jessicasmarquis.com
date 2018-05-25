@@ -3,9 +3,6 @@ title: 'Boundaries: A Primer'
 author: jsmarquis
 type: post
 date: 2013-11-23T03:43:00+00:00
-url: /2013/11/23/2013-11-boundaries-primer-html/
-categories:
-  - Uncategorized
 
 ---
 Setting boundaries probably won&#8217;t feel great at first, and the other person probably won&#8217;t like them. And that is exactly why we need to trust the Spirit to give us discernment & strength, and surround ourselves with healthy people who will keep us on our path to wholeness! (Proverbs 13:20, Hebrews 10:25)

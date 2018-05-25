@@ -3,9 +3,6 @@ title: We Are More Than Just The Givers Of Life To Our Children
 author: jsmarquis
 type: post
 date: 2014-09-30T00:39:00+00:00
-url: /2014/09/30/2014-09-we-are-more-than-just-givers-of-life-to-html/
-categories:
-  - Uncategorized
 
 ---
 We are more than just the givers of life to our children. We form their templates of who women are & how they should act &#8211; & demand to be treated. We introduce them to the beginning of their values, worldview, & the authenticity of what we claim to believe.

@@ -2,9 +2,6 @@
 title: The Poop-Talk Embargo and Its Fallout
 author: jsmarquis
 date: 2017-11-03T21:25:00+00:00
-url: /2017/11/03/2017-11-the-poop-talk-embargo-and-its-fallout-html/
-categories:
-  - Uncategorized
 tags:
   - children
   - rules

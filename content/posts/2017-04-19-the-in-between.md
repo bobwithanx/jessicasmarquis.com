@@ -3,9 +3,6 @@ title: The In-Between
 author: jsmarquis
 type: post
 date: 2017-04-19T22:51:00+00:00
-url: /2017/04/19/2017-04-the-in-between-html/
-categories:
-  - Uncategorized
 tags:
   - church
   - church orphans

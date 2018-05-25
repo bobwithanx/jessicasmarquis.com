@@ -3,9 +3,6 @@ title: Being the Chosen One
 author: jsmarquis
 type: post
 date: 2014-08-24T01:00:00+00:00
-url: /2014/08/24/2014-08-being-chosen-one-html/
-categories:
-  - Uncategorized
 
 ---
 I&#8217;m about to get a big sci-fi-geeky here, but bear with me because I think you&#8217;ll be encouraged by the end. 

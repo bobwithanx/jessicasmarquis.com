@@ -3,9 +3,6 @@ title: Fits and starts
 author: jsmarquis
 type: post
 date: 2015-10-29T03:21:00+00:00
-url: /2015/10/29/2015-10-fits-and-starts-html/
-categories:
-  - Uncategorized
 tags:
   - consistency
   - discipline

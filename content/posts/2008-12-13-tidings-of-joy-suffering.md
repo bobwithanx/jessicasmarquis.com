@@ -3,9 +3,6 @@ title: 'tidings of joy & suffering'
 author: jsmarquis
 type: post
 date: 2008-12-13T17:56:00+00:00
-url: /2008/12/13/2008-12-tidings-of-joy-suffering-html/
-categories:
-  - Uncategorized
 tags:
   - peace
 

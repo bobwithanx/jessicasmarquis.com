@@ -3,9 +3,6 @@ title: 'My Ambivalent Fallout with a Bush: A Story of Unexpected Restoration'
 author: jsmarquis
 type: post
 date: 2016-10-18T03:35:00+00:00
-url: /2016/10/18/2016-10-my-ambivalent-fallout-with-bush-story-html/
-categories:
-  - Uncategorized
 tags:
   - grief
   - growth

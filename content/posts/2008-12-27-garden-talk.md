@@ -3,9 +3,6 @@ title: garden talk
 author: jsmarquis
 type: post
 date: 2008-12-27T04:29:00+00:00
-url: /2008/12/27/2008-12-garden-talk-html/
-categories:
-  - Uncategorized
 tags:
   - growth
 

@@ -3,9 +3,6 @@ title: The Commentary Track
 author: jsmarquis
 type: post
 date: 2016-03-09T18:29:00+00:00
-url: /2016/03/09/2016-03-the-commentary-track-html/
-categories:
-  - Uncategorized
 tags:
   - change
   - community

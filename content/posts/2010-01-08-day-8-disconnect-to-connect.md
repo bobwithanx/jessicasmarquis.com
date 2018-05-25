@@ -3,9 +3,6 @@ title: 'day #8: disconnect to connect'
 author: jsmarquis
 type: post
 date: 2010-01-08T14:56:00+00:00
-url: /2010/01/08/2010-01-day-8-disconnect-to-connect-html/
-categories:
-  - Uncategorized
 
 ---
 i like this concept a lot:

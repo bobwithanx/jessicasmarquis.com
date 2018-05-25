@@ -3,9 +3,6 @@ title: first morning
 author: jsmarquis
 type: post
 date: 2010-01-01T19:11:00+00:00
-url: /2010/01/01/2010-01-first-morning-html/
-categories:
-  - Uncategorized
 tags:
   - AM gratitude
   - changing routine

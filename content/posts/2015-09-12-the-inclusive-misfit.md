@@ -3,9 +3,6 @@ title: The Inclusive Misfit
 author: jsmarquis
 type: post
 date: 2015-09-12T03:30:00+00:00
-url: /2015/09/12/2015-09-the-inclusive-misfit-html/
-categories:
-  - Uncategorized
 
 ---
 This morning, I watched my firstborn swallow her animated boldness to don the ill-tailored costume of a timid wallflower. It was her first tumbling class, and she was the youngest kiddo, the only new student, and therefore did not yet have a self-selected buddy. She hung back as the more experienced students ran, hopped, and jumping-jacked their way around the small dance studio. And I felt every one of her feelings. 

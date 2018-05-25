@@ -3,9 +3,6 @@ title: Where Are My Eagle Wings?
 author: jsmarquis
 type: post
 date: 2016-08-20T18:13:00+00:00
-url: /2016/08/20/2016-08-where-are-my-eagle-wings-html/
-categories:
-  - Uncategorized
 tags:
   - CAST
   - grace

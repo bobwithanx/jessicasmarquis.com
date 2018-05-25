@@ -3,9 +3,6 @@ title: Pushing Together or Pulling Apart
 author: jsmarquis
 type: post
 date: 2014-12-28T01:15:00+00:00
-url: /2014/12/28/2014-12-pushing-together-or-pulling-apart-html/
-categories:
-  - Uncategorized
 
 ---
 One of the great things in life is how we change & our interests evolve. This can be great for our marriages&#8230;or it can pull you apart if you don&#8217;t work to include one another in those developments. It&#8217;s so easy to believe the lie, &#8220;We just aren&#8217;t compatible anymore,&#8221; but that doesn&#8217;t jive with God&#8217;s definition of marriage. Growth in us can bring growth in our relationships when we don&#8217;t just focus on ourselves!

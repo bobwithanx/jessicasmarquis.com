@@ -3,9 +3,6 @@ title: 'Snowflake Vigil: A How-To for Grief and Young Ones'
 author: jsmarquis
 type: post
 date: 2016-06-17T23:11:00+00:00
-url: /2016/06/17/2016-06-snowflake-vigil-how-to-for-grief-and-html/
-categories:
-  - Uncategorized
 tags:
   - grief
   - LGBTQ

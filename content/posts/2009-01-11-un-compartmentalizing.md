@@ -3,9 +3,6 @@ title: un-compartmentalizing
 author: jsmarquis
 type: post
 date: 2009-01-11T16:02:00+00:00
-url: /2009/01/11/2009-01-un-compartmentalizing-html/
-categories:
-  - Uncategorized
 tags:
   - alignment
   - goals

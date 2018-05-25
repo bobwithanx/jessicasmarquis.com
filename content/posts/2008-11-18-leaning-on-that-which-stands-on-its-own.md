@@ -3,9 +3,6 @@ title: leaning on that which stands on its own
 author: jsmarquis
 type: post
 date: 2008-11-18T03:26:00+00:00
-url: /2008/11/18/2008-11-leaning-on-that-which-stands-on-its-own-html/
-categories:
-  - Uncategorized
 tags:
   - love
   - trust

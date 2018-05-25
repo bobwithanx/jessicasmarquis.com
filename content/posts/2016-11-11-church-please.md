@@ -3,9 +3,6 @@ title: Church, Please!
 author: jsmarquis
 type: post
 date: 2016-11-11T23:06:00+00:00
-url: /2016/11/11/2016-11-church-please-html/
-categories:
-  - Uncategorized
 tags:
   - church
   - division

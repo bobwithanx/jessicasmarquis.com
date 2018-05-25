@@ -3,9 +3,6 @@ title: the myth of achieving happiness
 author: jsmarquis
 type: post
 date: 2008-11-12T14:43:00+00:00
-url: /2008/11/12/2008-11-myth-of-achieving-happiness-html/
-categories:
-  - Uncategorized
 tags:
   - thanks
 

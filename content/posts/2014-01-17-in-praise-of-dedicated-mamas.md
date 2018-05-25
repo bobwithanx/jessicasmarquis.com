@@ -3,9 +3,6 @@ title: In Praise of Dedicated Mamas
 author: jsmarquis
 type: post
 date: 2014-01-17T03:19:00+00:00
-url: /2014/01/17/2014-01-in-praise-of-dedicated-mamas-html/
-categories:
-  - Uncategorized
 
 ---
 The radio has a growing catalog of songs about girls&#8217; low self-esteem. From One Direction&#8217;s &#8220;You Don&#8217;t Know You&#8217;re Beautiful&#8221; to &#8220;You Are More&#8221; by Tenth Avenue North, from TLC&#8217;s &#8220;UnPretty&#8221; to &#8220;More Beautiful You&#8221; by Jonny Diaz, our young ladies & our young selves & even our current selves struggle with our worth. Ladies don&#8217;t own their beauty; they look great but feel lousy. And that is where mamas come in.

@@ -3,9 +3,6 @@ title: Snowflake Vigil
 author: jsmarquis
 type: post
 date: 2016-06-13T20:27:00+00:00
-url: /2016/06/13/2016-06-snowflake-vigil-html/
-categories:
-  - Uncategorized
 tags:
   - anger
   - grief

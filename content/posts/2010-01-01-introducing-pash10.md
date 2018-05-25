@@ -3,9 +3,6 @@ title: 'Introducing: PASH10'
 author: jsmarquis
 type: post
 date: 2010-01-01T01:17:00+00:00
-url: /2010/01/01/2009-12-introducing-pash10-html/
-categories:
-- Uncategorized
 tags:
 - 2010
 - growth
@@ -16,7 +13,7 @@ tags:
 - peace
 - stirred-up
 - theme
--
+
 ---
 **what is PASH10?**
 

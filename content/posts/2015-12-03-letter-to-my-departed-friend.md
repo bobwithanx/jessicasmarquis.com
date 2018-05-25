@@ -3,9 +3,6 @@ title: Unsent
 author: jsmarquis
 type: post
 date: 2015-12-03T15:11:00+00:00
-url: /2015/12/03/2015-12-letter-to-my-departed-friend-html/
-categories:
-  - Uncategorized
 tags:
   - friendship
   - grief

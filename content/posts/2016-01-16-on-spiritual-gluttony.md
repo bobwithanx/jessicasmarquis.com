@@ -3,9 +3,6 @@ title: On Spiritual Gluttony
 author: jsmarquis
 type: post
 date: 2016-01-16T22:36:00+00:00
-url: /2016/01/16/2016-01-on-spiritual-gluttony-html/
-categories:
-  - Uncategorized
 tags:
   - daniel fast
   - fasting

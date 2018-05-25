@@ -3,9 +3,6 @@ title: Eating Hands
 author: jsmarquis
 type: post
 date: 2015-03-31T04:33:00+00:00
-url: /2015/03/31/2015-03-eating-hands-html/
-categories:
-  - Uncategorized
 
 ---
 My kiddos are adorable, but not brilliant. At least, not yet. When I go to nurse their hungry little 4-month-old mouths, I often find they have preemptively shoved a fist into it. In an effort to sate their appetite, they find something that works in a tactile way but not nutritionally.

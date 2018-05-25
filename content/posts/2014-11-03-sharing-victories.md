@@ -3,9 +3,6 @@ title: Sharing Victories
 author: jsmarquis
 type: post
 date: 2014-11-03T01:24:00+00:00
-url: /2014/11/03/2014-11-sharing-victories-html/
-categories:
-  - Uncategorized
 
 ---
 Lately, God has been speaking to me a lot about redemption. What a sweet word that is! What awesomeness to contemplate! Our loving Daddy grinds up all our poop into manure that grows beauty & life!&nbsp; 

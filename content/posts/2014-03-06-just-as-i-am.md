@@ -3,9 +3,6 @@ title: Just As I Am
 author: jsmarquis
 type: post
 date: 2014-03-06T02:23:00+00:00
-url: /2014/03/06/2014-03-just-as-i-am-html/
-categories:
-  - Uncategorized
 
 ---
 It seems whenever I start an attempt to better myself, I run into the situation Lisa Simpson encounters in a famous _Simpsons_ episode about pursuing vegan living: There is always a level of commitment higher than my current one.

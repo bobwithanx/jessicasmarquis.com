@@ -3,9 +3,6 @@ title: Burnt Out on Burnout
 author: jsmarquis
 type: post
 date: 2015-10-24T02:28:00+00:00
-url: /2015/10/24/2015-10-burnt-out-on-burnout-html/
-categories:
-- Uncategorized
 tags:
 - burnout
 

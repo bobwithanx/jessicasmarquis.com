@@ -3,9 +3,6 @@ title: Toeing the line
 author: jsmarquis
 type: post
 date: 2015-11-01T23:20:00+00:00
-url: /2015/11/01/2015-11-toeing-line-html/
-categories:
-  - Uncategorized
 tags:
   - faith
   - sex

@@ -3,9 +3,6 @@ title: The Power of Relaxing
 author: jsmarquis
 type: post
 date: 2015-03-01T01:02:00+00:00
-url: /2015/03/01/2015-02-the-power-of-relaxing-html/
-categories:
-  - Uncategorized
 
 ---
 So I was driving home this evening from taking my 3 sick kiddos & under-the-weather self to see my dad off to his flight back to Hungary, and I heard an interview with DJ Dan Deacon. In honor of the end of this week of rest in Milkweed, read this excerpt & prepare to have your brain shifted a bit!

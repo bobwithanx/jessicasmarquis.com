@@ -3,9 +3,6 @@ title: Dethroning Money
 author: jsmarquis
 type: post
 date: 2014-10-06T00:34:00+00:00
-url: /2014/10/06/2014-10-dethroning-money-html/
-categories:
-  - Uncategorized
 
 ---
 Please take a moment to STOP, READ, & PRAY on the following statement. It applies to so many of us. Our Savior can & _wants_ to free us all in this way! Thank You, loving Daddy. Guide us out of our shackles.

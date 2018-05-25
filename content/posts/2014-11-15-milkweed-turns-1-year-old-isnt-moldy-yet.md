@@ -3,9 +3,6 @@ title: Milkweed Turns 1 Year Old, Isn’t Moldy Yet
 author: jsmarquis
 type: post
 date: 2014-11-15T01:20:00+00:00
-url: /2014/11/15/2014-11-milkweed-turns-1-year-old-isnt-moldy-yet-html/
-categories:
-  - Uncategorized
 
 ---
 It&#8217;s hard to believe my Milkweed family of mamas has been meeting online & in person for over a year! What a tremendous community our loving Daddy has brought together here to pray, encourage, laugh, challenge, & grow.

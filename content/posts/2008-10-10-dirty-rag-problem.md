@@ -3,9 +3,6 @@ title: the dirty rag problem
 author: jsmarquis
 type: post
 date: 2008-10-10T06:13:00+00:00
-url: /2008/10/10/2008-10-dirty-rag-problem-html/
-categories:
-  - Uncategorized
 tags:
   - growth
   - serving

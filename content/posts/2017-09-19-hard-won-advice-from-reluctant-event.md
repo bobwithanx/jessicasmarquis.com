@@ -2,9 +2,6 @@
 title: Hard-won advice from a reluctant event organizer and project manager
 author: jsmarquis
 date: 2017-09-19T23:43:00+00:00
-url: /2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/
-categories:
-  - Uncategorized
 tags:
   - accepting
   - CAST

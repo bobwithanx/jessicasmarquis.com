@@ -3,9 +3,6 @@ title: Holes in Wood
 author: jsmarquis
 type: post
 date: 2015-11-08T21:47:00+00:00
-url: /2015/11/08/2015-11-holes-in-wood-html/
-categories:
-- Uncategorized
 tags:
 - grace
 - healing

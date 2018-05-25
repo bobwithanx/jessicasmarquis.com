@@ -3,9 +3,6 @@ title: 'Forgotten Storylines: How Sitcoms Taught Me that God Has a Grand Narrati
 author: jsmarquis
 type: post
 date: 2016-06-14T17:00:00+00:00
-url: /2016/06/14/2016-06-forgotten-storylines-how-sitcoms-taught-html/
-categories:
-  - Uncategorized
 
 ---
 In my mind, there are two types of comedy shows: The kind that build a cohesive storyline throughout the episodes, and the kind where each episode is its own story. I&#8217;m sure they have industry terms, but I don&#8217;t want to stop my brain dump to research them. Let&#8217;s just call the former _Arrested Development_ and the latter _The Simpsons_.

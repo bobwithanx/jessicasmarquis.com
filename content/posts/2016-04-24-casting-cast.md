@@ -3,9 +3,6 @@ title: Casting CAST
 author: jsmarquis
 type: post
 date: 2016-04-24T22:48:00+00:00
-url: /2016/04/24/2016-04-casting-cast-html/
-categories:
-  - Uncategorized
 tags:
   - busyness
   - CAST

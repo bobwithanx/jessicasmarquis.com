@@ -3,9 +3,6 @@ title: Thick Skin and the Girl Who Doesn’t Have It
 author: jsmarquis
 type: post
 date: 2017-03-05T20:49:00+00:00
-url: /2017/03/05/2017-03-the-unexpected-discomfort-of-waking-up-html/
-categories:
-  - Uncategorized
 tags:
   - advocacy
   - anxiety

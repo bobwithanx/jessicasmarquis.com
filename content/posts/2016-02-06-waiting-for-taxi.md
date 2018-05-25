@@ -3,9 +3,6 @@ title: Waiting for the Taxi
 author: jsmarquis
 type: post
 date: 2016-02-06T21:50:00+00:00
-url: /2016/02/06/2016-02-waiting-for-taxi-html/
-categories:
-  - Uncategorized
 tags:
   - forgiveness
 

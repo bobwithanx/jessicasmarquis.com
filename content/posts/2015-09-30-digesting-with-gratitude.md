@@ -3,9 +3,6 @@ title: Digesting with gratitude
 author: jsmarquis
 type: post
 date: 2015-09-30T18:52:00+00:00
-url: /2015/09/30/2015-09-digesting-with-gratitude-html/
-categories:
-  - Uncategorized
 tags:
   - family
   - forgiveness

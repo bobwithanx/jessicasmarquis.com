@@ -3,9 +3,6 @@ title: the black hole
 author: jsmarquis
 type: post
 date: 2008-10-16T04:17:00+00:00
-url: /2008/10/16/2008-10-black-hole-html/
-categories:
-  - Uncategorized
 tags:
   - growth
 

@@ -3,9 +3,6 @@ title: A Permission Slip to Deconstruct
 author: jsmarquis
 type: post
 date: 2017-04-27T23:00:00+00:00
-url: /2017/04/27/2017-04-a-permission-slip-to-deconstruct-html/
-categories:
-  - Uncategorized
 tags:
   - butterflies
   - deconstruction

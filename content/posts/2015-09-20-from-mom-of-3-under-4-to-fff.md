@@ -3,9 +3,6 @@ title: From a mom of 3 under 4 to the incoming grad school student
 author: jsmarquis
 type: post
 date: 2015-09-20T00:18:00+00:00
-url: /2015/09/20/2015-09-from-mom-of-3-under-4-to-fff-html/
-categories:
-  - Uncategorized
 tags:
   - community
   - spiritual growth

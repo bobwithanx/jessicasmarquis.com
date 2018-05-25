@@ -3,9 +3,6 @@ title: It’s Okay to Be Happy
 author: jsmarquis
 type: post
 date: 2014-10-01T00:38:00+00:00
-url: /2014/10/01/2014-09-its-okay-to-be-happy-html/
-categories:
-  - Uncategorized
 
 ---
 When someone you know is sad, suffering, or searching and God has gifted you with a season of abundance, it can feel wrong to celebrate it & feel joy. Romans 12:15 tells us to &#8220;weep with those who weep,&#8221; after all.

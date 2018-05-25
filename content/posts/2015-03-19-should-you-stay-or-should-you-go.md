@@ -3,9 +3,6 @@ title: Should You Stay or Should You Go?
 author: jsmarquis
 type: post
 date: 2015-03-19T23:53:00+00:00
-url: /2015/03/19/2015-03-should-you-stay-or-should-you-go-html/
-categories:
-  - Uncategorized
 
 ---
 Okay, this one may hurt. Loving Daddy, let any wounds that result be trusted as those of a friend (Proverbs 27:6) & as those of Your truth.

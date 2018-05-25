@@ -3,9 +3,6 @@ title: Presumptive Pain-Sharing
 author: jsmarquis
 type: post
 date: 2016-06-16T22:53:00+00:00
-url: /2016/06/16/2016-06-presumptive-pain-sharing-html/
-categories:
-  - Uncategorized
 tags:
   - listening
   - pain

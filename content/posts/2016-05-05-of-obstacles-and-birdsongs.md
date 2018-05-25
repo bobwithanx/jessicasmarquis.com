@@ -3,9 +3,6 @@ title: Of Obstacles and Birdsongs
 author: jsmarquis
 type: post
 date: 2016-05-05T18:25:00+00:00
-url: /2016/05/05/2016-05-of-obstacles-and-birdsongs-html/
-categories:
-  - Uncategorized
 tags:
   - fear
   - healing
