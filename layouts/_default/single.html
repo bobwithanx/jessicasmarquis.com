@@ -1,34 +1,12 @@
-{{ partial "header" . }}
+{{ define "title"}} {{ .Title}} {{end}} {{ define "header"}} {{ partial "header" .}} {{end}} {{ define "main" }}
 
-<main>
+<div id="hero" class="wrap align-center">
+  <h2>{{.Title }}</h2>
+  <p>{{.Params.description}}</p>
+</div>
+<ul id="posts">
 
-  <div class="item">
+  {{ .Content }}
 
-    {{ with .Params.link }} {{ $.Scratch.Set "link" . }} {{ end }}
-
-    <div class="page-header">
-    <h4><a href="{{ .Scratch.Get "link" }}">{{ .Title }}</a></h4>
-    <h5>{{ $.Scratch.Get "subtitle" }}</h5>
-    {{ range .Params.tags }}
-    <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}"><kbd class="item-tag">{{ . }}</kbd></a>
-    {{ end }}
-
-  </div>
-    <br> <div class="content text-justify">{{ .Content }}</div>
-
-    <!-- related posts with the same tags -->
-    {{ $related := first 3 (where (where (where .Site.Pages.ByDate.Reverse ".Type" "==" "post") ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
-
-    {{ if $related }}
-
-        <h4 class="page-header">Related Posts</h4>
-
-        {{ range $related }} {{ partial "list-item" . }} {{ end }}
-
-    {{ end }}
-
-  </div>
-
-</main>
-
-{{ partial "footer.html" . }}
+</ul>
+{{ end }} {{ define "footer" }} {{ partial "footer" . }} {{ end }}

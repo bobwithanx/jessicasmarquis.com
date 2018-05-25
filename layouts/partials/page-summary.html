@@ -1,0 +1,16 @@
+<li itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row between">
+    <div class="col col-3 muted sans-serif align-top">
+      <div class="show-sm text-left">{{ .PublishDate.Format "January 2, 2006" }}</div>
+      <div class="hide-sm text-right">{{ .PublishDate.Format "January 2, 2006" }}</div>
+    </div>
+    <div class="col col-8">
+      <h2 class="text-left">
+        <a class="serif h4" href="{{ .Permalink }}" itemprop="headline">{{ .Title }}</a>
+      </h2>
+    </div>
+    <hr> {{ if .Description }}
+    <p itemprop="about">{{ .Description }}</p>
+    {{ end }}
+  </div>
+</li>
