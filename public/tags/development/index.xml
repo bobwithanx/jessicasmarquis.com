@@ -2,52 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Jessica S. Marquis</title>
-<<<<<<< HEAD
     <link>/tags/development/</link>
-=======
-    <link>http://dev.jessicasmarquis.com/tags/development/</link>
->>>>>>> minimal
     <description>Recent content in Development on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Sep 2017 23:43:00 +0000</lastBuildDate>
     
-<<<<<<< HEAD
 	<atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
-=======
-	<atom:link href="http://dev.jessicasmarquis.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> minimal
     
     
     <item>
       <title>Hard-won advice from a reluctant event organizer and project manager</title>
-<<<<<<< HEAD
       <link>/2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/</link>
       <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
       
       <guid>/2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/</guid>
-=======
-      <link>http://dev.jessicasmarquis.com/2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/</link>
-      <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
-      
-      <guid>http://dev.jessicasmarquis.com/2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/</guid>
->>>>>>> minimal
       <description>When I was in middle school, I got the itch to organize events. No, that&amp;#8217;s inaccurate. I realized the need for organization, so I did it. There wasn&amp;#8217;t really an itch, just a desire to get to the end goal and no bridges provided to it. The point is, I got started in event creation and project management shortly after I hit the double digits, so I have a little bit of experience in it.</description>
     </item>
     
     <item>
       <title>A Permission Slip to Deconstruct</title>
-<<<<<<< HEAD
       <link>/2017/04/27/2017-04-a-permission-slip-to-deconstruct-html/</link>
       <pubDate>Thu, 27 Apr 2017 23:00:00 +0000</pubDate>
       
       <guid>/2017/04/27/2017-04-a-permission-slip-to-deconstruct-html/</guid>
-=======
-      <link>http://dev.jessicasmarquis.com/2017/04/27/2017-04-a-permission-slip-to-deconstruct-html/</link>
-      <pubDate>Thu, 27 Apr 2017 23:00:00 +0000</pubDate>
-      
-      <guid>http://dev.jessicasmarquis.com/2017/04/27/2017-04-a-permission-slip-to-deconstruct-html/</guid>
->>>>>>> minimal
       <description>Truth ought to come with this disclaimer:
 &amp;#8220;This will not fit right at first. You may find your reality shifting, and all you trusted slipping through your fingers. That is okay. Just press onward and rest in the uncertainty.&amp;#8221;
 I&amp;#8217;m writing this because no one gave me that disclaimer. I&amp;#8217;m writing this for the people who have started asking big questions or who are seeing things they didn&amp;#8217;t used to, who are finding they aren&amp;#8217;t who they used to be and think they might just be going crazy.</description>

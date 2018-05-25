@@ -2,36 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hope on Jessica S. Marquis</title>
-<<<<<<< HEAD
     <link>/tags/hope/</link>
-=======
-    <link>http://dev.jessicasmarquis.com/tags/hope/</link>
->>>>>>> minimal
     <description>Recent content in Hope on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Feb 2010 01:31:00 +0000</lastBuildDate>
     
-<<<<<<< HEAD
 	<atom:link href="/tags/hope/index.xml" rel="self" type="application/rss+xml" />
-=======
-	<atom:link href="http://dev.jessicasmarquis.com/tags/hope/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> minimal
     
     
     <item>
       <title>day #41</title>
-<<<<<<< HEAD
       <link>/2010/02/11/2010-02-day-41-html/</link>
       <pubDate>Thu, 11 Feb 2010 01:31:00 +0000</pubDate>
       
       <guid>/2010/02/11/2010-02-day-41-html/</guid>
-=======
-      <link>http://dev.jessicasmarquis.com/2010/02/11/2010-02-day-41-html/</link>
-      <pubDate>Thu, 11 Feb 2010 01:31:00 +0000</pubDate>
-      
-      <guid>http://dev.jessicasmarquis.com/2010/02/11/2010-02-day-41-html/</guid>
->>>>>>> minimal
       <description>it&amp;#8217;s a birthday party!
 i&amp;#8217;ve been tied up with work, school, &amp;amp; a sick cat,
 and today is bob&amp;#8217;s birthday.
@@ -44,17 +29,10 @@ today, i&amp;#8217;m going easy on myself &amp;amp; bob so we can truly enjoy hi
     
     <item>
       <title>days #10 &amp; #11</title>
-<<<<<<< HEAD
       <link>/2010/01/11/2010-01-days-10-11-html/</link>
       <pubDate>Mon, 11 Jan 2010 15:04:00 +0000</pubDate>
       
       <guid>/2010/01/11/2010-01-days-10-11-html/</guid>
-=======
-      <link>http://dev.jessicasmarquis.com/2010/01/11/2010-01-days-10-11-html/</link>
-      <pubDate>Mon, 11 Jan 2010 15:04:00 +0000</pubDate>
-      
-      <guid>http://dev.jessicasmarquis.com/2010/01/11/2010-01-days-10-11-html/</guid>
->>>>>>> minimal
       <description>i&amp;#8217;m working on a list of passion-blockers.
 as i write each one down, i feel a twinge of guilt at how i&amp;#8217;ve let it get to me in the past.
 fatigue
@@ -73,17 +51,10 @@ has given us all unique passion in each of our lives.</description>
     
     <item>
       <title>Introducing: PASH10</title>
-<<<<<<< HEAD
       <link>/2010/01/01/2009-12-introducing-pash10-html/</link>
       <pubDate>Fri, 01 Jan 2010 01:17:00 +0000</pubDate>
       
       <guid>/2010/01/01/2009-12-introducing-pash10-html/</guid>
-=======
-      <link>http://dev.jessicasmarquis.com/2010/01/01/2009-12-introducing-pash10-html/</link>
-      <pubDate>Fri, 01 Jan 2010 01:17:00 +0000</pubDate>
-      
-      <guid>http://dev.jessicasmarquis.com/2010/01/01/2009-12-introducing-pash10-html/</guid>
->>>>>>> minimal
       <description>what is PASH10?
 i realized that, while i&amp;#8217;m good at setting goals &amp;#8212; and, often, at meeting them &amp;#8212; i haven&amp;#8217;t demonstrated a proficiency in thematic goals. it seems many of my goals are short-sighted &amp;amp; don&amp;#8217;t adhere to a greater strategy.
 this year, i named a theme of what i would like to develop in my life over the coming 365 days.
