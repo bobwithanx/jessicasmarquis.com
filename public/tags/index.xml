@@ -2,512 +2,906 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jessica S. Marquis</title>
+<<<<<<< HEAD
     <link>/tags/</link>
+=======
+    <link>http://dev.jessicasmarquis.com/tags/</link>
+>>>>>>> minimal
     <description>Recent content in Tags on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2010 01:17:00 +0000</lastBuildDate>
     
+<<<<<<< HEAD
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://dev.jessicasmarquis.com/tags/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> minimal
     
     
     <item>
       <title></title>
+<<<<<<< HEAD
       <link>/tags/</link>
       <pubDate>Fri, 01 Jan 2010 01:17:00 +0000</pubDate>
       
       <guid>/tags/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/</link>
+      <pubDate>Fri, 01 Jan 2010 01:17:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>1 Thessalonians</title>
+<<<<<<< HEAD
       <link>/tags/1-thessalonians/</link>
       <pubDate>Wed, 24 Feb 2010 14:54:00 +0000</pubDate>
       
       <guid>/tags/1-thessalonians/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/1-thessalonians/</link>
+      <pubDate>Wed, 24 Feb 2010 14:54:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/1-thessalonians/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>2010</title>
+<<<<<<< HEAD
       <link>/tags/2010/</link>
       <pubDate>Fri, 01 Jan 2010 01:17:00 +0000</pubDate>
       
       <guid>/tags/2010/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/2010/</link>
+      <pubDate>Fri, 01 Jan 2010 01:17:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/2010/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>90 Days</title>
+<<<<<<< HEAD
       <link>/tags/90-days/</link>
       <pubDate>Fri, 19 Sep 2008 14:12:00 +0000</pubDate>
       
       <guid>/tags/90-days/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/90-days/</link>
+      <pubDate>Fri, 19 Sep 2008 14:12:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/90-days/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Accepting</title>
+<<<<<<< HEAD
       <link>/tags/accepting/</link>
       <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
       
       <guid>/tags/accepting/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/accepting/</link>
+      <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/accepting/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Ache</title>
+<<<<<<< HEAD
       <link>/tags/ache/</link>
       <pubDate>Fri, 12 Feb 2010 15:10:00 +0000</pubDate>
       
       <guid>/tags/ache/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/ache/</link>
+      <pubDate>Fri, 12 Feb 2010 15:10:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/ache/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Addiction</title>
+<<<<<<< HEAD
       <link>/tags/addiction/</link>
       <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
       
       <guid>/tags/addiction/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/addiction/</link>
+      <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/addiction/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Advocacy</title>
+<<<<<<< HEAD
       <link>/tags/advocacy/</link>
       <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
       
       <guid>/tags/advocacy/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/advocacy/</link>
+      <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/advocacy/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Alcoholism</title>
+<<<<<<< HEAD
       <link>/tags/alcoholism/</link>
       <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
       
       <guid>/tags/alcoholism/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/alcoholism/</link>
+      <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/alcoholism/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Alignment</title>
+<<<<<<< HEAD
       <link>/tags/alignment/</link>
       <pubDate>Mon, 18 Jan 2010 16:35:00 +0000</pubDate>
       
       <guid>/tags/alignment/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/alignment/</link>
+      <pubDate>Mon, 18 Jan 2010 16:35:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/alignment/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Am Gratitude</title>
+<<<<<<< HEAD
       <link>/tags/am-gratitude/</link>
       <pubDate>Wed, 24 Feb 2010 14:54:00 +0000</pubDate>
       
       <guid>/tags/am-gratitude/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/am-gratitude/</link>
+      <pubDate>Wed, 24 Feb 2010 14:54:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/am-gratitude/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Anger</title>
+<<<<<<< HEAD
       <link>/tags/anger/</link>
       <pubDate>Mon, 13 Jun 2016 20:27:00 +0000</pubDate>
       
       <guid>/tags/anger/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/anger/</link>
+      <pubDate>Mon, 13 Jun 2016 20:27:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/anger/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Annoyance</title>
+<<<<<<< HEAD
       <link>/tags/annoyance/</link>
       <pubDate>Mon, 08 Feb 2010 15:02:00 +0000</pubDate>
       
       <guid>/tags/annoyance/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/annoyance/</link>
+      <pubDate>Mon, 08 Feb 2010 15:02:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/annoyance/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Anxiety</title>
+<<<<<<< HEAD
       <link>/tags/anxiety/</link>
       <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
       
       <guid>/tags/anxiety/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/anxiety/</link>
+      <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/anxiety/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Apostle Paul</title>
+<<<<<<< HEAD
       <link>/tags/apostle-paul/</link>
       <pubDate>Fri, 12 Feb 2010 15:10:00 +0000</pubDate>
       
       <guid>/tags/apostle-paul/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/apostle-paul/</link>
+      <pubDate>Fri, 12 Feb 2010 15:10:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/apostle-paul/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Authenticity</title>
+<<<<<<< HEAD
       <link>/tags/authenticity/</link>
       <pubDate>Wed, 14 Apr 2010 14:05:00 +0000</pubDate>
       
       <guid>/tags/authenticity/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/authenticity/</link>
+      <pubDate>Wed, 14 Apr 2010 14:05:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/authenticity/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Awe</title>
+<<<<<<< HEAD
       <link>/tags/awe/</link>
       <pubDate>Sat, 16 Aug 2008 14:20:00 +0000</pubDate>
       
       <guid>/tags/awe/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/awe/</link>
+      <pubDate>Sat, 16 Aug 2008 14:20:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/awe/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Boundaries</title>
+<<<<<<< HEAD
       <link>/tags/boundaries/</link>
       <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
       
       <guid>/tags/boundaries/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/boundaries/</link>
+      <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/boundaries/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Burnout</title>
+<<<<<<< HEAD
       <link>/tags/burnout/</link>
       <pubDate>Sat, 24 Oct 2015 02:28:00 +0000</pubDate>
       
       <guid>/tags/burnout/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/burnout/</link>
+      <pubDate>Sat, 24 Oct 2015 02:28:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/burnout/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Busyness</title>
+<<<<<<< HEAD
       <link>/tags/busyness/</link>
       <pubDate>Sun, 24 Apr 2016 22:48:00 +0000</pubDate>
       
       <guid>/tags/busyness/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/busyness/</link>
+      <pubDate>Sun, 24 Apr 2016 22:48:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/busyness/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Butterflies</title>
+<<<<<<< HEAD
       <link>/tags/butterflies/</link>
       <pubDate>Thu, 27 Apr 2017 23:00:00 +0000</pubDate>
       
       <guid>/tags/butterflies/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/butterflies/</link>
+      <pubDate>Thu, 27 Apr 2017 23:00:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/butterflies/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Cast</title>
+<<<<<<< HEAD
       <link>/tags/cast/</link>
       <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
       
       <guid>/tags/cast/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/cast/</link>
+      <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/cast/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Celebration</title>
+<<<<<<< HEAD
       <link>/tags/celebration/</link>
       <pubDate>Thu, 11 Feb 2010 01:31:00 +0000</pubDate>
       
       <guid>/tags/celebration/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/celebration/</link>
+      <pubDate>Thu, 11 Feb 2010 01:31:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/celebration/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Challenge</title>
+<<<<<<< HEAD
       <link>/tags/challenge/</link>
       <pubDate>Fri, 25 Mar 2016 02:51:00 +0000</pubDate>
       
       <guid>/tags/challenge/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/challenge/</link>
+      <pubDate>Fri, 25 Mar 2016 02:51:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/challenge/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Change</title>
+<<<<<<< HEAD
       <link>/tags/change/</link>
       <pubDate>Wed, 09 Mar 2016 18:29:00 +0000</pubDate>
       
       <guid>/tags/change/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/change/</link>
+      <pubDate>Wed, 09 Mar 2016 18:29:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/change/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Changing Routine</title>
+<<<<<<< HEAD
       <link>/tags/changing-routine/</link>
       <pubDate>Sun, 31 Jan 2010 01:34:00 +0000</pubDate>
       
       <guid>/tags/changing-routine/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/changing-routine/</link>
+      <pubDate>Sun, 31 Jan 2010 01:34:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/changing-routine/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Children</title>
+<<<<<<< HEAD
       <link>/tags/children/</link>
       <pubDate>Fri, 03 Nov 2017 21:25:00 +0000</pubDate>
       
       <guid>/tags/children/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/children/</link>
+      <pubDate>Fri, 03 Nov 2017 21:25:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/children/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Church</title>
+<<<<<<< HEAD
       <link>/tags/church/</link>
       <pubDate>Wed, 19 Apr 2017 22:51:00 +0000</pubDate>
       
       <guid>/tags/church/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/church/</link>
+      <pubDate>Wed, 19 Apr 2017 22:51:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/church/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Church Orphans</title>
+<<<<<<< HEAD
       <link>/tags/church-orphans/</link>
       <pubDate>Wed, 19 Apr 2017 22:51:00 +0000</pubDate>
       
       <guid>/tags/church-orphans/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/church-orphans/</link>
+      <pubDate>Wed, 19 Apr 2017 22:51:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/church-orphans/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Clogged Arteries</title>
+<<<<<<< HEAD
       <link>/tags/clogged-arteries/</link>
       <pubDate>Mon, 18 Jan 2010 16:35:00 +0000</pubDate>
       
       <guid>/tags/clogged-arteries/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/clogged-arteries/</link>
+      <pubDate>Mon, 18 Jan 2010 16:35:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/clogged-arteries/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Closing Eyes</title>
+<<<<<<< HEAD
       <link>/tags/closing-eyes/</link>
       <pubDate>Thu, 21 Jan 2010 01:13:00 +0000</pubDate>
       
       <guid>/tags/closing-eyes/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/closing-eyes/</link>
+      <pubDate>Thu, 21 Jan 2010 01:13:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/closing-eyes/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Cocoon</title>
+<<<<<<< HEAD
       <link>/tags/cocoon/</link>
       <pubDate>Fri, 11 Dec 2015 16:52:00 +0000</pubDate>
       
       <guid>/tags/cocoon/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/cocoon/</link>
+      <pubDate>Fri, 11 Dec 2015 16:52:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/cocoon/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Commitment</title>
+<<<<<<< HEAD
       <link>/tags/commitment/</link>
       <pubDate>Thu, 07 Jan 2016 22:08:00 +0000</pubDate>
       
       <guid>/tags/commitment/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/commitment/</link>
+      <pubDate>Thu, 07 Jan 2016 22:08:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/commitment/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Community</title>
+<<<<<<< HEAD
       <link>/tags/community/</link>
       <pubDate>Sun, 24 Apr 2016 22:48:00 +0000</pubDate>
       
       <guid>/tags/community/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/community/</link>
+      <pubDate>Sun, 24 Apr 2016 22:48:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/community/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Compassion</title>
+<<<<<<< HEAD
       <link>/tags/compassion/</link>
       <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
       
       <guid>/tags/compassion/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/compassion/</link>
+      <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/compassion/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Consistency</title>
+<<<<<<< HEAD
       <link>/tags/consistency/</link>
       <pubDate>Thu, 29 Oct 2015 03:21:00 +0000</pubDate>
       
       <guid>/tags/consistency/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/consistency/</link>
+      <pubDate>Thu, 29 Oct 2015 03:21:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/consistency/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Creativity</title>
+<<<<<<< HEAD
       <link>/tags/creativity/</link>
       <pubDate>Wed, 14 Apr 2010 14:05:00 +0000</pubDate>
       
       <guid>/tags/creativity/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/creativity/</link>
+      <pubDate>Wed, 14 Apr 2010 14:05:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/creativity/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Daniel Fast</title>
+<<<<<<< HEAD
       <link>/tags/daniel-fast/</link>
       <pubDate>Sat, 16 Jan 2016 22:36:00 +0000</pubDate>
       
       <guid>/tags/daniel-fast/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/daniel-fast/</link>
+      <pubDate>Sat, 16 Jan 2016 22:36:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/daniel-fast/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Date Night</title>
+<<<<<<< HEAD
       <link>/tags/date-night/</link>
       <pubDate>Tue, 05 Jan 2010 04:53:00 +0000</pubDate>
       
       <guid>/tags/date-night/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/date-night/</link>
+      <pubDate>Tue, 05 Jan 2010 04:53:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/date-night/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Debt</title>
+<<<<<<< HEAD
       <link>/tags/debt/</link>
       <pubDate>Thu, 07 Jan 2010 15:54:00 +0000</pubDate>
       
       <guid>/tags/debt/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/debt/</link>
+      <pubDate>Thu, 07 Jan 2010 15:54:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/debt/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Deconstruction</title>
+<<<<<<< HEAD
       <link>/tags/deconstruction/</link>
       <pubDate>Thu, 27 Apr 2017 23:00:00 +0000</pubDate>
       
       <guid>/tags/deconstruction/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/deconstruction/</link>
+      <pubDate>Thu, 27 Apr 2017 23:00:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/deconstruction/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Deferred Opportunities</title>
+<<<<<<< HEAD
       <link>/tags/deferred-opportunities/</link>
       <pubDate>Wed, 10 Mar 2010 14:54:00 +0000</pubDate>
       
       <guid>/tags/deferred-opportunities/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/deferred-opportunities/</link>
+      <pubDate>Wed, 10 Mar 2010 14:54:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/deferred-opportunities/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Depression</title>
+<<<<<<< HEAD
       <link>/tags/depression/</link>
       <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
       
       <guid>/tags/depression/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/depression/</link>
+      <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/depression/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
+<<<<<<< HEAD
       <link>/tags/development/</link>
       <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
       
       <guid>/tags/development/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/development/</link>
+      <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/development/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Disciples</title>
+<<<<<<< HEAD
       <link>/tags/disciples/</link>
       <pubDate>Fri, 11 Dec 2015 16:52:00 +0000</pubDate>
       
       <guid>/tags/disciples/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/disciples/</link>
+      <pubDate>Fri, 11 Dec 2015 16:52:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/disciples/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Discipline</title>
+<<<<<<< HEAD
       <link>/tags/discipline/</link>
       <pubDate>Thu, 29 Oct 2015 03:21:00 +0000</pubDate>
       
       <guid>/tags/discipline/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/discipline/</link>
+      <pubDate>Thu, 29 Oct 2015 03:21:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/discipline/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Discrimination</title>
+<<<<<<< HEAD
       <link>/tags/discrimination/</link>
       <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
       
       <guid>/tags/discrimination/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/discrimination/</link>
+      <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/discrimination/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Dismantling</title>
+<<<<<<< HEAD
       <link>/tags/dismantling/</link>
       <pubDate>Thu, 27 Apr 2017 23:00:00 +0000</pubDate>
       
       <guid>/tags/dismantling/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/dismantling/</link>
+      <pubDate>Thu, 27 Apr 2017 23:00:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/dismantling/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Division</title>
+<<<<<<< HEAD
       <link>/tags/division/</link>
       <pubDate>Fri, 11 Nov 2016 23:06:00 +0000</pubDate>
       
       <guid>/tags/division/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/division/</link>
+      <pubDate>Fri, 11 Nov 2016 23:06:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/division/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Doubt</title>
+<<<<<<< HEAD
       <link>/tags/doubt/</link>
       <pubDate>Thu, 27 Apr 2017 23:00:00 +0000</pubDate>
       
       <guid>/tags/doubt/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/doubt/</link>
+      <pubDate>Thu, 27 Apr 2017 23:00:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/doubt/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Driving</title>
+<<<<<<< HEAD
       <link>/tags/driving/</link>
       <pubDate>Wed, 06 Jan 2010 15:55:00 +0000</pubDate>
       
       <guid>/tags/driving/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/driving/</link>
+      <pubDate>Wed, 06 Jan 2010 15:55:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/driving/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Emotions</title>
+<<<<<<< HEAD
       <link>/tags/emotions/</link>
       <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
       
       <guid>/tags/emotions/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/emotions/</link>
+      <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/emotions/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Energy</title>
+<<<<<<< HEAD
       <link>/tags/energy/</link>
       <pubDate>Wed, 14 Apr 2010 14:05:00 +0000</pubDate>
       
       <guid>/tags/energy/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/energy/</link>
+      <pubDate>Wed, 14 Apr 2010 14:05:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/energy/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Enjoyment</title>
+<<<<<<< HEAD
       <link>/tags/enjoyment/</link>
       <pubDate>Wed, 14 Apr 2010 14:05:00 +0000</pubDate>
       
       <guid>/tags/enjoyment/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/enjoyment/</link>
+      <pubDate>Wed, 14 Apr 2010 14:05:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/enjoyment/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Eros</title>
+<<<<<<< HEAD
       <link>/tags/eros/</link>
       <pubDate>Fri, 12 Feb 2010 15:10:00 +0000</pubDate>
       
       <guid>/tags/eros/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/eros/</link>
+      <pubDate>Fri, 12 Feb 2010 15:10:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/eros/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Events</title>
+<<<<<<< HEAD
       <link>/tags/events/</link>
       <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
       
@@ -521,173 +915,306 @@
       <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
       
       <guid>/tags/example/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/events/</link>
+      <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/events/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Faith</title>
+<<<<<<< HEAD
       <link>/tags/faith/</link>
       <pubDate>Wed, 19 Apr 2017 22:51:00 +0000</pubDate>
       
       <guid>/tags/faith/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/faith/</link>
+      <pubDate>Wed, 19 Apr 2017 22:51:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/faith/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Family</title>
+<<<<<<< HEAD
       <link>/tags/family/</link>
       <pubDate>Thu, 26 May 2016 17:56:00 +0000</pubDate>
       
       <guid>/tags/family/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/family/</link>
+      <pubDate>Thu, 26 May 2016 17:56:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/family/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Fasting</title>
+<<<<<<< HEAD
       <link>/tags/fasting/</link>
       <pubDate>Sat, 16 Jan 2016 22:36:00 +0000</pubDate>
       
       <guid>/tags/fasting/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/fasting/</link>
+      <pubDate>Sat, 16 Jan 2016 22:36:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/fasting/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Fear</title>
+<<<<<<< HEAD
       <link>/tags/fear/</link>
       <pubDate>Thu, 05 May 2016 18:25:00 +0000</pubDate>
       
       <guid>/tags/fear/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/fear/</link>
+      <pubDate>Thu, 05 May 2016 18:25:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/fear/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Feelings</title>
+<<<<<<< HEAD
       <link>/tags/feelings/</link>
       <pubDate>Mon, 08 Feb 2010 15:02:00 +0000</pubDate>
       
       <guid>/tags/feelings/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/feelings/</link>
+      <pubDate>Mon, 08 Feb 2010 15:02:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/feelings/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Filming</title>
+<<<<<<< HEAD
       <link>/tags/filming/</link>
       <pubDate>Wed, 10 Mar 2010 14:54:00 +0000</pubDate>
       
       <guid>/tags/filming/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/filming/</link>
+      <pubDate>Wed, 10 Mar 2010 14:54:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/filming/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Financial Peace</title>
+<<<<<<< HEAD
       <link>/tags/financial-peace/</link>
       <pubDate>Thu, 07 Jan 2010 15:54:00 +0000</pubDate>
       
       <guid>/tags/financial-peace/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/financial-peace/</link>
+      <pubDate>Thu, 07 Jan 2010 15:54:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/financial-peace/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Flow</title>
+<<<<<<< HEAD
       <link>/tags/flow/</link>
       <pubDate>Fri, 15 Jan 2010 14:57:00 +0000</pubDate>
       
       <guid>/tags/flow/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/flow/</link>
+      <pubDate>Fri, 15 Jan 2010 14:57:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/flow/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Forgiveness</title>
+<<<<<<< HEAD
       <link>/tags/forgiveness/</link>
       <pubDate>Sat, 06 Feb 2016 21:50:00 +0000</pubDate>
       
       <guid>/tags/forgiveness/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/forgiveness/</link>
+      <pubDate>Sat, 06 Feb 2016 21:50:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/forgiveness/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Friendship</title>
+<<<<<<< HEAD
       <link>/tags/friendship/</link>
       <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
       
       <guid>/tags/friendship/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/friendship/</link>
+      <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/friendship/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Goals</title>
+<<<<<<< HEAD
       <link>/tags/goals/</link>
       <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
       
       <guid>/tags/goals/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/goals/</link>
+      <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/goals/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Goodbye</title>
+<<<<<<< HEAD
       <link>/tags/goodbye/</link>
       <pubDate>Sun, 22 Nov 2015 19:38:00 +0000</pubDate>
       
       <guid>/tags/goodbye/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/goodbye/</link>
+      <pubDate>Sun, 22 Nov 2015 19:38:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/goodbye/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Grace</title>
+<<<<<<< HEAD
       <link>/tags/grace/</link>
       <pubDate>Sat, 20 Aug 2016 18:13:00 +0000</pubDate>
       
       <guid>/tags/grace/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/grace/</link>
+      <pubDate>Sat, 20 Aug 2016 18:13:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/grace/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Grief</title>
+<<<<<<< HEAD
       <link>/tags/grief/</link>
       <pubDate>Wed, 19 Apr 2017 22:51:00 +0000</pubDate>
       
       <guid>/tags/grief/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/grief/</link>
+      <pubDate>Wed, 19 Apr 2017 22:51:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/grief/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Growth</title>
+<<<<<<< HEAD
       <link>/tags/growth/</link>
       <pubDate>Tue, 18 Oct 2016 03:35:00 +0000</pubDate>
       
       <guid>/tags/growth/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/growth/</link>
+      <pubDate>Tue, 18 Oct 2016 03:35:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/growth/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Guilt</title>
+<<<<<<< HEAD
       <link>/tags/guilt/</link>
       <pubDate>Mon, 11 Jan 2010 15:04:00 +0000</pubDate>
       
       <guid>/tags/guilt/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/guilt/</link>
+      <pubDate>Mon, 11 Jan 2010 15:04:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/guilt/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Happy Hour</title>
+<<<<<<< HEAD
       <link>/tags/happy-hour/</link>
       <pubDate>Tue, 05 Jan 2010 04:53:00 +0000</pubDate>
       
       <guid>/tags/happy-hour/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/happy-hour/</link>
+      <pubDate>Tue, 05 Jan 2010 04:53:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/happy-hour/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Healing</title>
+<<<<<<< HEAD
       <link>/tags/healing/</link>
       <pubDate>Thu, 05 May 2016 18:25:00 +0000</pubDate>
       
       <guid>/tags/healing/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/healing/</link>
+      <pubDate>Thu, 05 May 2016 18:25:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/healing/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Hope</title>
+<<<<<<< HEAD
       <link>/tags/hope/</link>
       <pubDate>Thu, 11 Feb 2010 01:31:00 +0000</pubDate>
       
@@ -701,137 +1228,242 @@
       <pubDate>Sun, 02 Apr 2017 22:01:15 +0100</pubDate>
       
       <guid>/tags/hugo/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/hope/</link>
+      <pubDate>Thu, 11 Feb 2010 01:31:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/hope/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Humility</title>
+<<<<<<< HEAD
       <link>/tags/humility/</link>
       <pubDate>Thu, 29 Oct 2015 03:21:00 +0000</pubDate>
       
       <guid>/tags/humility/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/humility/</link>
+      <pubDate>Thu, 29 Oct 2015 03:21:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/humility/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Husband</title>
+<<<<<<< HEAD
       <link>/tags/husband/</link>
       <pubDate>Tue, 26 Jan 2010 04:38:00 +0000</pubDate>
       
       <guid>/tags/husband/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/husband/</link>
+      <pubDate>Tue, 26 Jan 2010 04:38:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/husband/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Idolatry</title>
+<<<<<<< HEAD
       <link>/tags/idolatry/</link>
       <pubDate>Thu, 26 May 2016 17:56:00 +0000</pubDate>
       
       <guid>/tags/idolatry/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/idolatry/</link>
+      <pubDate>Thu, 26 May 2016 17:56:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/idolatry/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Ignoring Passion</title>
+<<<<<<< HEAD
       <link>/tags/ignoring-passion/</link>
       <pubDate>Wed, 24 Feb 2010 14:54:00 +0000</pubDate>
       
       <guid>/tags/ignoring-passion/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/ignoring-passion/</link>
+      <pubDate>Wed, 24 Feb 2010 14:54:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/ignoring-passion/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Illness</title>
+<<<<<<< HEAD
       <link>/tags/illness/</link>
       <pubDate>Thu, 03 Dec 2015 15:11:00 +0000</pubDate>
       
       <guid>/tags/illness/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/illness/</link>
+      <pubDate>Thu, 03 Dec 2015 15:11:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/illness/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>In the Moment</title>
+<<<<<<< HEAD
       <link>/tags/in-the-moment/</link>
       <pubDate>Sun, 10 Jan 2010 01:04:00 +0000</pubDate>
       
       <guid>/tags/in-the-moment/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/in-the-moment/</link>
+      <pubDate>Sun, 10 Jan 2010 01:04:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/in-the-moment/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Inconsistency</title>
+<<<<<<< HEAD
       <link>/tags/inconsistency/</link>
       <pubDate>Thu, 29 Oct 2015 03:21:00 +0000</pubDate>
       
       <guid>/tags/inconsistency/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/inconsistency/</link>
+      <pubDate>Thu, 29 Oct 2015 03:21:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/inconsistency/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Jesus</title>
+<<<<<<< HEAD
       <link>/tags/jesus/</link>
       <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
       
       <guid>/tags/jesus/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/jesus/</link>
+      <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/jesus/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Kids</title>
+<<<<<<< HEAD
       <link>/tags/kids/</link>
       <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
       
       <guid>/tags/kids/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/kids/</link>
+      <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/kids/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Killing Dreams</title>
+<<<<<<< HEAD
       <link>/tags/killing-dreams/</link>
       <pubDate>Mon, 18 Jan 2010 16:35:00 +0000</pubDate>
       
       <guid>/tags/killing-dreams/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/killing-dreams/</link>
+      <pubDate>Mon, 18 Jan 2010 16:35:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/killing-dreams/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Leadership</title>
+<<<<<<< HEAD
       <link>/tags/leadership/</link>
       <pubDate>Mon, 07 Nov 2016 03:33:00 +0000</pubDate>
       
       <guid>/tags/leadership/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/leadership/</link>
+      <pubDate>Mon, 07 Nov 2016 03:33:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/leadership/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Lgbtq</title>
+<<<<<<< HEAD
       <link>/tags/lgbtq/</link>
       <pubDate>Wed, 19 Apr 2017 22:51:00 +0000</pubDate>
       
       <guid>/tags/lgbtq/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/lgbtq/</link>
+      <pubDate>Wed, 19 Apr 2017 22:51:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/lgbtq/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Listening</title>
+<<<<<<< HEAD
       <link>/tags/listening/</link>
       <pubDate>Thu, 16 Jun 2016 22:53:00 +0000</pubDate>
       
       <guid>/tags/listening/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/listening/</link>
+      <pubDate>Thu, 16 Jun 2016 22:53:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/listening/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Love</title>
+<<<<<<< HEAD
       <link>/tags/love/</link>
       <pubDate>Fri, 11 Nov 2016 23:06:00 +0000</pubDate>
       
       <guid>/tags/love/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/love/</link>
+      <pubDate>Fri, 11 Nov 2016 23:06:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/love/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Makeup</title>
+<<<<<<< HEAD
       <link>/tags/makeup/</link>
       <pubDate>Sun, 10 Jan 2010 01:04:00 +0000</pubDate>
       
@@ -845,254 +1477,450 @@
       <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
       
       <guid>/tags/markdown/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/makeup/</link>
+      <pubDate>Sun, 10 Jan 2010 01:04:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/makeup/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Marriage</title>
+<<<<<<< HEAD
       <link>/tags/marriage/</link>
       <pubDate>Wed, 30 Sep 2015 18:52:00 +0000</pubDate>
       
       <guid>/tags/marriage/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/marriage/</link>
+      <pubDate>Wed, 30 Sep 2015 18:52:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/marriage/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Mascara</title>
+<<<<<<< HEAD
       <link>/tags/mascara/</link>
       <pubDate>Sun, 10 Jan 2010 01:04:00 +0000</pubDate>
       
       <guid>/tags/mascara/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/mascara/</link>
+      <pubDate>Sun, 10 Jan 2010 01:04:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/mascara/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Maturity</title>
+<<<<<<< HEAD
       <link>/tags/maturity/</link>
       <pubDate>Thu, 27 Apr 2017 23:00:00 +0000</pubDate>
       
       <guid>/tags/maturity/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/maturity/</link>
+      <pubDate>Thu, 27 Apr 2017 23:00:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/maturity/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Mental Illness</title>
+<<<<<<< HEAD
       <link>/tags/mental-illness/</link>
       <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
       
       <guid>/tags/mental-illness/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/mental-illness/</link>
+      <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/mental-illness/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Metaphor</title>
+<<<<<<< HEAD
       <link>/tags/metaphor/</link>
       <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
       
       <guid>/tags/metaphor/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/metaphor/</link>
+      <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/metaphor/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Milkweed</title>
+<<<<<<< HEAD
       <link>/tags/milkweed/</link>
       <pubDate>Sun, 22 Nov 2015 19:38:00 +0000</pubDate>
       
       <guid>/tags/milkweed/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/milkweed/</link>
+      <pubDate>Sun, 22 Nov 2015 19:38:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/milkweed/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Ministry</title>
+<<<<<<< HEAD
       <link>/tags/ministry/</link>
       <pubDate>Thu, 05 May 2016 18:25:00 +0000</pubDate>
       
       <guid>/tags/ministry/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/ministry/</link>
+      <pubDate>Thu, 05 May 2016 18:25:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/ministry/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Morning</title>
+<<<<<<< HEAD
       <link>/tags/morning/</link>
       <pubDate>Wed, 06 Jan 2010 15:55:00 +0000</pubDate>
       
       <guid>/tags/morning/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/morning/</link>
+      <pubDate>Wed, 06 Jan 2010 15:55:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/morning/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Mourning</title>
+<<<<<<< HEAD
       <link>/tags/mourning/</link>
       <pubDate>Fri, 17 Jun 2016 23:11:00 +0000</pubDate>
       
       <guid>/tags/mourning/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/mourning/</link>
+      <pubDate>Fri, 17 Jun 2016 23:11:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/mourning/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Movement</title>
+<<<<<<< HEAD
       <link>/tags/movement/</link>
       <pubDate>Mon, 04 Jan 2010 14:46:00 +0000</pubDate>
       
       <guid>/tags/movement/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/movement/</link>
+      <pubDate>Mon, 04 Jan 2010 14:46:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/movement/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Movies</title>
+<<<<<<< HEAD
       <link>/tags/movies/</link>
       <pubDate>Tue, 26 Jan 2010 04:38:00 +0000</pubDate>
       
       <guid>/tags/movies/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/movies/</link>
+      <pubDate>Tue, 26 Jan 2010 04:38:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/movies/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>New Years Day</title>
+<<<<<<< HEAD
       <link>/tags/new-years-day/</link>
       <pubDate>Sat, 02 Jan 2010 16:43:00 +0000</pubDate>
       
       <guid>/tags/new-years-day/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/new-years-day/</link>
+      <pubDate>Sat, 02 Jan 2010 16:43:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/new-years-day/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Numb</title>
+<<<<<<< HEAD
       <link>/tags/numb/</link>
       <pubDate>Sat, 20 Aug 2016 18:13:00 +0000</pubDate>
       
       <guid>/tags/numb/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/numb/</link>
+      <pubDate>Sat, 20 Aug 2016 18:13:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/numb/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Openness</title>
+<<<<<<< HEAD
       <link>/tags/openness/</link>
       <pubDate>Wed, 14 Apr 2010 14:05:00 +0000</pubDate>
       
       <guid>/tags/openness/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/openness/</link>
+      <pubDate>Wed, 14 Apr 2010 14:05:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/openness/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Overview</title>
+<<<<<<< HEAD
       <link>/tags/overview/</link>
       <pubDate>Fri, 01 Jan 2010 01:17:00 +0000</pubDate>
       
       <guid>/tags/overview/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/overview/</link>
+      <pubDate>Fri, 01 Jan 2010 01:17:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/overview/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Pain</title>
+<<<<<<< HEAD
       <link>/tags/pain/</link>
       <pubDate>Tue, 18 Oct 2016 03:35:00 +0000</pubDate>
       
       <guid>/tags/pain/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/pain/</link>
+      <pubDate>Tue, 18 Oct 2016 03:35:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/pain/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Parable</title>
+<<<<<<< HEAD
       <link>/tags/parable/</link>
       <pubDate>Wed, 09 Mar 2016 18:29:00 +0000</pubDate>
       
       <guid>/tags/parable/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/parable/</link>
+      <pubDate>Wed, 09 Mar 2016 18:29:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/parable/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Pash10</title>
+<<<<<<< HEAD
       <link>/tags/pash10/</link>
       <pubDate>Fri, 01 Jan 2010 01:17:00 +0000</pubDate>
       
       <guid>/tags/pash10/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/pash10/</link>
+      <pubDate>Fri, 01 Jan 2010 01:17:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/pash10/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Passion</title>
+<<<<<<< HEAD
       <link>/tags/passion/</link>
       <pubDate>Fri, 25 Mar 2016 02:51:00 +0000</pubDate>
       
       <guid>/tags/passion/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/passion/</link>
+      <pubDate>Fri, 25 Mar 2016 02:51:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/passion/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Passion Blockers</title>
+<<<<<<< HEAD
       <link>/tags/passion-blockers/</link>
       <pubDate>Wed, 10 Mar 2010 14:54:00 +0000</pubDate>
       
       <guid>/tags/passion-blockers/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/passion-blockers/</link>
+      <pubDate>Wed, 10 Mar 2010 14:54:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/passion-blockers/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Peace</title>
+<<<<<<< HEAD
       <link>/tags/peace/</link>
       <pubDate>Fri, 15 Jan 2010 14:57:00 +0000</pubDate>
       
       <guid>/tags/peace/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/peace/</link>
+      <pubDate>Fri, 15 Jan 2010 14:57:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/peace/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Philos</title>
+<<<<<<< HEAD
       <link>/tags/philos/</link>
       <pubDate>Fri, 12 Feb 2010 15:10:00 +0000</pubDate>
       
       <guid>/tags/philos/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/philos/</link>
+      <pubDate>Fri, 12 Feb 2010 15:10:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/philos/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Phoenix</title>
+<<<<<<< HEAD
       <link>/tags/phoenix/</link>
       <pubDate>Sat, 02 Jan 2010 16:43:00 +0000</pubDate>
       
       <guid>/tags/phoenix/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/phoenix/</link>
+      <pubDate>Sat, 02 Jan 2010 16:43:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/phoenix/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Planning</title>
+<<<<<<< HEAD
       <link>/tags/planning/</link>
       <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
       
       <guid>/tags/planning/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/planning/</link>
+      <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/planning/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Prayer</title>
+<<<<<<< HEAD
       <link>/tags/prayer/</link>
       <pubDate>Thu, 07 Jan 2016 22:08:00 +0000</pubDate>
       
       <guid>/tags/prayer/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/prayer/</link>
+      <pubDate>Thu, 07 Jan 2016 22:08:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/prayer/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Preparation</title>
+<<<<<<< HEAD
       <link>/tags/preparation/</link>
       <pubDate>Thu, 07 Jan 2016 22:08:00 +0000</pubDate>
       
       <guid>/tags/preparation/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/preparation/</link>
+      <pubDate>Thu, 07 Jan 2016 22:08:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/preparation/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Progress</title>
+<<<<<<< HEAD
       <link>/tags/progress/</link>
       <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
       
       <guid>/tags/progress/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/progress/</link>
+      <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/progress/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
+<<<<<<< HEAD
       <link>/tags/projects/</link>
       <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
       
@@ -1106,474 +1934,844 @@
       <pubDate>Sun, 02 Apr 2017 22:01:15 +0100</pubDate>
       
       <guid>/tags/prototype/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/projects/</link>
+      <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/projects/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Redemption</title>
+<<<<<<< HEAD
       <link>/tags/redemption/</link>
       <pubDate>Tue, 18 Oct 2016 03:35:00 +0000</pubDate>
       
       <guid>/tags/redemption/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/redemption/</link>
+      <pubDate>Tue, 18 Oct 2016 03:35:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/redemption/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Relationships</title>
+<<<<<<< HEAD
       <link>/tags/relationships/</link>
       <pubDate>Mon, 04 Jan 2010 14:46:00 +0000</pubDate>
       
       <guid>/tags/relationships/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/relationships/</link>
+      <pubDate>Mon, 04 Jan 2010 14:46:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/relationships/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Relaxing</title>
+<<<<<<< HEAD
       <link>/tags/relaxing/</link>
       <pubDate>Sat, 02 Jan 2010 16:43:00 +0000</pubDate>
       
       <guid>/tags/relaxing/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/relaxing/</link>
+      <pubDate>Sat, 02 Jan 2010 16:43:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/relaxing/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Rest</title>
+<<<<<<< HEAD
       <link>/tags/rest/</link>
       <pubDate>Thu, 05 May 2016 18:25:00 +0000</pubDate>
       
       <guid>/tags/rest/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/rest/</link>
+      <pubDate>Thu, 05 May 2016 18:25:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/rest/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Restoration</title>
+<<<<<<< HEAD
       <link>/tags/restoration/</link>
       <pubDate>Fri, 11 Nov 2016 23:06:00 +0000</pubDate>
       
       <guid>/tags/restoration/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/restoration/</link>
+      <pubDate>Fri, 11 Nov 2016 23:06:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/restoration/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Role Model</title>
+<<<<<<< HEAD
       <link>/tags/role-model/</link>
       <pubDate>Fri, 22 Jan 2010 05:11:00 +0000</pubDate>
       
       <guid>/tags/role-model/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/role-model/</link>
+      <pubDate>Fri, 22 Jan 2010 05:11:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/role-model/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Rules</title>
+<<<<<<< HEAD
       <link>/tags/rules/</link>
       <pubDate>Fri, 03 Nov 2017 21:25:00 +0000</pubDate>
       
       <guid>/tags/rules/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/rules/</link>
+      <pubDate>Fri, 03 Nov 2017 21:25:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/rules/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Sacrifice</title>
+<<<<<<< HEAD
       <link>/tags/sacrifice/</link>
       <pubDate>Fri, 07 Oct 2016 22:59:00 +0000</pubDate>
       
       <guid>/tags/sacrifice/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/sacrifice/</link>
+      <pubDate>Fri, 07 Oct 2016 22:59:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/sacrifice/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Sailbear</title>
+<<<<<<< HEAD
       <link>/tags/sailbear/</link>
       <pubDate>Tue, 26 Jan 2010 04:38:00 +0000</pubDate>
       
       <guid>/tags/sailbear/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/sailbear/</link>
+      <pubDate>Tue, 26 Jan 2010 04:38:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/sailbear/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Security</title>
+<<<<<<< HEAD
       <link>/tags/security/</link>
       <pubDate>Sun, 31 Jan 2010 01:34:00 +0000</pubDate>
       
       <guid>/tags/security/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/security/</link>
+      <pubDate>Sun, 31 Jan 2010 01:34:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/security/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Seeds</title>
+<<<<<<< HEAD
       <link>/tags/seeds/</link>
       <pubDate>Wed, 09 Mar 2016 18:29:00 +0000</pubDate>
       
       <guid>/tags/seeds/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/seeds/</link>
+      <pubDate>Wed, 09 Mar 2016 18:29:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/seeds/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Sensations</title>
+<<<<<<< HEAD
       <link>/tags/sensations/</link>
       <pubDate>Thu, 21 Jan 2010 01:13:00 +0000</pubDate>
       
       <guid>/tags/sensations/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/sensations/</link>
+      <pubDate>Thu, 21 Jan 2010 01:13:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/sensations/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Senses</title>
+<<<<<<< HEAD
       <link>/tags/senses/</link>
       <pubDate>Thu, 21 Jan 2010 01:13:00 +0000</pubDate>
       
       <guid>/tags/senses/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/senses/</link>
+      <pubDate>Thu, 21 Jan 2010 01:13:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/senses/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Serving</title>
+<<<<<<< HEAD
       <link>/tags/serving/</link>
       <pubDate>Sun, 11 Jan 2009 16:02:00 +0000</pubDate>
       
       <guid>/tags/serving/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/serving/</link>
+      <pubDate>Sun, 11 Jan 2009 16:02:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/serving/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Sex</title>
+<<<<<<< HEAD
       <link>/tags/sex/</link>
       <pubDate>Sun, 01 Nov 2015 23:20:00 +0000</pubDate>
       
       <guid>/tags/sex/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/sex/</link>
+      <pubDate>Sun, 01 Nov 2015 23:20:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/sex/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Shame</title>
+<<<<<<< HEAD
       <link>/tags/shame/</link>
       <pubDate>Mon, 11 Jan 2010 15:04:00 +0000</pubDate>
       
       <guid>/tags/shame/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/shame/</link>
+      <pubDate>Mon, 11 Jan 2010 15:04:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/shame/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Simplifying</title>
+<<<<<<< HEAD
       <link>/tags/simplifying/</link>
       <pubDate>Fri, 15 Jan 2010 14:57:00 +0000</pubDate>
       
       <guid>/tags/simplifying/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/simplifying/</link>
+      <pubDate>Fri, 15 Jan 2010 14:57:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/simplifying/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Sin</title>
+<<<<<<< HEAD
       <link>/tags/sin/</link>
       <pubDate>Sun, 08 Nov 2015 21:47:00 +0000</pubDate>
       
       <guid>/tags/sin/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/sin/</link>
+      <pubDate>Sun, 08 Nov 2015 21:47:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/sin/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Snowflake Vigil</title>
+<<<<<<< HEAD
       <link>/tags/snowflake-vigil/</link>
       <pubDate>Fri, 17 Jun 2016 23:11:00 +0000</pubDate>
       
       <guid>/tags/snowflake-vigil/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/snowflake-vigil/</link>
+      <pubDate>Fri, 17 Jun 2016 23:11:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/snowflake-vigil/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Social Justice</title>
+<<<<<<< HEAD
       <link>/tags/social-justice/</link>
       <pubDate>Fri, 03 Nov 2017 21:25:00 +0000</pubDate>
       
       <guid>/tags/social-justice/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/social-justice/</link>
+      <pubDate>Fri, 03 Nov 2017 21:25:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/social-justice/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Sower</title>
+<<<<<<< HEAD
       <link>/tags/sower/</link>
       <pubDate>Wed, 09 Mar 2016 18:29:00 +0000</pubDate>
       
       <guid>/tags/sower/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/sower/</link>
+      <pubDate>Wed, 09 Mar 2016 18:29:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/sower/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Spiritual Gifts</title>
+<<<<<<< HEAD
       <link>/tags/spiritual-gifts/</link>
       <pubDate>Mon, 07 Nov 2016 03:33:00 +0000</pubDate>
       
       <guid>/tags/spiritual-gifts/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/spiritual-gifts/</link>
+      <pubDate>Mon, 07 Nov 2016 03:33:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/spiritual-gifts/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Spiritual Growth</title>
+<<<<<<< HEAD
       <link>/tags/spiritual-growth/</link>
       <pubDate>Sat, 16 Jan 2016 22:36:00 +0000</pubDate>
       
       <guid>/tags/spiritual-growth/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/spiritual-growth/</link>
+      <pubDate>Sat, 16 Jan 2016 22:36:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/spiritual-growth/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Stirred Up</title>
+<<<<<<< HEAD
       <link>/tags/stirred-up/</link>
       <pubDate>Sun, 31 Jan 2010 01:34:00 +0000</pubDate>
       
       <guid>/tags/stirred-up/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/stirred-up/</link>
+      <pubDate>Sun, 31 Jan 2010 01:34:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/stirred-up/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Storytelling</title>
+<<<<<<< HEAD
       <link>/tags/storytelling/</link>
       <pubDate>Wed, 09 Mar 2016 18:29:00 +0000</pubDate>
       
       <guid>/tags/storytelling/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/storytelling/</link>
+      <pubDate>Wed, 09 Mar 2016 18:29:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/storytelling/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Strategy</title>
+<<<<<<< HEAD
       <link>/tags/strategy/</link>
       <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
       
       <guid>/tags/strategy/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/strategy/</link>
+      <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/strategy/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Substance Abuse</title>
+<<<<<<< HEAD
       <link>/tags/substance-abuse/</link>
       <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
       
       <guid>/tags/substance-abuse/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/substance-abuse/</link>
+      <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/substance-abuse/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Surrender</title>
+<<<<<<< HEAD
       <link>/tags/surrender/</link>
       <pubDate>Tue, 18 Oct 2016 03:35:00 +0000</pubDate>
       
       <guid>/tags/surrender/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/surrender/</link>
+      <pubDate>Tue, 18 Oct 2016 03:35:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/surrender/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Temptation</title>
+<<<<<<< HEAD
       <link>/tags/temptation/</link>
       <pubDate>Sun, 01 Nov 2015 23:20:00 +0000</pubDate>
       
       <guid>/tags/temptation/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/temptation/</link>
+      <pubDate>Sun, 01 Nov 2015 23:20:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/temptation/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Testimony</title>
+<<<<<<< HEAD
       <link>/tags/testimony/</link>
       <pubDate>Sun, 08 Nov 2015 21:47:00 +0000</pubDate>
       
       <guid>/tags/testimony/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/testimony/</link>
+      <pubDate>Sun, 08 Nov 2015 21:47:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/testimony/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Thanks</title>
+<<<<<<< HEAD
       <link>/tags/thanks/</link>
       <pubDate>Wed, 24 Feb 2010 14:54:00 +0000</pubDate>
       
       <guid>/tags/thanks/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/thanks/</link>
+      <pubDate>Wed, 24 Feb 2010 14:54:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/thanks/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>The Body</title>
+<<<<<<< HEAD
       <link>/tags/the-body/</link>
       <pubDate>Sat, 16 Aug 2008 14:20:00 +0000</pubDate>
       
       <guid>/tags/the-body/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/the-body/</link>
+      <pubDate>Sat, 16 Aug 2008 14:20:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/the-body/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>The Great Commission</title>
+<<<<<<< HEAD
       <link>/tags/the-great-commission/</link>
       <pubDate>Fri, 11 Dec 2015 16:52:00 +0000</pubDate>
       
       <guid>/tags/the-great-commission/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/the-great-commission/</link>
+      <pubDate>Fri, 11 Dec 2015 16:52:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/the-great-commission/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
+<<<<<<< HEAD
       <link>/tags/theme/</link>
       <pubDate>Fri, 01 Jan 2010 01:17:00 +0000</pubDate>
       
       <guid>/tags/theme/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/theme/</link>
+      <pubDate>Fri, 01 Jan 2010 01:17:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/theme/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Time Travel</title>
+<<<<<<< HEAD
       <link>/tags/time-travel/</link>
       <pubDate>Wed, 09 Mar 2016 18:29:00 +0000</pubDate>
       
       <guid>/tags/time-travel/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/time-travel/</link>
+      <pubDate>Wed, 09 Mar 2016 18:29:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/time-travel/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Together</title>
+<<<<<<< HEAD
       <link>/tags/together/</link>
       <pubDate>Fri, 25 Mar 2016 02:51:00 +0000</pubDate>
       
       <guid>/tags/together/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/together/</link>
+      <pubDate>Fri, 25 Mar 2016 02:51:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/together/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Toy Train</title>
+<<<<<<< HEAD
       <link>/tags/toy-train/</link>
       <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
       
       <guid>/tags/toy-train/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/toy-train/</link>
+      <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/toy-train/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Tragedy</title>
+<<<<<<< HEAD
       <link>/tags/tragedy/</link>
       <pubDate>Mon, 13 Jun 2016 20:27:00 +0000</pubDate>
       
       <guid>/tags/tragedy/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/tragedy/</link>
+      <pubDate>Mon, 13 Jun 2016 20:27:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/tragedy/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Trees</title>
+<<<<<<< HEAD
       <link>/tags/trees/</link>
       <pubDate>Sun, 03 May 2009 16:19:00 +0000</pubDate>
       
       <guid>/tags/trees/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/trees/</link>
+      <pubDate>Sun, 03 May 2009 16:19:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/trees/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Trust</title>
+<<<<<<< HEAD
       <link>/tags/trust/</link>
       <pubDate>Fri, 25 Mar 2016 02:51:00 +0000</pubDate>
       
       <guid>/tags/trust/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/trust/</link>
+      <pubDate>Fri, 25 Mar 2016 02:51:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/trust/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Truth</title>
+<<<<<<< HEAD
       <link>/tags/truth/</link>
       <pubDate>Thu, 27 Apr 2017 23:00:00 +0000</pubDate>
       
       <guid>/tags/truth/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/truth/</link>
+      <pubDate>Thu, 27 Apr 2017 23:00:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/truth/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Unity</title>
+<<<<<<< HEAD
       <link>/tags/unity/</link>
       <pubDate>Fri, 11 Nov 2016 23:06:00 +0000</pubDate>
       
       <guid>/tags/unity/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/unity/</link>
+      <pubDate>Fri, 11 Nov 2016 23:06:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/unity/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Unplanned</title>
+<<<<<<< HEAD
       <link>/tags/unplanned/</link>
       <pubDate>Sun, 31 Jan 2010 01:34:00 +0000</pubDate>
       
       <guid>/tags/unplanned/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/unplanned/</link>
+      <pubDate>Sun, 31 Jan 2010 01:34:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/unplanned/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Unscheduled</title>
+<<<<<<< HEAD
       <link>/tags/unscheduled/</link>
       <pubDate>Tue, 05 Jan 2010 04:53:00 +0000</pubDate>
       
       <guid>/tags/unscheduled/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/unscheduled/</link>
+      <pubDate>Tue, 05 Jan 2010 04:53:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/unscheduled/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Waiting</title>
+<<<<<<< HEAD
       <link>/tags/waiting/</link>
       <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
       
       <guid>/tags/waiting/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/waiting/</link>
+      <pubDate>Sun, 05 Mar 2017 20:49:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/waiting/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Weeds</title>
+<<<<<<< HEAD
       <link>/tags/weeds/</link>
       <pubDate>Sun, 03 May 2009 16:19:00 +0000</pubDate>
       
       <guid>/tags/weeds/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/weeds/</link>
+      <pubDate>Sun, 03 May 2009 16:19:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/weeds/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Whiteaugusttea.com</title>
+<<<<<<< HEAD
       <link>/tags/whiteaugusttea.com/</link>
       <pubDate>Sat, 02 Jan 2010 16:43:00 +0000</pubDate>
       
       <guid>/tags/whiteaugusttea.com/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/whiteaugusttea.com/</link>
+      <pubDate>Sat, 02 Jan 2010 16:43:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/whiteaugusttea.com/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Women</title>
+<<<<<<< HEAD
       <link>/tags/women/</link>
       <pubDate>Mon, 07 Nov 2016 03:33:00 +0000</pubDate>
       
       <guid>/tags/women/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/women/</link>
+      <pubDate>Mon, 07 Nov 2016 03:33:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/women/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Words</title>
+<<<<<<< HEAD
       <link>/tags/words/</link>
       <pubDate>Tue, 25 Nov 2008 04:56:00 +0000</pubDate>
       
       <guid>/tags/words/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/words/</link>
+      <pubDate>Tue, 25 Nov 2008 04:56:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/words/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Work</title>
+<<<<<<< HEAD
       <link>/tags/work/</link>
       <pubDate>Wed, 14 Apr 2010 14:05:00 +0000</pubDate>
       
       <guid>/tags/work/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/work/</link>
+      <pubDate>Wed, 14 Apr 2010 14:05:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/work/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Worship</title>
+<<<<<<< HEAD
       <link>/tags/worship/</link>
       <pubDate>Fri, 25 Mar 2016 02:51:00 +0000</pubDate>
       
       <guid>/tags/worship/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/worship/</link>
+      <pubDate>Fri, 25 Mar 2016 02:51:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/worship/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     
     <item>
       <title>Writing</title>
+<<<<<<< HEAD
       <link>/tags/writing/</link>
       <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
       
       <guid>/tags/writing/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/tags/writing/</link>
+      <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/tags/writing/</guid>
+>>>>>>> minimal
       <description></description>
     </item>
     

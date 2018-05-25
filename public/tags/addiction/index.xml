@@ -2,21 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Addiction on Jessica S. Marquis</title>
+<<<<<<< HEAD
     <link>/tags/addiction/</link>
+=======
+    <link>http://dev.jessicasmarquis.com/tags/addiction/</link>
+>>>>>>> minimal
     <description>Recent content in Addiction on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Jun 2016 20:38:00 +0000</lastBuildDate>
     
+<<<<<<< HEAD
 	<atom:link href="/tags/addiction/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://dev.jessicasmarquis.com/tags/addiction/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> minimal
     
     
     <item>
       <title>Uncle Mark’s Troublesome Toy Car</title>
+<<<<<<< HEAD
       <link>/2016/06/26/2016-06-uncle-marks-troublesome-toy-car-html/</link>
       <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
       
       <guid>/2016/06/26/2016-06-uncle-marks-troublesome-toy-car-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2016/06/26/2016-06-uncle-marks-troublesome-toy-car-html/</link>
+      <pubDate>Sun, 26 Jun 2016 20:38:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2016/06/26/2016-06-uncle-marks-troublesome-toy-car-html/</guid>
+>>>>>>> minimal
       <description>For those of you who have set a boundary with a loved one and need a way to communicate about it to your young children, feel free to use the story below which I wrote for our little ones. Due to the tragic passing of my brother after his battle with addiction, we no longer need it; still, I want to share it with anyone who may.
 Uncle Mark’s Troublesome Toy Car:</description>
     </item>

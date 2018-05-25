@@ -2,21 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Energy on Jessica S. Marquis</title>
+<<<<<<< HEAD
     <link>/tags/energy/</link>
+=======
+    <link>http://dev.jessicasmarquis.com/tags/energy/</link>
+>>>>>>> minimal
     <description>Recent content in Energy on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Apr 2010 14:05:00 +0000</lastBuildDate>
     
+<<<<<<< HEAD
 	<atom:link href="/tags/energy/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://dev.jessicasmarquis.com/tags/energy/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> minimal
     
     
     <item>
       <title>day #94</title>
+<<<<<<< HEAD
       <link>/2010/04/14/2010-04-day-94-html/</link>
       <pubDate>Wed, 14 Apr 2010 14:05:00 +0000</pubDate>
       
       <guid>/2010/04/14/2010-04-day-94-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2010/04/14/2010-04-day-94-html/</link>
+      <pubDate>Wed, 14 Apr 2010 14:05:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2010/04/14/2010-04-day-94-html/</guid>
+>>>>>>> minimal
       <description>coming out from under a dark cloud.
 my passion has been tested &amp;amp; refined during the past few months,
 and i&amp;#8217;m happy to say that i&amp;#8217;m starting to see it again.

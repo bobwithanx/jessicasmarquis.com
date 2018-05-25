@@ -2,21 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Surrender on Jessica S. Marquis</title>
+<<<<<<< HEAD
     <link>/tags/surrender/</link>
+=======
+    <link>http://dev.jessicasmarquis.com/tags/surrender/</link>
+>>>>>>> minimal
     <description>Recent content in Surrender on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Oct 2016 03:35:00 +0000</lastBuildDate>
     
+<<<<<<< HEAD
 	<atom:link href="/tags/surrender/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://dev.jessicasmarquis.com/tags/surrender/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> minimal
     
     
     <item>
       <title>My Ambivalent Fallout with a Bush: A Story of Unexpected Restoration</title>
+<<<<<<< HEAD
       <link>/2016/10/18/2016-10-my-ambivalent-fallout-with-bush-story-html/</link>
       <pubDate>Tue, 18 Oct 2016 03:35:00 +0000</pubDate>
       
       <guid>/2016/10/18/2016-10-my-ambivalent-fallout-with-bush-story-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2016/10/18/2016-10-my-ambivalent-fallout-with-bush-story-html/</link>
+      <pubDate>Tue, 18 Oct 2016 03:35:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2016/10/18/2016-10-my-ambivalent-fallout-with-bush-story-html/</guid>
+>>>>>>> minimal
       <description>Last December, we had our front and back yards turned into desert landscaping. They went from being full of dirt, weeds, a big mulberry tree that pigeons pooped from, and a thorny bougainvillea, to being full of rocks, desert plants, a smaller tree that pigeons disdain, and a wispy bush with orange flowers.
 We were enamored.
 And then the weeds started. They got out of control. We tried to fight them, but we had to have professionals come in.</description>
@@ -24,20 +39,34 @@ And then the weeds started. They got out of control. We tried to fight them, but
     
     <item>
       <title>From the other side of the chrysalis</title>
+<<<<<<< HEAD
       <link>/2015/12/11/2015-12-from-other-side-of-chrysalis-html/</link>
       <pubDate>Fri, 11 Dec 2015 16:52:00 +0000</pubDate>
       
       <guid>/2015/12/11/2015-12-from-other-side-of-chrysalis-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2015/12/11/2015-12-from-other-side-of-chrysalis-html/</link>
+      <pubDate>Fri, 11 Dec 2015 16:52:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2015/12/11/2015-12-from-other-side-of-chrysalis-html/</guid>
+>>>>>>> minimal
       <description>I&amp;#8217;ve had a few weeks to process the dissolution of our weekly Milkweed Momdays. This past Monday was the first without the Bible study written on my calendar. (To be more accurate, it was written on the calendar, but I crossed it off.)
 Through reflections both in solitude and in the safe exploration afforded by the presence of gentle and wise friends, my perspective is widening beyond the sacrifice of my &amp;#8220;baby&amp;#8221; on that mountain.</description>
     </item>
     
     <item>
       <title>Cocoons</title>
+<<<<<<< HEAD
       <link>/2015/11/22/2015-11-cocoons-html/</link>
       <pubDate>Sun, 22 Nov 2015 19:38:00 +0000</pubDate>
       
       <guid>/2015/11/22/2015-11-cocoons-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2015/11/22/2015-11-cocoons-html/</link>
+      <pubDate>Sun, 22 Nov 2015 19:38:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2015/11/22/2015-11-cocoons-html/</guid>
+>>>>>>> minimal
       <description>On November 1 of this year, I wrote in my journal, &amp;#8220;I feel like something is about to turn.&amp;#8221;
 The next day, we met for our weekly Milkweed Momday and launched one of our own monarch butterflies, a mama named Jamie, out of our milkweed and into her new adventure.
 &amp;#8220;How exciting,&amp;#8221; I mused to my Shepherd. &amp;#8220;Now, what&amp;#8217;s next?&amp;#8221;
@@ -46,10 +75,17 @@ I felt Him inviting me up a mountain. It looked like a beautiful hike.</descript
     
     <item>
       <title>Trajectory</title>
+<<<<<<< HEAD
       <link>/2015/11/05/2015-11-trajectory-html/</link>
       <pubDate>Thu, 05 Nov 2015 23:10:00 +0000</pubDate>
       
       <guid>/2015/11/05/2015-11-trajectory-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2015/11/05/2015-11-trajectory-html/</link>
+      <pubDate>Thu, 05 Nov 2015 23:10:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2015/11/05/2015-11-trajectory-html/</guid>
+>>>>>>> minimal
       <description>The videos I store in my head seem to be cataloged into three categories:
  Life-changing moments
  Non-life-changing moments that still made an impact for some reason

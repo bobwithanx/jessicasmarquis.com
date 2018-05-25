@@ -2,21 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New Years Day on Jessica S. Marquis</title>
+<<<<<<< HEAD
     <link>/tags/new-years-day/</link>
+=======
+    <link>http://dev.jessicasmarquis.com/tags/new-years-day/</link>
+>>>>>>> minimal
     <description>Recent content in New Years Day on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Jan 2010 16:43:00 +0000</lastBuildDate>
     
+<<<<<<< HEAD
 	<atom:link href="/tags/new-years-day/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://dev.jessicasmarquis.com/tags/new-years-day/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> minimal
     
     
     <item>
       <title>day #2</title>
+<<<<<<< HEAD
       <link>/2010/01/02/2010-01-day-2-html/</link>
       <pubDate>Sat, 02 Jan 2010 16:43:00 +0000</pubDate>
       
       <guid>/2010/01/02/2010-01-day-2-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2010/01/02/2010-01-day-2-html/</link>
+      <pubDate>Sat, 02 Jan 2010 16:43:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2010/01/02/2010-01-day-2-html/</guid>
+>>>>>>> minimal
       <description>it&amp;#8217;s not so much that i was craving tea.
 often my cravings force me into a no-nonsense beeline, and, since this was more of a leisurely sunday drive on a friday afternoon, all signs point to no craving.
 no, what i was after was more the process than the result. so i embarked on a mini-adventure up the 51, next to the mountains that pop up &amp;amp; appear to swallow cars at shea, heading toward the artsy pedestrian bridges south of greenway.</description>

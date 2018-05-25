@@ -2,31 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Serving on Jessica S. Marquis</title>
+<<<<<<< HEAD
     <link>/tags/serving/</link>
+=======
+    <link>http://dev.jessicasmarquis.com/tags/serving/</link>
+>>>>>>> minimal
     <description>Recent content in Serving on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Jan 2009 16:02:00 +0000</lastBuildDate>
     
+<<<<<<< HEAD
 	<atom:link href="/tags/serving/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://dev.jessicasmarquis.com/tags/serving/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> minimal
     
     
     <item>
       <title>un-compartmentalizing</title>
+<<<<<<< HEAD
       <link>/2009/01/11/2009-01-un-compartmentalizing-html/</link>
       <pubDate>Sun, 11 Jan 2009 16:02:00 +0000</pubDate>
       
       <guid>/2009/01/11/2009-01-un-compartmentalizing-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2009/01/11/2009-01-un-compartmentalizing-html/</link>
+      <pubDate>Sun, 11 Jan 2009 16:02:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2009/01/11/2009-01-un-compartmentalizing-html/</guid>
+>>>>>>> minimal
       <description>here&amp;#8217;s my geek moment of the day: i was looking at the word &amp;#8220;Goals&amp;#8221; &amp;amp; realized that if you put the a &amp;amp; l closer to each other&amp;#8230; &amp;#8230;it says &amp;#8220;Gods&amp;#8221;. (which i interpreted to be &amp;#8220;God&amp;#8217;s&amp;#8221;.)
 so here&amp;#8217;s why i allowed that thought to take up more than a nanosecond of my time: i have a tendency to keep things separate. i would set my goals for the day, week, month, year, whatever, and then i&amp;#8217;d think, &amp;#8220;oh, i should really include God somewhere in there.</description>
     </item>
     
     <item>
       <title>the dirty rag problem</title>
+<<<<<<< HEAD
       <link>/2008/10/10/2008-10-dirty-rag-problem-html/</link>
       <pubDate>Fri, 10 Oct 2008 06:13:00 +0000</pubDate>
       
       <guid>/2008/10/10/2008-10-dirty-rag-problem-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2008/10/10/2008-10-dirty-rag-problem-html/</link>
+      <pubDate>Fri, 10 Oct 2008 06:13:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2008/10/10/2008-10-dirty-rag-problem-html/</guid>
+>>>>>>> minimal
       <description>the first time someone informed me of what &amp;#8220;dirty rags&amp;#8221; translated to in the Bible, it freaked me out.
 and i felt really bad about all i was trying to do.
 i was one of those kids who liked to work hard &amp;amp; make others proud.
@@ -39,10 +61,17 @@ i wanted so badly to win His favor with my smart thinkin&amp;#8217;, elbow greas
     
     <item>
       <title>the foot bath</title>
+<<<<<<< HEAD
       <link>/2008/09/07/2008-09-foot-bath-html/</link>
       <pubDate>Sun, 07 Sep 2008 15:50:00 +0000</pubDate>
       
       <guid>/2008/09/07/2008-09-foot-bath-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2008/09/07/2008-09-foot-bath-html/</link>
+      <pubDate>Sun, 07 Sep 2008 15:50:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2008/09/07/2008-09-foot-bath-html/</guid>
+>>>>>>> minimal
       <description>i am fascinated by the thought of Jesus washing feet.
 regardless of cultural tradition &amp;amp; symbolism, i just love that this Guy cared SO MUCH about the other guys He hung out with that He took on one of the stinkiest parts of the male body.
 that is LOVE.
@@ -52,10 +81,17 @@ He tells them that He has to wash all their feet to include them in what He was 
     
     <item>
       <title>kids these days</title>
+<<<<<<< HEAD
       <link>/2008/08/09/2008-08-kids-these-days-html/</link>
       <pubDate>Sat, 09 Aug 2008 19:53:00 +0000</pubDate>
       
       <guid>/2008/08/09/2008-08-kids-these-days-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2008/08/09/2008-08-kids-these-days-html/</link>
+      <pubDate>Sat, 09 Aug 2008 19:53:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2008/08/09/2008-08-kids-these-days-html/</guid>
+>>>>>>> minimal
       <description>it was on my first mission trip at age 14 that i realized that being young could be a useful thing.
 somehow, i had picked up on the message that a person could not do something of worth until s/he was an &amp;#8220;adult&amp;#8221;.
 seeing the zeal of my peers &amp;amp; the products of our Christ-focused teamwork convinced me:

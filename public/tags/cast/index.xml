@@ -2,30 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cast on Jessica S. Marquis</title>
+<<<<<<< HEAD
     <link>/tags/cast/</link>
+=======
+    <link>http://dev.jessicasmarquis.com/tags/cast/</link>
+>>>>>>> minimal
     <description>Recent content in Cast on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Sep 2017 23:43:00 +0000</lastBuildDate>
     
+<<<<<<< HEAD
 	<atom:link href="/tags/cast/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://dev.jessicasmarquis.com/tags/cast/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> minimal
     
     
     <item>
       <title>Hard-won advice from a reluctant event organizer and project manager</title>
+<<<<<<< HEAD
       <link>/2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/</link>
       <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
       
       <guid>/2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/</link>
+      <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/</guid>
+>>>>>>> minimal
       <description>When I was in middle school, I got the itch to organize events. No, that&amp;#8217;s inaccurate. I realized the need for organization, so I did it. There wasn&amp;#8217;t really an itch, just a desire to get to the end goal and no bridges provided to it. The point is, I got started in event creation and project management shortly after I hit the double digits, so I have a little bit of experience in it.</description>
     </item>
     
     <item>
       <title>Where Are My Eagle Wings?</title>
+<<<<<<< HEAD
       <link>/2016/08/20/2016-08-where-are-my-eagle-wings-html/</link>
       <pubDate>Sat, 20 Aug 2016 18:13:00 +0000</pubDate>
       
       <guid>/2016/08/20/2016-08-where-are-my-eagle-wings-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2016/08/20/2016-08-where-are-my-eagle-wings-html/</link>
+      <pubDate>Sat, 20 Aug 2016 18:13:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2016/08/20/2016-08-where-are-my-eagle-wings-html/</guid>
+>>>>>>> minimal
       <description>I&amp;#8217;m working hard on CAST #2: Restoration, an event for women focusing on both brokenness &amp;amp; God&amp;#8217;s restorative vision for creation. My personal drama is this: I&amp;#8217;m currently in a complicated relationship with restoration.
 As I&amp;#8217;ve previously written, I recently went through a confusingly dry season of waiting &amp;amp; clinging. It&amp;#8217;s been jet-black darkness at countless times, with equally innumerable false-starts of returning to daylight.
 All the while, I&amp;#8217;ve been holding to the hope-inflating notion that when I reach daylight there will be a tangible sense of restoration.</description>
@@ -33,10 +55,17 @@ All the while, I&amp;#8217;ve been holding to the hope-inflating notion that whe
     
     <item>
       <title>Casting CAST</title>
+<<<<<<< HEAD
       <link>/2016/04/24/2016-04-casting-cast-html/</link>
       <pubDate>Sun, 24 Apr 2016 22:48:00 +0000</pubDate>
       
       <guid>/2016/04/24/2016-04-casting-cast-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2016/04/24/2016-04-casting-cast-html/</link>
+      <pubDate>Sun, 24 Apr 2016 22:48:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2016/04/24/2016-04-casting-cast-html/</guid>
+>>>>>>> minimal
       <description>The general consensus was that no one&amp;#8217;s husband thought they should be there.
 With a theme like &amp;#8220;Busyness&amp;#8221;, it&amp;#8217;s hard to find a woman who can speak to the topic as an expert at managing it. And even if she does exist, none of us could relate to her, which was what the event was about.
 These women were sitting in confession via a stage in front of a couple dozen of their sisters.</description>
@@ -44,10 +73,17 @@ These women were sitting in confession via a stage in front of a couple dozen of
     
     <item>
       <title>Too Close to Define</title>
+<<<<<<< HEAD
       <link>/2016/03/25/2016-03-too-close-to-define-html/</link>
       <pubDate>Fri, 25 Mar 2016 02:51:00 +0000</pubDate>
       
       <guid>/2016/03/25/2016-03-too-close-to-define-html/</guid>
+=======
+      <link>http://dev.jessicasmarquis.com/2016/03/25/2016-03-too-close-to-define-html/</link>
+      <pubDate>Fri, 25 Mar 2016 02:51:00 +0000</pubDate>
+      
+      <guid>http://dev.jessicasmarquis.com/2016/03/25/2016-03-too-close-to-define-html/</guid>
+>>>>>>> minimal
       <description>You know that experience when you&amp;#8217;re so close to something you can&amp;#8217;t really say anything about it? When it&amp;#8217;s feels like you&amp;#8217;re trying to build something and discover you&amp;#8217;re using water instead of packing snow? When you&amp;#8217;re afraid a remark about it would only touch part and miss the whole?
 I remember someone joking that if you need the definition of &amp;#8220;psychology&amp;#8221;, you should [counterintuitively] ask the first-semester psych major, not the PhD clinician.</description>
     </item>
