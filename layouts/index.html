@@ -1,59 +1,81 @@
-{{ define "title"}} {{ .Site.Title}} {{end}} {{ define "header"}} {{ partial "header" .}} {{end}} {{ define "main"}}
+{{ partial "header" . }}
 
-<div id="main">
-  <div id="kube-features">
+<main>
+
+  <div class="intro">
+
     <div class="row gutters">
-      <div class="col col-4 item">
+      <div class="col col-md-4 item">
         <figure class="end">
-          <a href="http://milkweedministries.com"><img alt="Milkweed Ministries" width=200 height=200 src=" https://jessicasmarquis.files.wordpress.com/2017/12/milkweed-logo.png"></a>
+          <a href="http://milkweedministries.com">
+            <img alt="Baseline" src=" https://jessicasmarquis.files.wordpress.com/2017/12/milkweed-logo.png">
+          </a>
         </figure>
         <h3>Milkweed Ministries</h3>
-        <figcaption>Creating spaces for justice-minded people who love Jesus to come alive and take action.</figcaption>
+        <p>Creating spaces for justice-minded people who love Jesus to come alive and take action.</p>
       </div>
-      <div class="col col-4 item">
+      <div class="col col-md-4 item">
         <figure class="end">
-          <a href="http://dev.castogether.com"><img alt="CAST" width=200 height=200 src="https://jessicasmarquis.files.wordpress.com/2017/12/cast-logo.png"></a>
+          <a href="http://dev.castogether.com">
+            <img alt="Typography" src="https://jessicasmarquis.files.wordpress.com/2017/12/cast-logo.png">
+          </a>
         </figure>
         <h3>CAST</h3>
-        <figcaption>A mix of women + TED-style talks + a variety show with a social justice flare movement.</figcaption>
+        <p>A mix of women + TED-style talks + a variety show with a social justice flare movement.</p>
       </div>
-      <div class="col col-4 item">
+      <div class="col col-md-4 item">
         <figure class="end">
-          <a href="http://verses3to5.com/"><img alt="Verses 3 to 5" width=200 height=200 src="https://jessicasmarquis.files.wordpress.com/2017/12/verses3to5-logo.png"></a>
+          <a href="http://verses3to5.com/">
+            <img alt="Typography" src="https://jessicasmarquis.files.wordpress.com/2017/12/verses3to5-logo.png">
+          </a>
         </figure>
         <h3>Verses 3 to 5</h3>
-        <figcaption>Stories of redemption that empower and encourage others.</figcaption>
+        <p>Stories of redemption that empower and encourage others.</p>
       </div>
     </div>
     <div class="row gutters">
-      <div class="col col-4 item">
+      <div class="col col-md-4 item">
         <figure class="end">
-            <a href="https://www.amazon.com/Raising-Unicorns-Step--Step-Successful/dp/1440525900/">
-              <img alt="Raising Unicorns" width=200 height=200 src="https://jessicasmarquis.files.wordpress.com/2017/12/unicorn_book.png">
-            </a>
+          <a href="https://www.amazon.com/Raising-Unicorns-Step--Step-Successful/dp/1440525900/">
+            <img alt="Raising Unicorns" src="https://jessicasmarquis.files.wordpress.com/2017/12/unicorn_book.png">
+          </a>
         </figure>
         <h3>Raising Unicorns</h3>
-        <figcaption>A step-by-step guide to starting and running a successful - and magical! - unicorn farm.</figcaption>
+        <p>A step-by-step guide to starting and running a successful - and magical! - unicorn farm.</p>
       </div>
-      <div class="col col-4 item">
+      <div class="col col-md-4 item">
         <figure class="end">
-            <a href="http://unicornomics.com">
-              <img alt="Unicornomics" width=200 height=200 src="https://jessicasmarquis.files.wordpress.com/2017/12/unicornomics-logo1.png">
-            </a>
+          <a href="http://unicornomics.com">
+            <img alt="Unicornomics" src="https://jessicasmarquis.files.wordpress.com/2017/12/unicornomics-logo1.png">
+          </a>
         </figure>
         <h3>Unicornomics</h3>
-        <figcaption>All the unicorn news you need from around the world and beyond!</figcaption>
+        <p>All the unicorn news you need from around the world and beyond!</p>
       </div>
-      <div class="col col-4 item">
+      <div class="col col-md-4 item">
         <figure class="end">
-            <a href="http://linearthinkingcomics.blogspot.com/#events">
-              <img alt="Linear Thinking Comics" width=200 height=200 src="https://jessicasmarquis.files.wordpress.com/2017/12/linearthinking.png">
-            </a>
+          <a href="http://linearthinkingcomics.blogspot.com/#events">
+            <img alt="Linear Thinking Comics" src="https://jessicasmarquis.files.wordpress.com/2017/12/linearthinking.png">
+          </a>
         </figure>
         <h3>Linear Thinking Comics</h3>
-        <figcaption>1D comics for 3D thinkers.</figcaption>
+        <p>1D comics for 3D thinkers.</p>
       </div>
     </div>
   </div>
-</div>
-{{ end }} {{ define "footer"}} {{ partial "footer" .}} {{end}}
+
+</main>
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
+{{ partial "footer" . }}
