@@ -2,52 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goals on Jessica S. Marquis</title>
-<<<<<<< HEAD
     <link>/tags/goals/</link>
-=======
-    <link>http://dev.jessicasmarquis.com/tags/goals/</link>
->>>>>>> minimal
     <description>Recent content in Goals on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Sep 2017 23:43:00 +0000</lastBuildDate>
     
-<<<<<<< HEAD
 	<atom:link href="/tags/goals/index.xml" rel="self" type="application/rss+xml" />
-=======
-	<atom:link href="http://dev.jessicasmarquis.com/tags/goals/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> minimal
     
     
     <item>
       <title>Hard-won advice from a reluctant event organizer and project manager</title>
-<<<<<<< HEAD
       <link>/2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/</link>
       <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
       
       <guid>/2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/</guid>
-=======
-      <link>http://dev.jessicasmarquis.com/2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/</link>
-      <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
-      
-      <guid>http://dev.jessicasmarquis.com/2017/09/19/2017-09-hard-won-advice-from-reluctant-event-html/</guid>
->>>>>>> minimal
       <description>When I was in middle school, I got the itch to organize events. No, that&amp;#8217;s inaccurate. I realized the need for organization, so I did it. There wasn&amp;#8217;t really an itch, just a desire to get to the end goal and no bridges provided to it. The point is, I got started in event creation and project management shortly after I hit the double digits, so I have a little bit of experience in it.</description>
     </item>
     
     <item>
       <title>un-compartmentalizing</title>
-<<<<<<< HEAD
       <link>/2009/01/11/2009-01-un-compartmentalizing-html/</link>
       <pubDate>Sun, 11 Jan 2009 16:02:00 +0000</pubDate>
       
       <guid>/2009/01/11/2009-01-un-compartmentalizing-html/</guid>
-=======
-      <link>http://dev.jessicasmarquis.com/2009/01/11/2009-01-un-compartmentalizing-html/</link>
-      <pubDate>Sun, 11 Jan 2009 16:02:00 +0000</pubDate>
-      
-      <guid>http://dev.jessicasmarquis.com/2009/01/11/2009-01-un-compartmentalizing-html/</guid>
->>>>>>> minimal
       <description>here&amp;#8217;s my geek moment of the day: i was looking at the word &amp;#8220;Goals&amp;#8221; &amp;amp; realized that if you put the a &amp;amp; l closer to each other&amp;#8230; &amp;#8230;it says &amp;#8220;Gods&amp;#8221;. (which i interpreted to be &amp;#8220;God&amp;#8217;s&amp;#8221;.)
 so here&amp;#8217;s why i allowed that thought to take up more than a nanosecond of my time: i have a tendency to keep things separate. i would set my goals for the day, week, month, year, whatever, and then i&amp;#8217;d think, &amp;#8220;oh, i should really include God somewhere in there.</description>
     </item>

@@ -2,16 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jessica S. Marquis</title>
-<<<<<<< HEAD
     <link>/categories/</link>
-=======
-    <link>http://dev.jessicasmarquis.com/categories/</link>
->>>>>>> minimal
     <description>Recent content in Categories on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-<<<<<<< HEAD
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
@@ -39,17 +34,6 @@
       <pubDate>Fri, 03 Nov 2017 21:25:00 +0000</pubDate>
       
       <guid>/categories/uncategorized/</guid>
-=======
-	<atom:link href="http://dev.jessicasmarquis.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Uncategorized</title>
-      <link>http://dev.jessicasmarquis.com/categories/uncategorized/</link>
-      <pubDate>Fri, 03 Nov 2017 21:25:00 +0000</pubDate>
-      
-      <guid>http://dev.jessicasmarquis.com/categories/uncategorized/</guid>
->>>>>>> minimal
       <description></description>
     </item>
     

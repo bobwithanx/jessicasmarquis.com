@@ -2,36 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Awe on Jessica S. Marquis</title>
-<<<<<<< HEAD
     <link>/tags/awe/</link>
-=======
-    <link>http://dev.jessicasmarquis.com/tags/awe/</link>
->>>>>>> minimal
     <description>Recent content in Awe on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Aug 2008 14:20:00 +0000</lastBuildDate>
     
-<<<<<<< HEAD
 	<atom:link href="/tags/awe/index.xml" rel="self" type="application/rss+xml" />
-=======
-	<atom:link href="http://dev.jessicasmarquis.com/tags/awe/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> minimal
     
     
     <item>
       <title>legos</title>
-<<<<<<< HEAD
       <link>/2008/08/16/2008-08-legos-html/</link>
       <pubDate>Sat, 16 Aug 2008 14:20:00 +0000</pubDate>
       
       <guid>/2008/08/16/2008-08-legos-html/</guid>
-=======
-      <link>http://dev.jessicasmarquis.com/2008/08/16/2008-08-legos-html/</link>
-      <pubDate>Sat, 16 Aug 2008 14:20:00 +0000</pubDate>
-      
-      <guid>http://dev.jessicasmarquis.com/2008/08/16/2008-08-legos-html/</guid>
->>>>>>> minimal
       <description>when i look around at people, i am baffled by the vast array of differences that exist.
 sometimes i ask (&amp;amp; have overheard others say),
 &amp;#8220;why didn&amp;#8217;t He just make us all alike?&amp;#8221;
@@ -42,17 +27,10 @@ a solitary lego is of little use other than to hurt a whole lot when you step on
     
     <item>
       <title>preview</title>
-<<<<<<< HEAD
       <link>/2008/07/28/2008-07-preview-html/</link>
       <pubDate>Mon, 28 Jul 2008 00:18:00 +0000</pubDate>
       
       <guid>/2008/07/28/2008-07-preview-html/</guid>
-=======
-      <link>http://dev.jessicasmarquis.com/2008/07/28/2008-07-preview-html/</link>
-      <pubDate>Mon, 28 Jul 2008 00:18:00 +0000</pubDate>
-      
-      <guid>http://dev.jessicasmarquis.com/2008/07/28/2008-07-preview-html/</guid>
->>>>>>> minimal
       <description>en route to church today, i was caught by a thought: i was getting a chance to immerse myself in a preview of Whom i&amp;#8217;d be worshiping.
 much like when i was in high school &amp;amp; would listen to every album of the band i was on my way to see in concert. getting to know their work. getting to appreciate their genius. it put me in the right frame of mind to be in awe.</description>
     </item>

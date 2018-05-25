@@ -2,36 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work on Jessica S. Marquis</title>
-<<<<<<< HEAD
     <link>/tags/work/</link>
-=======
-    <link>http://dev.jessicasmarquis.com/tags/work/</link>
->>>>>>> minimal
     <description>Recent content in Work on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Apr 2010 14:05:00 +0000</lastBuildDate>
     
-<<<<<<< HEAD
 	<atom:link href="/tags/work/index.xml" rel="self" type="application/rss+xml" />
-=======
-	<atom:link href="http://dev.jessicasmarquis.com/tags/work/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> minimal
     
     
     <item>
       <title>day #94</title>
-<<<<<<< HEAD
       <link>/2010/04/14/2010-04-day-94-html/</link>
       <pubDate>Wed, 14 Apr 2010 14:05:00 +0000</pubDate>
       
       <guid>/2010/04/14/2010-04-day-94-html/</guid>
-=======
-      <link>http://dev.jessicasmarquis.com/2010/04/14/2010-04-day-94-html/</link>
-      <pubDate>Wed, 14 Apr 2010 14:05:00 +0000</pubDate>
-      
-      <guid>http://dev.jessicasmarquis.com/2010/04/14/2010-04-day-94-html/</guid>
->>>>>>> minimal
       <description>coming out from under a dark cloud.
 my passion has been tested &amp;amp; refined during the past few months,
 and i&amp;#8217;m happy to say that i&amp;#8217;m starting to see it again.
@@ -43,17 +28,10 @@ so i&amp;#8217;ve taken some time to reacquaint myself with my &amp;#8220;core&a
     
     <item>
       <title>day #12</title>
-<<<<<<< HEAD
       <link>/2010/01/13/2010-01-day-12-html/</link>
       <pubDate>Wed, 13 Jan 2010 04:51:00 +0000</pubDate>
       
       <guid>/2010/01/13/2010-01-day-12-html/</guid>
-=======
-      <link>http://dev.jessicasmarquis.com/2010/01/13/2010-01-day-12-html/</link>
-      <pubDate>Wed, 13 Jan 2010 04:51:00 +0000</pubDate>
-      
-      <guid>http://dev.jessicasmarquis.com/2010/01/13/2010-01-day-12-html/</guid>
->>>>>>> minimal
       <description>i decided to inconvenience myself today.
 being someone who arranges grocery bags so everything can get carried in on one trip,
 plots out maps so all errands can be run in one linear course,

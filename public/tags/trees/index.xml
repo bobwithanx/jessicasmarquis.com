@@ -2,36 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trees on Jessica S. Marquis</title>
-<<<<<<< HEAD
     <link>/tags/trees/</link>
-=======
-    <link>http://dev.jessicasmarquis.com/tags/trees/</link>
->>>>>>> minimal
     <description>Recent content in Trees on Jessica S. Marquis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 May 2009 16:19:00 +0000</lastBuildDate>
     
-<<<<<<< HEAD
 	<atom:link href="/tags/trees/index.xml" rel="self" type="application/rss+xml" />
-=======
-	<atom:link href="http://dev.jessicasmarquis.com/tags/trees/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> minimal
     
     
     <item>
       <title>weeding</title>
-<<<<<<< HEAD
       <link>/2009/05/03/2009-05-weeding-html/</link>
       <pubDate>Sun, 03 May 2009 16:19:00 +0000</pubDate>
       
       <guid>/2009/05/03/2009-05-weeding-html/</guid>
-=======
-      <link>http://dev.jessicasmarquis.com/2009/05/03/2009-05-weeding-html/</link>
-      <pubDate>Sun, 03 May 2009 16:19:00 +0000</pubDate>
-      
-      <guid>http://dev.jessicasmarquis.com/2009/05/03/2009-05-weeding-html/</guid>
->>>>>>> minimal
       <description>i&amp;#8217;ve been thinking a lot about weeds,
 particularly the ones in the parable of the sower.
 in the first two scenarios the seeds didn&amp;#8217;t really get much of a chance:
@@ -44,17 +29,10 @@ their success was compromised not by the soil but by the setting.</description>
     
     <item>
       <title>trees &amp; such</title>
-<<<<<<< HEAD
       <link>/2008/11/08/2008-11-trees-such-html/</link>
       <pubDate>Sat, 08 Nov 2008 02:33:00 +0000</pubDate>
       
       <guid>/2008/11/08/2008-11-trees-such-html/</guid>
-=======
-      <link>http://dev.jessicasmarquis.com/2008/11/08/2008-11-trees-such-html/</link>
-      <pubDate>Sat, 08 Nov 2008 02:33:00 +0000</pubDate>
-      
-      <guid>http://dev.jessicasmarquis.com/2008/11/08/2008-11-trees-such-html/</guid>
->>>>>>> minimal
       <description>i&amp;#8217;ve been working with a friend on creating a film piece on trees.
 God really seemed to have an affinity to that metaphor.
 we&amp;#8217;re finding that we do, too.
