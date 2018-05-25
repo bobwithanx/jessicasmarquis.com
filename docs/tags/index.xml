@@ -516,6 +516,15 @@
     </item>
     
     <item>
+      <title>Example</title>
+      <link>/tags/example/</link>
+      <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
+      
+      <guid>/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Faith</title>
       <link>/tags/faith/</link>
       <pubDate>Wed, 19 Apr 2017 22:51:00 +0000</pubDate>
@@ -687,6 +696,15 @@
     </item>
     
     <item>
+      <title>Hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Sun, 02 Apr 2017 22:01:15 +0100</pubDate>
+      
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Humility</title>
       <link>/tags/humility/</link>
       <pubDate>Thu, 29 Oct 2015 03:21:00 +0000</pubDate>
@@ -818,6 +836,15 @@
       <pubDate>Sun, 10 Jan 2010 01:04:00 +0000</pubDate>
       
       <guid>/tags/makeup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>/tags/markdown/</link>
+      <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
+      
+      <guid>/tags/markdown/</guid>
       <description></description>
     </item>
     
@@ -1070,6 +1097,15 @@
       <pubDate>Tue, 19 Sep 2017 23:43:00 +0000</pubDate>
       
       <guid>/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prototype</title>
+      <link>/tags/prototype/</link>
+      <pubDate>Sun, 02 Apr 2017 22:01:15 +0100</pubDate>
+      
+      <guid>/tags/prototype/</guid>
       <description></description>
     </item>
     
