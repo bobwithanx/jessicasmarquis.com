@@ -1,0 +1,20 @@
+{{ partial "header" . }}
+
+<main>
+
+  <h3>{{ .Title }}</h3>
+
+  <ul style="text-align: left; column-count: 4; column-gap: 60px;">
+    {{ range $.Site.Taxonomies.tags.Alphabetical }}
+    <li>
+      <a href="/tags/{{ .Name }}">
+        {{ if gt .Count 1 }}
+        <b> {{ .Name }} </b> {{ else }} {{ .Name }} {{ end }}
+        <small>({{ .Count }})</small>
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</main>
+
+{{ partial "footer" . }}

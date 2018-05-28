@@ -4,19 +4,18 @@ title = "Jessica S. Marquis"
 theme = "minimal"
 
 [permalinks]
-  post = "/:year/:month/:title/"
+  post = "/post/:year/:month/:title/"
 
 [params]
     author = "Jessia S. Marquis"
     description = "Personal blog theme powered by Hugo"
     showBorder = true
-    accent = "#40017F"
-    accentLight = "rgba(106, 97, 195, .3)"
+    css = ["css/custom.css"]
+    # accent = "#40017F"
+    accent = "#5929A6"
     backgroundColor = "white"
     font = "Open Sans" # should match the name on Google Fonts!
     highlight = false
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [[menu.main]]
     url = "/post/"
@@ -34,7 +33,7 @@ theme = "minimal"
 
 [[menu.icon]]
     url = "mailto:jessica@jessicasmarquis.com"
-    name = "fas fa-at"
+    name = "far fa-envelope"
     weight = 1
 
 [[menu.icon]]

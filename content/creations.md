@@ -1,6 +1,7 @@
 +++
 title = "Creations"
 slug = "creations"
+type = "static"
 +++
 
 Select creations: books, speaking engagements, writings, events, films, and projects.
