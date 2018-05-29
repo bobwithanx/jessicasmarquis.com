@@ -9,11 +9,11 @@ main {
   max-width: 800px;
   margin-top: 10px;
 }
-
+/*
 .navbar-nav li a:hover {
   border-bottom: 2px solid var(--accent);
   margin-bottom: -2px;
-}
+} */
 
 .page-title {
   text-transform: capitalize;
