@@ -2,6 +2,8 @@
 title: The In-Between
 author: jsmarquis
 type: post
+aliases:
+  - /2017/04/2017-04-19-the-in-between.md
 date: 2017-04-19T22:51:00+00:00
 tags:
   - church

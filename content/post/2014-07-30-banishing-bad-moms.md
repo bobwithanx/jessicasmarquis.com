@@ -2,6 +2,8 @@
 title: Banishing the Bad Moms
 author: jsmarquis
 type: post
+aliases:
+  - /2014/07/2014-07-30-banishing-bad-moms.md
 date: 2014-07-30T01:10:00+00:00
 
 ---

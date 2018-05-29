@@ -2,6 +2,8 @@
 title: Giving Thanks When Your Heart Hurts
 author: jsmarquis
 type: post
+aliases:
+  - /2013/11/2013-11-29-giving-thanks-when-your-heart-hurts.md
 date: 2013-11-29T03:24:00+00:00
 
 ---

@@ -2,6 +2,8 @@
 title: Sabbath as a Preemptive Strike
 author: jsmarquis
 type: post
+aliases:
+  - /2014/09/2014-09-07-sabbath-as-preemptive-strike.md
 date: 2014-09-07T00:45:00+00:00
 
 ---

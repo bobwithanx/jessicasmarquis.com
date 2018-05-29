@@ -2,6 +2,8 @@
 title: Purposeful Parenting
 author: jsmarquis
 type: post
+aliases:
+  - /2014/08/2014-08-18-purposeful-parenting.md
 date: 2014-08-18T01:03:00+00:00
 
 ---

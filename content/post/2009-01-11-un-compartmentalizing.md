@@ -2,6 +2,8 @@
 title: un-compartmentalizing
 author: jsmarquis
 type: post
+aliases:
+  - /2009/01/2009-01-11-un-compartmentalizing.md
 date: 2009-01-11T16:02:00+00:00
 tags:
   - alignment

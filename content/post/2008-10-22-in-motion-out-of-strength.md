@@ -2,6 +2,8 @@
 title: 'in motion & out of strength'
 author: jsmarquis
 type: post
+aliases:
+  - /2008/10/2008-10-22-in-motion-out-of-strength.md
 date: 2008-10-22T05:11:00+00:00
 tags:
   - rest

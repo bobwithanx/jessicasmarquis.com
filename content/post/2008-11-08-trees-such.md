@@ -2,6 +2,8 @@
 title: 'trees & such'
 author: jsmarquis
 type: post
+aliases:
+  - /2008/11/2008-11-08-trees-such.md
 date: 2008-11-08T02:33:00+00:00
 tags:
   - love

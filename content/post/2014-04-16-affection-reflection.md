@@ -2,6 +2,8 @@
 title: Affection Reflection
 author: jsmarquis
 type: post
+aliases:
+  - /2014/04/2014-04-16-affection-reflection.md
 date: 2014-04-16T01:16:00+00:00
 
 ---

@@ -2,6 +2,8 @@
 title: Wise Prepping
 author: jsmarquis
 type: post
+aliases:
+  - /2013/11/2013-11-08-wise-prepping.md
 date: 2013-11-08T03:40:00+00:00
 
 ---

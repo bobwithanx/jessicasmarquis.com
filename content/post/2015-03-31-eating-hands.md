@@ -2,6 +2,8 @@
 title: Eating Hands
 author: jsmarquis
 type: post
+aliases:
+  - /2015/03/2015-03-31-eating-hands.md
 date: 2015-03-31T04:33:00+00:00
 
 ---

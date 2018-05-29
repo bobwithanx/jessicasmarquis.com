@@ -2,6 +2,8 @@
 title: What Everyone Needs in Their Medicine Cabinet
 author: jsmarquis
 type: post
+aliases:
+  - /2014/08/2014-08-31-what-everyone-needs-in-their-medicine.md
 date: 2014-08-31T00:48:00+00:00
 
 ---

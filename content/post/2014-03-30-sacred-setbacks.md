@@ -2,6 +2,8 @@
 title: Sacred Setbacks
 author: jsmarquis
 type: post
+aliases:
+  - /2014/03/2014-03-30-sacred-setbacks.md
 date: 2014-03-30T01:19:00+00:00
 
 ---

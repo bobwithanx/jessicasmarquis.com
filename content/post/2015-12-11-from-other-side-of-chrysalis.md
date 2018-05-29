@@ -2,6 +2,8 @@
 title: From the other side of the chrysalis
 author: jsmarquis
 type: post
+aliases:
+  - /2015/12/2015-12-11-from-other-side-of-chrysalis.md
 date: 2015-12-11T16:52:00+00:00
 tags:
   - cocoon

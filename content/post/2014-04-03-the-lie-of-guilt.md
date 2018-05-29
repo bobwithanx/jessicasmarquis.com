@@ -2,6 +2,8 @@
 title: The Lie of Guilt
 author: jsmarquis
 type: post
+aliases:
+  - /2014/04/2014-04-03-the-lie-of-guilt.md
 date: 2014-04-03T01:19:00+00:00
 
 ---

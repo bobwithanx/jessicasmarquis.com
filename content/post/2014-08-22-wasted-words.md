@@ -2,6 +2,8 @@
 title: Wasted Words
 author: jsmarquis
 type: post
+aliases:
+  - /2014/08/2014-08-22-wasted-words.md
 date: 2014-08-22T01:01:00+00:00
 
 ---

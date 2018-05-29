@@ -2,6 +2,8 @@
 title: Welcome to the World
 author: jsmarquis
 type: post
+aliases:
+  - /2014/12/2014-12-01-welcome-to-world.md
 date: 2014-12-01T18:52:00+00:00
 
 ---

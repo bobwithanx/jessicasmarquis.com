@@ -2,6 +2,8 @@
 title: Excavating Accidentally Buried Talents
 author: jsmarquis
 type: post
+aliases:
+  - /2016/11/2016-11-07-excavating-accidentally-buried-talents.md
 date: 2016-11-07T03:33:00+00:00
 tags:
   - leadership

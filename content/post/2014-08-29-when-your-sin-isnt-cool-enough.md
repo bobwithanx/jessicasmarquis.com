@@ -2,6 +2,8 @@
 title: When Your Sin Isn’t Cool Enough
 author: jsmarquis
 type: post
+aliases:
+  - /2014/08/2014-08-29-when-your-sin-isnt-cool-enough.md
 date: 2014-08-29T00:50:00+00:00
 
 ---

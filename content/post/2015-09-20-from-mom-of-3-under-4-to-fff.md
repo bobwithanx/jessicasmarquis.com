@@ -2,6 +2,8 @@
 title: From a mom of 3 under 4 to the incoming grad school student
 author: jsmarquis
 type: post
+aliases:
+  - /2015/09/2015-09-20-from-mom-of-3-under-4-to-fff.md
 date: 2015-09-20T00:18:00+00:00
 tags:
   - community

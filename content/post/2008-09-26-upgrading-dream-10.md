@@ -2,6 +2,8 @@
 title: upgrading dream 1.0
 author: jsmarquis
 type: post
+aliases:
+  - /2008/09/2008-09-26-upgrading-dream-10.md
 date: 2008-09-26T17:01:00+00:00
 tags:
   - growth

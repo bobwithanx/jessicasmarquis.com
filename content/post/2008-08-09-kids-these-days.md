@@ -2,6 +2,8 @@
 title: kids these days
 author: jsmarquis
 type: post
+aliases:
+  - /2008/08/2008-08-09-kids-these-days.md
 date: 2008-08-09T19:53:00+00:00
 tags:
   - serving

@@ -2,6 +2,8 @@
 title: 5-Minute Reflection
 author: jsmarquis
 type: post
+aliases:
+  - /2014/09/2014-09-16-5-minute-reflection.md
 date: 2014-09-16T00:43:00+00:00
 
 ---

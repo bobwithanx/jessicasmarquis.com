@@ -2,6 +2,8 @@
 title: 'Walls & Focus'
 author: jsmarquis
 type: post
+aliases:
+  - /2014/02/2014-02-27-walls-focus.md
 date: 2014-02-27T02:24:00+00:00
 
 ---

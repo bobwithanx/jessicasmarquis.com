@@ -2,6 +2,8 @@
 title: Thinking Straight
 author: jsmarquis
 type: post
+aliases:
+  - /2014/04/2014-04-22-thinking-straight.md
 date: 2014-04-22T01:15:00+00:00
 
 ---

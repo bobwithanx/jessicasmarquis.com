@@ -2,6 +2,8 @@
 title: Harmony vs. Melody
 author: jsmarquis
 type: post
+aliases:
+  - /2013/03/2013-03-28-harmony-vs-melody.md
 date: 2013-03-28T02:25:00+00:00
 
 ---

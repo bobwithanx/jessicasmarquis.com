@@ -2,6 +2,8 @@
 title: Presumptive Pain-Sharing
 author: jsmarquis
 type: post
+aliases:
+  - /2016/06/2016-06-16-presumptive-pain-sharing.1.md
 date: 2016-06-16T22:53:00+00:00
 tags:
   - listening

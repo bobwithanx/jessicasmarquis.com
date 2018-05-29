@@ -2,6 +2,8 @@
 title: An Unnecessary Cover-Up
 author: jsmarquis
 type: post
+aliases:
+  - /2013/11/2013-11-11-an-unnecessary-cover-up.md
 date: 2013-11-11T03:41:00+00:00
 
 ---

@@ -2,6 +2,8 @@
 title: Redeemed Parenting
 author: jsmarquis
 type: post
+aliases:
+  - /2014/12/2014-12-27-redeemed-parenting.md
 date: 2014-12-27T01:17:00+00:00
 
 ---

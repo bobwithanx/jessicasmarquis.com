@@ -2,6 +2,8 @@
 title: Of Lemons and Lost Paychecks
 author: jsmarquis
 type: post
+aliases:
+  - /2015/09/2015-09-23-of-lemons-and-lost-paychecks.md
 date: 2015-09-23T02:26:00+00:00
 
 ---

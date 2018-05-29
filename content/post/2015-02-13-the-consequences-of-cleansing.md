@@ -2,6 +2,8 @@
 title: The Consequences of Cleansing
 author: jsmarquis
 type: post
+aliases:
+  - /2015/02/2015-02-13-the-consequences-of-cleansing.md
 date: 2015-02-13T01:09:00+00:00
 
 ---

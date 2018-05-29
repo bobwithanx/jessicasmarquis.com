@@ -2,6 +2,8 @@
 title: Casting CAST
 author: jsmarquis
 type: post
+aliases:
+  - /2016/04/2016-04-24-casting-cast.md
 date: 2016-04-24T22:48:00+00:00
 tags:
   - busyness

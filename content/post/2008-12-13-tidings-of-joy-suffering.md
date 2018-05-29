@@ -2,6 +2,8 @@
 title: 'tidings of joy & suffering'
 author: jsmarquis
 type: post
+aliases:
+  - /2008/12/2008-12-13-tidings-of-joy-suffering.md
 date: 2008-12-13T17:56:00+00:00
 tags:
   - peace

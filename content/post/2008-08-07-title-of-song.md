@@ -2,6 +2,8 @@
 title: title of the song
 author: jsmarquis
 type: post
+aliases:
+  - /2008/08/2008-08-07-title-of-song.md
 date: 2008-08-07T03:35:00+00:00
 tags:
   - rest

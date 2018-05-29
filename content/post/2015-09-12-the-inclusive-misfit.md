@@ -2,6 +2,8 @@
 title: The Inclusive Misfit
 author: jsmarquis
 type: post
+aliases:
+  - /2015/09/2015-09-12-the-inclusive-misfit.md
 date: 2015-09-12T03:30:00+00:00
 
 ---

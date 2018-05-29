@@ -2,6 +2,8 @@
 title: Cover Charge
 author: jsmarquis
 type: post
+aliases:
+  - /2016/10/2016-10-07-cover-charge.md
 date: 2016-10-07T22:59:00+00:00
 tags:
   - growth

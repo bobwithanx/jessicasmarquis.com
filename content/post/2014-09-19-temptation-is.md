@@ -2,6 +2,8 @@
 title: Temptation Is…
 author: jsmarquis
 type: post
+aliases:
+  - /2014/09/2014-09-19-temptation-is.md
 date: 2014-09-19T00:42:00+00:00
 
 ---

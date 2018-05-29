@@ -2,6 +2,8 @@
 title: 'Forgotten Storylines: How Sitcoms Taught Me that God Has a Grand Narrative'
 author: jsmarquis
 type: post
+aliases:
+  - /2016/06/2016-06-14-forgotten-storylines-how-sitcoms-taught.md
 date: 2016-06-14T17:00:00+00:00
 
 ---

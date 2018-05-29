@@ -2,6 +2,8 @@
 title: Why my kids may have a lot of hospital visits OR The undervalued gift of doubt
 author: jsmarquis
 type: post
+aliases:
+  - /2017/02/2017-02-05-why-my-kids-may-have-lot-of-hospital.md
 date: 2017-02-05T20:40:00+00:00
 
 ---

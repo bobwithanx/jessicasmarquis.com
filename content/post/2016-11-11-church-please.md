@@ -2,6 +2,8 @@
 title: Church, Please!
 author: jsmarquis
 type: post
+aliases:
+  - /2016/11/2016-11-11-church-please.md
 date: 2016-11-11T23:06:00+00:00
 tags:
   - church

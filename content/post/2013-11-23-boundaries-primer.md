@@ -2,6 +2,8 @@
 title: 'Boundaries: A Primer'
 author: jsmarquis
 type: post
+aliases:
+  - /2013/11/2013-11-23-boundaries-primer.md
 date: 2013-11-23T03:43:00+00:00
 
 ---

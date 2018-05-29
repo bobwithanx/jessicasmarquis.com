@@ -2,6 +2,8 @@
 title: Too Close to Define
 author: jsmarquis
 type: post
+aliases:
+  - /2016/03/2016-03-25-too-close-to-define.md
 date: 2016-03-25T02:51:00+00:00
 tags:
   - CAST

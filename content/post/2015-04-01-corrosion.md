@@ -2,6 +2,8 @@
 title: Corrosion
 author: jsmarquis
 type: post
+aliases:
+  - /2015/04/2015-04-01-corrosion.md
 date: 2015-04-01T18:18:00+00:00
 
 ---

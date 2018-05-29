@@ -2,6 +2,8 @@
 title: Grudge Removal
 author: jsmarquis
 type: post
+aliases:
+  - /2014/10/2014-10-12-grudge-removal.md
 date: 2014-10-12T00:32:00+00:00
 
 ---
