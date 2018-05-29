@@ -1,7 +1,9 @@
 {{ partial "header" . }}
 
 <main>
-  {{ with .Params.link }} {{ $.Scratch.Set "link" . }} {{ end }}
+  {{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006") | $.Scratch.Set "subtitle" }}
+  {{ with .Description }} {{ $.Scratch.Set "subtitle" . }} {{ end }}
+
   <h3 class="page-title">{{ .Title }}</h3>
   <h5>{{ $.Scratch.Get "subtitle" }}</h5>
 
