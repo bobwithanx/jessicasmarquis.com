@@ -3,8 +3,8 @@ languageCode = "en-us"
 title = "Jessica S. Marquis"
 theme = "minimal"
 
-[permalinks]
-  blog = "/:year/:month/:filename/"
+# [permalinks]
+#   post = "/:year/:month/:slug/"
 
 [params]
     author = "Jessia S. Marquis"
@@ -19,7 +19,7 @@ theme = "minimal"
     copyright = "&copy; 2018 Jessica S. Marquis."
 
 [[menu.main]]
-    url = "/blog/"
+    url = "/post/"
     name = "Blog"
     weight = 2
 
