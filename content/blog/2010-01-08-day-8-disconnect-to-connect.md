@@ -3,7 +3,7 @@ title: 'day #8: disconnect to connect'
 author: jsmarquis
 type: post
 aliases:
-  - /2010/01/2010-01-08-day-8-disconnect-to-connect.md
+  - /2010/01/08/2010-01-day-8-disconnect-to-connect-html/
 date: 2010-01-08T14:56:00+00:00
 
 ---

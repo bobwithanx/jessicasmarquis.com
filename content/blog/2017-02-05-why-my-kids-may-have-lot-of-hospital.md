@@ -3,7 +3,7 @@ title: Why my kids may have a lot of hospital visits OR The undervalued gift of 
 author: jsmarquis
 type: post
 aliases:
-  - /2017/02/2017-02-05-why-my-kids-may-have-lot-of-hospital.md
+  - /2017/02/05/2017-02-why-my-kids-may-have-lot-of-hospital-html/
 date: 2017-02-05T20:40:00+00:00
 
 ---

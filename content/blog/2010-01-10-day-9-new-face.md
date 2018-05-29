@@ -3,7 +3,7 @@ title: 'day #9: a new face'
 author: jsmarquis
 type: post
 aliases:
-  - /2010/01/2010-01-10-day-9-new-face.md
+  - /2010/01/10/2010-01-day-9-new-face-html/
 date: 2010-01-10T01:04:00+00:00
 tags:
   - changing routine

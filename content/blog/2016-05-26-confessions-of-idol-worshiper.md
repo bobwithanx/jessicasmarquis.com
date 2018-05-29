@@ -3,7 +3,7 @@ title: Confessions of an Idol-Worshiper
 author: jsmarquis
 type: post
 aliases:
-  - /2016/05/2016-05-26-confessions-of-idol-worshiper.md
+  - /2016/05/26/2016-05-confessions-of-idol-worshiper-html/
 date: 2016-05-26T17:56:00+00:00
 tags:
   - family

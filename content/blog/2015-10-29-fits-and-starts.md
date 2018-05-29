@@ -3,7 +3,7 @@ title: Fits and starts
 author: jsmarquis
 type: post
 aliases:
-  - /2015/10/2015-10-29-fits-and-starts.md
+  - /2015/10/29/2015-10-fits-and-starts-html/
 date: 2015-10-29T03:21:00+00:00
 tags:
   - consistency

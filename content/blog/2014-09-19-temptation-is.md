@@ -3,7 +3,7 @@ title: Temptation Is…
 author: jsmarquis
 type: post
 aliases:
-  - /2014/09/2014-09-19-temptation-is.md
+  - /2014/09/19/2014-09-temptation-is-html/
 date: 2014-09-19T00:42:00+00:00
 
 ---

@@ -3,7 +3,7 @@ title: We Are More Than Just The Givers Of Life To Our Children
 author: jsmarquis
 type: post
 aliases:
-  - /2014/09/2014-09-30-we-are-more-than-just-givers-of-life-to.md
+  - /2014/09/30/2014-09-we-are-more-than-just-givers-of-life-to-html/
 date: 2014-09-30T00:39:00+00:00
 
 ---

@@ -3,7 +3,7 @@ title: Digesting with gratitude
 author: jsmarquis
 type: post
 aliases:
-  - /2015/09/2015-09-30-digesting-with-gratitude.md
+  - /2015/09/30/2015-09-digesting-with-gratitude-html/
 date: 2015-09-30T18:52:00+00:00
 tags:
   - family

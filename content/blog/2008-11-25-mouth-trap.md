@@ -3,7 +3,7 @@ title: the mouth trap
 author: jsmarquis
 type: post
 aliases:
-  - /2008/11/2008-11-25-mouth-trap.md
+  - /2008/11/25/2008-11-mouth-trap-html/
 date: 2008-11-25T04:56:00+00:00
 tags:
   - thanks

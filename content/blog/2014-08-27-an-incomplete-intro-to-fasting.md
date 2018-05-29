@@ -3,7 +3,7 @@ title: An Incomplete Intro to Fasting
 author: jsmarquis
 type: post
 aliases:
-  - /2014/08/2014-08-27-an-incomplete-intro-to-fasting.md
+  - /2014/08/27/2014-08-an-incomplete-intro-to-fasting-html/
 date: 2014-08-27T00:52:00+00:00
 
 ---

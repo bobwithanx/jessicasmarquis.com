@@ -3,7 +3,7 @@ title: Waiting for the Taxi
 author: jsmarquis
 type: post
 aliases:
-  - /2016/02/2016-02-06-waiting-for-taxi.md
+  - /2016/02/06/2016-02-waiting-for-taxi-html/
 date: 2016-02-06T21:50:00+00:00
 tags:
   - forgiveness

@@ -3,7 +3,7 @@ title: Milkweed + Cottonwood = I’m Back!
 author: jsmarquis
 type: post
 aliases:
-  - /2013/10/2013-10-10-milkweed-cottonwood-im-back.md
+  - /2013/10/10/2013-10-milkweed-cottonwood-im-back-html/
 date: 2013-10-10T02:54:00+00:00
 
 ---

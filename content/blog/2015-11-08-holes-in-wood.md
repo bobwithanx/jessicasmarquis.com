@@ -3,7 +3,7 @@ title: Holes in Wood
 author: jsmarquis
 type: post
 aliases:
-  - /2015/11/2015-11-08-holes-in-wood.md
+  - /2015/11/08/2015-11-holes-in-wood-html/
 date: 2015-11-08T21:47:00+00:00
 tags:
 - grace

@@ -3,7 +3,7 @@ title: It’s Okay to Be Happy
 author: jsmarquis
 type: post
 aliases:
-  - /2014/10/2014-10-01-its-okay-to-be-happy.md
+  - /2014/10/01/2014-10-its-okay-to-be-happy-html/
 date: 2014-10-01T00:38:00+00:00
 
 ---

@@ -3,7 +3,7 @@ title: Of Obstacles and Birdsongs
 author: jsmarquis
 type: post
 aliases:
-  - /2016/05/2016-05-05-of-obstacles-and-birdsongs.md
+  - /2016/05/05/2016-05-of-obstacles-and-birdsongs-html/
 date: 2016-05-05T18:25:00+00:00
 tags:
   - fear

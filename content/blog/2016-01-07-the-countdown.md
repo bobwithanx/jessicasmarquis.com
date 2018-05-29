@@ -3,7 +3,7 @@ title: The Countdown
 author: jsmarquis
 type: post
 aliases:
-  - /2016/01/2016-01-07-the-countdown.md
+  - /2016/01/07/2016-01-the-countdown-html/
 date: 2016-01-07T22:08:00+00:00
 tags:
   - commitment

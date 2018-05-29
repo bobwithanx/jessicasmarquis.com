@@ -3,7 +3,7 @@ title: Sharing Victories
 author: jsmarquis
 type: post
 aliases:
-  - /2014/11/2014-11-03-sharing-victories.md
+  - /2014/11/03/2014-11-sharing-victories-html/
 date: 2014-11-03T01:24:00+00:00
 
 ---

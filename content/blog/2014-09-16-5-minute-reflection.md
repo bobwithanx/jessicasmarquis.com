@@ -3,7 +3,7 @@ title: 5-Minute Reflection
 author: jsmarquis
 type: post
 aliases:
-  - /2014/09/2014-09-16-5-minute-reflection.md
+  - /2014/09/16/2014-09-5-minute-reflection-html/
 date: 2014-09-16T00:43:00+00:00
 
 ---

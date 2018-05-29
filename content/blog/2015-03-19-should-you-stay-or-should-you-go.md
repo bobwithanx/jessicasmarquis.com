@@ -3,7 +3,7 @@ title: Should You Stay or Should You Go?
 author: jsmarquis
 type: post
 aliases:
-  - /2015/03/2015-03-19-should-you-stay-or-should-you-go.md
+  - /2015/03/19/2015-03-should-you-stay-or-should-you-go-html/
 date: 2015-03-19T23:53:00+00:00
 
 ---

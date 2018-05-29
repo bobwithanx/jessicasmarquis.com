@@ -3,7 +3,7 @@ title: Pushing Together or Pulling Apart
 author: jsmarquis
 type: post
 aliases:
-  - /2014/12/2014-12-28-pushing-together-or-pulling-apart.md
+  - /2014/12/28/2014-12-pushing-together-or-pulling-apart-html/
 date: 2014-12-28T01:15:00+00:00
 
 ---

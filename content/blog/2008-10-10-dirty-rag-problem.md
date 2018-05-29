@@ -3,7 +3,7 @@ title: the dirty rag problem
 author: jsmarquis
 type: post
 aliases:
-  - /2008/10/2008-10-10-dirty-rag-problem.md
+  - /2008/10/10/2008-10-dirty-rag-problem-html/
 date: 2008-10-10T06:13:00+00:00
 tags:
   - growth

@@ -3,7 +3,7 @@ title: Burnt Out on Burnout
 author: jsmarquis
 type: post
 aliases:
-  - /2015/10/2015-10-24-burnt-out-on-burnout.md
+  - /2015/10/24/2015-10-burnt-out-on-burnout-html/
 date: 2015-10-24T02:28:00+00:00
 tags:
 - burnout

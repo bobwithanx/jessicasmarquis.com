@@ -3,7 +3,7 @@ title: Stocking Stuffer
 author: jsmarquis
 type: post
 aliases:
-  - /2013/12/2013-12-05-stocking-stuffer.md
+  - /2013/12/05/2013-12-stocking-stuffer-html/
 date: 2013-12-05T03:22:00+00:00
 
 ---

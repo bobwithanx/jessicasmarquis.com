@@ -3,7 +3,7 @@ title: giving thanks when things suck
 author: jsmarquis
 type: post
 aliases:
-  - /2008/10/2008-10-31-giving-thanks-when-things-suck.md
+  - /2008/10/31/2008-10-giving-thanks-when-things-suck-html/
 date: 2008-10-31T00:50:00+00:00
 tags:
   - growth

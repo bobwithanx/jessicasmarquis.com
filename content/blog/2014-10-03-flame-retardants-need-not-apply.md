@@ -3,7 +3,7 @@ title: Flame Retardants Need Not Apply
 author: jsmarquis
 type: post
 aliases:
-  - /2014/10/2014-10-03-flame-retardants-need-not-apply.md
+  - /2014/10/03/2014-10-flame-retardants-need-not-apply-html/
 date: 2014-10-03T00:36:00+00:00
 
 ---

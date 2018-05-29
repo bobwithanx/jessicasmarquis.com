@@ -3,7 +3,7 @@ title: the myth of achieving happiness
 author: jsmarquis
 type: post
 aliases:
-  - /2008/11/2008-11-12-myth-of-achieving-happiness.md
+  - /2008/11/12/2008-11-myth-of-achieving-happiness-html/
 date: 2008-11-12T14:43:00+00:00
 tags:
   - thanks

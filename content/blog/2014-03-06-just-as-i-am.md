@@ -3,7 +3,7 @@ title: Just As I Am
 author: jsmarquis
 type: post
 aliases:
-  - /2014/03/2014-03-06-just-as-i-am.md
+  - /2014/03/06/2014-03-just-as-i-am-html/
 date: 2014-03-06T02:23:00+00:00
 
 ---

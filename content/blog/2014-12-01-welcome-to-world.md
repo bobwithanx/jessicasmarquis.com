@@ -3,7 +3,7 @@ title: Welcome to the World
 author: jsmarquis
 type: post
 aliases:
-  - /2014/12/2014-12-01-welcome-to-world.md
+  - /2014/12/01/2014-12-welcome-to-world-html/
 date: 2014-12-01T18:52:00+00:00
 
 ---

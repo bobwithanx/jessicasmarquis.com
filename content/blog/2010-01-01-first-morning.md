@@ -3,7 +3,7 @@ title: first morning
 author: jsmarquis
 type: post
 aliases:
-  - /2010/01/2010-01-01-first-morning.md
+  - /2010/01/01/2010-01-first-morning-html/
 date: 2010-01-01T19:11:00+00:00
 tags:
   - AM gratitude

@@ -3,7 +3,7 @@ title: Freedom from Mommy Guilt
 author: jsmarquis
 type: post
 aliases:
-  - /2014/10/2014-10-24-as-women-as-moms-were-subtly-fed-lies.md
+  - /2014/10/24/2014-10-as-women-as-moms-were-subtly-fed-lies-html/
 date: 2014-10-24T00:28:00+00:00
 
 ---

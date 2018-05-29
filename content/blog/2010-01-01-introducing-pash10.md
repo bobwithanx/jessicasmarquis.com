@@ -3,7 +3,7 @@ title: 'Introducing: PASH10'
 author: jsmarquis
 type: post
 aliases:
-  - /2010/01/2010-01-01-introducing-pash10.md
+  - /2010/01/01/2010-01-introducing-pash10-html/
 date: 2010-01-01T01:17:00+00:00
 tags:
 - 2010

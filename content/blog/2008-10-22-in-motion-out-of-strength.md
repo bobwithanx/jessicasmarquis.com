@@ -3,7 +3,7 @@ title: 'in motion & out of strength'
 author: jsmarquis
 type: post
 aliases:
-  - /2008/10/2008-10-22-in-motion-out-of-strength.md
+  - /2008/10/22/2008-10-in-motion-out-of-strength-html/
 date: 2008-10-22T05:11:00+00:00
 tags:
   - rest

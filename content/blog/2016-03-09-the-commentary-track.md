@@ -3,7 +3,7 @@ title: The Commentary Track
 author: jsmarquis
 type: post
 aliases:
-  - /2016/03/2016-03-09-the-commentary-track.md
+  - /2016/03/09/2016-03-the-commentary-track-html/
 date: 2016-03-09T18:29:00+00:00
 tags:
   - change

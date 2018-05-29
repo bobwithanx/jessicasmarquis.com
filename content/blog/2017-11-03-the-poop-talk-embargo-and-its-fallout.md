@@ -3,7 +3,7 @@ title: The Poop-Talk Embargo and Its Fallout
 author: jsmarquis
 type: post
 aliases:
-  - /2017/11/2017-11-03-the-poop-talk-embargo-and-its-fallout.md
+  - /2017/11/03/2017-11-the-poop-talk-embargo-and-its-fallout-html/
 date: 2017-11-03T21:25:00+00:00
 tags:
   - children

@@ -3,7 +3,7 @@ title: Dethroning Money
 author: jsmarquis
 type: post
 aliases:
-  - /2014/10/2014-10-06-dethroning-money.md
+  - /2014/10/06/2014-10-dethroning-money-html/
 date: 2014-10-06T00:34:00+00:00
 
 ---

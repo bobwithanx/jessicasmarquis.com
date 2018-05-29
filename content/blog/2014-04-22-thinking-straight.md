@@ -3,7 +3,7 @@ title: Thinking Straight
 author: jsmarquis
 type: post
 aliases:
-  - /2014/04/2014-04-22-thinking-straight.md
+  - /2014/04/22/2014-04-thinking-straight-html/
 date: 2014-04-22T01:15:00+00:00
 
 ---

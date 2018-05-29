@@ -2,7 +2,7 @@
 layout: blog
 type: post
 aliases:
-  - /2018/05/2018-05-27-where-have-i-been-i-don’t-know.md
+  - /2018/05/27/2018-05-where-have-i-been-i-don’t-know-html/
 title: Where have I been? I don’t know.
 date: '2018-04-09T19:35:02-07:00'
 ---

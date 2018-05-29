@@ -3,7 +3,7 @@ title: Trajectory
 author: jsmarquis
 type: post
 aliases:
-  - /2015/11/2015-11-05-trajectory.md
+  - /2015/11/05/2015-11-trajectory-html/
 date: 2015-11-05T23:10:00+00:00
 tags:
   - surrender

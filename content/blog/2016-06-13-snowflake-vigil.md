@@ -3,7 +3,7 @@ title: Snowflake Vigil
 author: jsmarquis
 type: post
 aliases:
-  - /2016/06/2016-06-13-snowflake-vigil.md
+  - /2016/06/13/2016-06-snowflake-vigil-html/
 date: 2016-06-13T20:27:00+00:00
 tags:
   - anger

@@ -3,7 +3,7 @@ title: leaning on that which stands on its own
 author: jsmarquis
 type: post
 aliases:
-  - /2008/11/2008-11-18-leaning-on-that-which-stands-on-its-own.md
+  - /2008/11/18/2008-11-leaning-on-that-which-stands-on-its-own-html/
 date: 2008-11-18T03:26:00+00:00
 tags:
   - love

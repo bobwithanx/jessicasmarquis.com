@@ -3,7 +3,7 @@ title: Rest, Again.
 author: jsmarquis
 type: post
 aliases:
-  - /2013/10/2013-10-26-rest-again.md
+  - /2013/10/26/2013-10-rest-again-html/
 date: 2013-10-26T02:36:00+00:00
 
 ---

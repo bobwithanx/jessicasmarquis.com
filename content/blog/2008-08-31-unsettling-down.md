@@ -3,7 +3,7 @@ title: unsettling down
 author: jsmarquis
 type: post
 aliases:
-  - /2008/08/2008-08-31-unsettling-down.md
+  - /2008/08/31/2008-08-unsettling-down-html/
 date: 2008-08-31T16:09:00+00:00
 tags:
   - growth

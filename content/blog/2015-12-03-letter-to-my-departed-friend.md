@@ -3,7 +3,7 @@ title: Unsent
 author: jsmarquis
 type: post
 aliases:
-  - /2015/12/2015-12-03-letter-to-my-departed-friend.md
+  - /2015/12/03/2015-12-letter-to-my-departed-friend-html/
 date: 2015-12-03T15:11:00+00:00
 tags:
   - friendship

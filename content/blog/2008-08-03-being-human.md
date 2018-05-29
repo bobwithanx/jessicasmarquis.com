@@ -3,7 +3,7 @@ title: being human
 author: jsmarquis
 type: post
 aliases:
-  - /2008/08/2008-08-03-being-human.md
+  - /2008/08/03/2008-08-being-human-html/
 date: 2008-08-03T02:28:00+00:00
 tags:
   - love

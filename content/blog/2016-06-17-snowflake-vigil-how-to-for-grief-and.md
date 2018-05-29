@@ -3,7 +3,7 @@ title: 'Snowflake Vigil: A How-To for Grief and Young Ones'
 author: jsmarquis
 type: post
 aliases:
-  - /2016/06/2016-06-17-snowflake-vigil-how-to-for-grief-and.md
+  - /2016/06/17/2016-06-snowflake-vigil-how-to-for-grief-and-html/
 date: 2016-06-17T23:11:00+00:00
 tags:
   - grief

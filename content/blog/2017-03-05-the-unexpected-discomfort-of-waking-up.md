@@ -3,7 +3,7 @@ title: Thick Skin and the Girl Who Doesn’t Have It
 author: jsmarquis
 type: post
 aliases:
-  - /2017/03/2017-03-05-the-unexpected-discomfort-of-waking-up.md
+  - /2017/03/05/2017-03-the-unexpected-discomfort-of-waking-up-html/
 date: 2017-03-05T20:49:00+00:00
 tags:
   - advocacy

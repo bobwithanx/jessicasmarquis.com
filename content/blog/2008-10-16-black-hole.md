@@ -3,7 +3,7 @@ title: the black hole
 author: jsmarquis
 type: post
 aliases:
-  - /2008/10/2008-10-16-black-hole.md
+  - /2008/10/16/2008-10-black-hole-html/
 date: 2008-10-16T04:17:00+00:00
 tags:
   - growth

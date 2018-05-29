@@ -3,7 +3,7 @@ title: In Praise of Dedicated Mamas
 author: jsmarquis
 type: post
 aliases:
-  - /2014/01/2014-01-17-in-praise-of-dedicated-mamas.md
+  - /2014/01/17/2014-01-in-praise-of-dedicated-mamas-html/
 date: 2014-01-17T03:19:00+00:00
 
 ---

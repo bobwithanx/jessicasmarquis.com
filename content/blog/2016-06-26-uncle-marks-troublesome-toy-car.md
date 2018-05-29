@@ -3,7 +3,7 @@ title: Uncle Mark’s Troublesome Toy Car
 author: jsmarquis
 type: post
 aliases:
-  - /2016/06/2016-06-26-uncle-marks-troublesome-toy-car.md
+  - /2016/06/26/2016-06-uncle-marks-troublesome-toy-car-html/
 date: 2016-06-26T20:38:00+00:00
 tags:
   - addiction

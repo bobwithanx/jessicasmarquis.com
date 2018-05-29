@@ -3,7 +3,7 @@ title: garden talk
 author: jsmarquis
 type: post
 aliases:
-  - /2008/12/2008-12-27-garden-talk.md
+  - /2008/12/27/2008-12-garden-talk-html/
 date: 2008-12-27T04:29:00+00:00
 tags:
   - growth

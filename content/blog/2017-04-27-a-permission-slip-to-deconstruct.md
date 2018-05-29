@@ -3,7 +3,7 @@ title: A Permission Slip to Deconstruct
 author: jsmarquis
 type: post
 aliases:
-  - /2017/04/2017-04-27-a-permission-slip-to-deconstruct.md
+  - /2017/04/27/2017-04-a-permission-slip-to-deconstruct-html/
 date: 2017-04-27T23:00:00+00:00
 tags:
   - butterflies

@@ -3,7 +3,7 @@ title: Harmony vs. Melody
 author: jsmarquis
 type: post
 aliases:
-  - /2013/03/2013-03-28-harmony-vs-melody.md
+  - /2013/03/28/2013-03-harmony-vs-melody-html/
 date: 2013-03-28T02:25:00+00:00
 
 ---

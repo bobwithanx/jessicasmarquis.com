@@ -3,7 +3,7 @@ title: Being the Chosen One
 author: jsmarquis
 type: post
 aliases:
-  - /2014/08/2014-08-24-being-chosen-one.md
+  - /2014/08/24/2014-08-being-chosen-one-html/
 date: 2014-08-24T01:00:00+00:00
 
 ---

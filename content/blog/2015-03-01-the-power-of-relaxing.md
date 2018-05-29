@@ -3,7 +3,7 @@ title: The Power of Relaxing
 author: jsmarquis
 type: post
 aliases:
-  - /2015/03/2015-03-01-the-power-of-relaxing.md
+  - /2015/03/01/2015-03-the-power-of-relaxing-html/
 date: 2015-03-01T01:02:00+00:00
 
 ---

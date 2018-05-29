@@ -3,7 +3,7 @@ title: 'My Ambivalent Fallout with a Bush: A Story of Unexpected Restoration'
 author: jsmarquis
 type: post
 aliases:
-  - /2016/10/2016-10-18-my-ambivalent-fallout-with-bush-story.md
+  - /2016/10/18/2016-10-my-ambivalent-fallout-with-bush-story-html/
 date: 2016-10-18T03:35:00+00:00
 tags:
   - grief
