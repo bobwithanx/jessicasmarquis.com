@@ -1,4 +1,4 @@
-baseURL = "http://dev.jessicasmarquis.com/"
+baseURL = "http://www.jessicasmarquis.com/"
 languageCode = "en-us"
 title = "Jessica S. Marquis"
 theme = "minimal"
@@ -8,7 +8,7 @@ theme = "minimal"
 
 [params]
     author = "Jessia S. Marquis"
-    description = "Personal blog theme powered by Hugo"
+    description = "Word Writer + Idea Igniter + Dinosaur Fighter"
     showBorder = true
     css = ["css/custom.css"]
     # accent = "#40017F"
