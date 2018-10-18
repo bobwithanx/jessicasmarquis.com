@@ -3,7 +3,7 @@ layout: blog
 type: post
 title: dirt under the nails
 date: '2018-07-18T09:19:00-07:00'
-tags: '#writingfromthemiddle, depression, anxiety, spirituality, Christianity'
+tags: '#writingfromthemiddle, depression, anxiety, faith, Christianity'
 ---
 A while back, an acquaintance asked how I could be depressed if I believed in God. He was under the impression that someone classified as "Christian" couldn't ever experience meaninglessness, anxiety, or deep sadness. So I cracked my knuckles and I told him I was still human, and my spirituality didn't take away from that experience. Nonetheless, his comment stuck with me - probably because I've heard it elsewhere. So I'm about to impale that lie. Get ready for some carnage.
 
