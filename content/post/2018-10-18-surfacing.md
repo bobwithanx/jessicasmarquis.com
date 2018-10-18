@@ -1,7 +1,7 @@
 ---
 layout: blog
 type: post
-title: Surfacing
+title: surfacing
 date: '2018-06-24T09:14:31-07:00'
 tags: '#WritingFromTheMiddle, Depression, Anxiety'
 ---
