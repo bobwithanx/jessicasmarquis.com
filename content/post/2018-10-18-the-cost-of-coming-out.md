@@ -5,7 +5,7 @@ title: the cost of coming out
 date: '2018-09-20T14:30:00-07:00'
 tags: LGBTQ
 ---
-![](/images/uploads/candy-color-difference-54633.jpg)
+![null](/images/uploads/candy-color-difference-54633.jpg)
 
 Right now, people are counting the relationships they’re about to lose. They’re cutting ties with places where they’ll no longer feel welcome, and coming up with alternatives to activities and positions from which they may have to resign. Some may be looking for new roommates or entirely new places to live. Some may be in touch with counselors and carrying suicide help line numbers in their pockets.
 
