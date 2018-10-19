@@ -3,7 +3,7 @@ layout: blog
 type: post
 title: God must be dead
 date: '2018-08-10T09:00:00-07:00'
-tags: '#writingfromthemiddle, faith, parenting'
+tags: 'faith, parenting'
 ---
 “I think God is dead.”
 
@@ -38,3 +38,5 @@ I looked at my kiddo, his thoughtful eyes dimming as sleep approached. “I can 
 “God is in the healing and the goodness,” I whispered. “And God is also with us in the bad. Even if we can’t see God. That’s what I believe.”
 
 He didn’t counter, nor did he inquire further. I hadn’t provided my full theology, nor had I asked him to accept what I’d said. I simply showed him my superheroine suit, and I let him start finding his. I have no idea what it will look like, but I’m excited to see what he co-creates with it.
+
+\#writingfromthemiddle
