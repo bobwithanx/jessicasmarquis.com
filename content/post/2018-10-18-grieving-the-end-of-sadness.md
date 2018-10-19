@@ -3,7 +3,7 @@ layout: blog
 type: post
 title: grieving the end of sadness
 date: '2018-08-22T09:38:00-07:00'
-tags: '#writingfromthemiddle, depression, grief'
+tags: 'depression, grief'
 ---
 Have you ever had a thought, then shut it down because it seemed way too weird? I’m guessing you have, and that some of those thoughts are ones we’ve actually shared. So today I’m going to talk about grieving the loss of depression and anxiety.
 
@@ -36,3 +36,5 @@ But that isn’t my situation. I’m capable of moving out of this extended seas
 If any of this resonates with you, I invite you to do something to acknowledge your grief along with me. We can’t create space for wholeness without letting go of what has helped us, protected us, thus far. For me, I write out my grief. Others burn something symbolic. Maybe I’m enabling pyros here, but I’m going on record as saying I’m all for that ritual. Whatever your jam is, allow yourself to mourn this transition.
 
 Goodnight, my friends. Tomorrow is a new day. Thanks for allowing me to make space for it.
+
+\#writingfromthemiddle
