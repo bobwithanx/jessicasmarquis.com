@@ -3,6 +3,7 @@ layout: blog
 type: post
 title: 'two perspectives: part 2'
 date: '2018-10-14T16:57:00-07:00'
+tags: '#writingfromthemiddle, #twoperspectives, abortion, Christianity'
 ---
 Aaaaaaaaaand now, back to our program! If you’re just joining us, this is part 2 of a post series called #TwoPerspectives, insights I’ve gained from my life in both the conservative and the left-leaning Christian traditions. You can read [**part 1**](https://www.facebook.com/photo.php?fbid=10156688766032387). I won’t recap - I’d rather just dive right into the boiling water of Roe v. Wade. (TW: abortion)
 
