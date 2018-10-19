@@ -3,9 +3,9 @@ layout: blog
 type: post
 title: 'two perspectives: part 1'
 date: '2018-09-30T14:50:00-07:00'
-tags: '#writingfromthemiddle, #twoperspectives, christianity, abuse'
+tags: 'christianity, abuse'
 ---
-![](/images/uploads/pexels-photo-209981.png)
+![null](/images/uploads/pexels-photo-209981.png)
 
 If you haven’t noped out of social media this week, you‘re likely experiencing some degree of boiling in your blood. The news and the public’s response to it has been unsettling and, for many, triggering.
 
@@ -85,3 +85,7 @@ I still love Jesus, as well as you all.
 .
 
 Edit to add: A deep-hearted thank you to everyone who helped with this piece. Not all wished to be identified, but all were integral.
+
+\#writingfromthemiddle
+
+\#twoperspectives
