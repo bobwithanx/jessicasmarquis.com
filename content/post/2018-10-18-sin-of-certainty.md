@@ -3,7 +3,7 @@ layout: blog
 type: post
 title: sin of certainty
 date: '2018-08-26T09:44:00-07:00'
-tags: '#writingfromthemiddle, faith'
+tags: faith
 ---
 How many times have I confessed the “sin” of doubt? How many times have I promised God, “I’ll trust you!” then reneged on it? I used to beat myself up for it, naming “doubt” as my weakness. My faith tradition supported this call to repentance. “More faith!” was the second most common Sunday school answer (after “Jesus”).
 
@@ -26,3 +26,5 @@ Tonight at church, I confessed for the first time my sin of certainty. Pursuing 
 “Neither our knowledge of God and his purposes for his creation, nor the discoveries of science are static. I must admit that the scientists are often easier for me to understand than the theologians, for many theologians say, ‘These are the final answers.’ Whereas the scientists—correction: the best of them—say, ‘This is how it appears now. If further evidence is to the contrary, we will see where it leads us.’ And of course I’m being unfair to the theologians. The best of them, too, are open to this uncertainty, which is closer to the truth which will set us free than any closed system.”
 
 Amen.
+
+\#writingfromthemiddle
