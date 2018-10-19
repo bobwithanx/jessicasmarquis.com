@@ -5,6 +5,8 @@ title: 'two perspectives: part 2'
 date: '2018-10-14T16:57:00-07:00'
 tags: '#writingfromthemiddle, #twoperspectives, abortion, Christianity'
 ---
+![](/images/uploads/dresser.png)
+
 Aaaaaaaaaand now, back to our program! If you’re just joining us, this is part 2 of a post series called #TwoPerspectives, insights I’ve gained from my life in both the conservative and the left-leaning Christian traditions. You can read [**part 1**](https://www.facebook.com/photo.php?fbid=10156688766032387). I won’t recap - I’d rather just dive right into the boiling water of Roe v. Wade. (TW: abortion)
 
 If you just felt your stomach contract and a flash of anxiety ambush your body, you aren’t alone. Some of you may even wonder if you’re allowed to read this. If that resonates loudly (or sounds odd), please read my [**intro post**](https://www.facebook.com/jessica.s.marquis/posts/10156703623422387.) that describes aspects of the Conservative White Evangelical culture.
@@ -90,9 +92,7 @@ How do we deal with all this? Should we completely overturn Roe v. Wade?
 The question we actually need to ask is, “Why?”
 
 1. Are we doing it because we don’t want abortions to happen? Then we need to provide better sex education and access to birth control for people who are having sex and don’t know what they’re doing.
-
 2. Are we doing it to save babies’ lives? Then we need to improve the systems into which they’ll be born, ensuring better quality of life and access to the services they need. Prior to life, we need to create a culture where pregnancy outside of marriage is not shamed nor the woman devalued. We must make a place where she feels welcomed and loved without condition or judgment, where she has unfettered access to resources (prenatal vitamins, checkups, baby items). If a life is saved because it is sacred, that value must be maintained from beginning to end.
-
 3. Are we doing it because our abortion belief pile is too large and scary to take it apart? Then we need to take responsibility for our beliefs and do it anyway. We can’t accept simple solutions to complex issues, because, as we’ve seen above, those solutions aren’t effective.
 
 I think that’s enough for now. If you need more resources, please let me know. I didn’t want to overwhelm you. 😉 For now, I’m exhausted and ready to power down. Thank you for taking the time and making the effort to understand a perspective beyond your own.
@@ -106,7 +106,6 @@ I love you all.
 \*\* - Don’t let the “tax dollar” verbiage trip you up; there are very tight restrictions on any federal money being used. Here is a bunch of reading if you’re skittish about this - or just a geek for research. 
 
 1. Federal tax dollars cannot be used to pay for abortions due to the [Hyde Amendment](https://en.wikipedia.org/wiki/Hyde_Amendment).
-
 2. The funding that goes to Planned Parenthood is not directly used for abortions.
 
 2a. There is [discussion](https://www.plannedparenthoodaction.org/blog/how-federal-funding-works-at-planned-parenthood?fbclid=IwAR274GZYzpjoeC6T6zZNNAlnDH8HB5FANZNjxsr_T0iYZp0G4agxBr2SYs8) over how much is indirectly used. (Note: Both Forbes and American Enterprise Institute, the author’s research sponsor are conservative sources)
