@@ -3,7 +3,7 @@ layout: blog
 type: post
 title: decoder ring
 date: '2018-09-19T14:27:00-07:00'
-tags: 'faith, LGBTQ '
+tags: 'faith, LGBTQ'
 ---
 Some of you know my personal commitment not to attend events or institutions that do not provide an LGBTQ-affirming viewpoint. It need not be the sole viewpoint, but it must be represented and given due respect. As a result, I’ve learned to decode the language described by [this article](https://medium.com/solus-jesus/the-new-hip-churches-are-fooling-google-they-pop-up-as-gay-friendly-its-a-hoax-6d8c4ae1764c). Unfortunately, not everyone has gained this experience, and members of the LGBTQ community continue to be wounded by what can equate to false advertising.
 
