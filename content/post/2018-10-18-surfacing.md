@@ -3,7 +3,7 @@ layout: blog
 type: post
 title: surfacing
 date: '2018-06-24T09:14:31-07:00'
-tags: '#WritingFromTheMiddle, Depression, Anxiety'
+tags: 'Depression, Anxiety'
 ---
 As I’ve shared about my tidal wave of depression crested with anxiety, many people have come forward with similar stories. I’ve been audience to tales of phone calls to counselors never returned, shame over being a human who breaks sometimes, and fears of taking medication that affects the brain. Even as a former therapist, I’m not an expert on these things, so I often respond with, “Yep, it sucks.” And a hug. You know, if the person’s cool with that.
 
@@ -28,3 +28,5 @@ Lexapro takes 6-8 weeks to take full effect, so it’s a gradual change. I didn�
 The path has not been a smooth incline. Changing doses has resulted in weird emotional reactions, but after a while they've subsided. I don’t feel like the people in the Kids in the Hall film ‘Brain Candy’, zombie-blissful and unresponsive. I feel like me returning to myself. I know what that \*can\* feel like, and I believe I will get back there. I also believe that maybe I can get beyond that, since I’ve always had an undercurrent of anxiety and depression. Don’t get me wrong; I don’t want to banish them forever. Those companions have served me well to examine life and connect with others. But they’ve also gotten in the way of me doing those things, and that is what I want to prevent.
 
 I hope some of this writing brings peace or encouragement for you. If you’re considering therapy, do it. I’m rooting for you, and you can email me if you need resources. (Note: I’m still not on Facebook regularly to check comments or PM’s.) If you’re considering medication, talk to your doctor. Remember: Neither counseling nor meds are a sign of weakness, but rather that you want to function better. One day you may not need one or both, but today you may. That’s okay. Be good to you so you can share your unique light with the world…in time.
+
+\#writingfromthemiddle
