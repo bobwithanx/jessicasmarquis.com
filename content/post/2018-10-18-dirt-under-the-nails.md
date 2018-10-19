@@ -3,7 +3,7 @@ layout: blog
 type: post
 title: dirt under the nails
 date: '2018-07-18T09:19:00-07:00'
-tags: '#writingfromthemiddle, depression, anxiety, faith, Christianity'
+tags: 'depression, anxiety, faith, Christianity'
 ---
 A while back, an acquaintance asked how I could be depressed if I believed in God. He was under the impression that someone classified as "Christian" couldn't ever experience meaninglessness, anxiety, or deep sadness. So I cracked my knuckles and I told him I was still human, and my spirituality didn't take away from that experience. Nonetheless, his comment stuck with me - probably because I've heard it elsewhere. So I'm about to impale that lie. Get ready for some carnage.
 
@@ -20,3 +20,5 @@ If we stop listening to the people who preach that lack of happiness and peace i
 The fact is, they may say, "I get that," "I've been there," "Thanks for trusting me." Or maybe they won't. Maybe they'll give you the side-eye or stop inviting you to dinner. But you're living for health and well-being, for authentic spirituality and interaction with the Divine that includes all parts of yourself.
 
 So, in closing, if you're in relationship with anyone or anything that won't allow you to bring your whole self, then it's time for a relationship makeover. And you can start by hanging out with people who have dirt under their nails.
+
+\#writingfromthemiddle
