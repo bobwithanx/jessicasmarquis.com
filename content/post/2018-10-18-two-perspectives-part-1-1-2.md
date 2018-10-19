@@ -3,9 +3,9 @@ layout: blog
 type: post
 title: 'two perspectives: part 1 1/2'
 date: '2018-10-06T16:52:00-07:00'
-tags: '#writingfromthemiddle, #twoperspectives, Christianity'
+tags: Christianity
 ---
-![](/images/uploads/3d-glasses-1413345-638x393.jpg)
+![null](/images/uploads/3d-glasses-1413345-638x393.jpg)
 
 3/4 of the way through writing part 2 of my [**earlier post**](https://www.facebook.com/photo.php?fbid=10156688766032387), it hit me that it required prerequisite knowledge of the culture. Those without could understand the post, yes, but it would make more sense with some framework. It’s like the difference between watching a 3D movie with and without the glasses. This post will serve as your glasses for [**part 2**](https://www.facebook.com/jessica.s.marquis/posts/10156723696197387) in the #TwoPerspectives series.
 
@@ -34,3 +34,7 @@ The hardest topics for a CWE Christian to reconsider position on are often those
 And that, my friends, is where I bid you goodnight. 
 
 To be continued…
+
+\#writingfromthemiddle
+
+\#twoperspectives
