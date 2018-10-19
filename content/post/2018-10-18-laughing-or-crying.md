@@ -3,7 +3,7 @@ layout: blog
 type: post
 title: laughing or crying?
 date: '2018-07-25T09:22:00-07:00'
-tags: '#writingfromthemiddle, depression, anxiety, parenting'
+tags: 'depression, anxiety, parenting'
 ---
 I've lived with depression and anxiety as far back as I can remember. I'm also a stay-at-home parent, trying to succeed in the most demanding job I’ve ever held while various issues pop up and I wrestle them. It’s like a really lousy video game.
 
@@ -34,3 +34,5 @@ I’ve been straightforward with all three of my kiddos, particularly because we
 And you know what? I think all this has made us more gracious with each other. If my kids know I have flaws that I’ve accepted, flaws I don’t hide or reject, they probably won’t hold themselves or others to unrealistic standards. Those are the kind of people our world needs. I guess that’s the consolation prize of being a parent with a malfunctioning brain.
 
 If so, I’m good with that.
+
+\#writingfromthemiddle
