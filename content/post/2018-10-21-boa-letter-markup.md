@@ -3,6 +3,7 @@ layout: blog
 type: post
 title: BOA letter markup
 date: '2018-10-21T06:00:00-07:00'
+tags: 'abortion, Christianity, justice'
 ---
 Below is a letter from an Evangelical Christian BOA (birth-only advocate) nonprofit. What troubles me is not their position - they are transparent about their work as BOAs - but how they communicate it. This letter is replete with misleading information, polarizing wording, and sensational visuals, including fonts and graphics intended to evoke strong emotional reactions. 
 
