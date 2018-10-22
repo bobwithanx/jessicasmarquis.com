@@ -6,6 +6,8 @@ date: '2018-10-14T16:57:00-07:00'
 tags:
   - abortion
   - Christianity
+  - '#writingfromthemiddle'
+  - '#twoperspectives'
 ---
 ![null](/images/uploads/dresser.png)
 
@@ -113,7 +115,3 @@ I love you all.
 2a. There is [discussion](https://www.plannedparenthoodaction.org/blog/how-federal-funding-works-at-planned-parenthood?fbclid=IwAR274GZYzpjoeC6T6zZNNAlnDH8HB5FANZNjxsr_T0iYZp0G4agxBr2SYs8) over how much is indirectly used. (Note: Both Forbes and American Enterprise Institute, the author’s research sponsor are conservative sources)
 
 3. Although there are many clinics that provide abortion services, Planned Parenthood receives the most national attention. Planned Parenthood [reports](https://www.azcentral.com/story/news/politics/fact-check/2017/07/14/fact-check-planned-parenthood-abortion-services/448575001/?fbclid=IwAR3SjG1TFpckYuuhp-xP-KEI8pzIcEtdH9qWn913qqzIfSAPtsH6UIXaGfM) that abortion only accounts for 3% if its services, and 13.7% of its clients received an abortion. The 94% previously reported by a Republican senator was incorrect and misleading, and you can see [where](https://www.washingtonpost.com/news/fact-checker/wp/2015/08/12/for-planned-parenthood-abortion-stats-3-percent-and-94-percent-are-both-misleading/?fbclid=IwAR3keWCUBTetjr3uqIZ6rju92f0-_LSXUykTJ6hOqrWeimWCQ_Nin37AiDU&noredirect=on&utm_term=.f2e8952ed3d3) he got it from.
-
-\#writingfromthemiddle
-
-\#twoperspectives
