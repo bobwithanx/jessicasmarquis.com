@@ -4,6 +4,8 @@ type: post
 title: 'two perspectives: part 1'
 date: '2018-09-30T14:50:00-07:00'
 tags:
+  - '#writingfromthemiddle'
+  - '#twoperspectives'
   - Christianity
   - abuse
 ---
@@ -78,16 +80,10 @@ Yes, my evangelical friends, I still pray. 😉
 
 I still love Jesus, as well as you all.
 
-.
+
 
 \* - As for the Libertarian camp, my time spent there was only a layover. Thus, if any of my friends are Libertarian and People of Color and/or identify as LGBTQ - no straight white people, please - PM me so I can ask you some questions.
 
-.
 
-.
 
 Edit to add: A deep-hearted thank you to everyone who helped with this piece. Not all wished to be identified, but all were integral.
-
-\#writingfromthemiddle
-
-\#twoperspectives
