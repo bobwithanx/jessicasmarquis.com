@@ -1,33 +1,29 @@
 ---
 layout: blog
 type: post
-title: BOA letter markup
+title: analysis of BOA letter
 date: '2018-10-21T06:00:00-07:00'
 tags:
   - Abortion
   - Christianity
   - justice
 ---
-Below is a letter from an Evangelical Christian BOA (birth-only advocate) nonprofit. What troubles me is not their position - they are transparent about their work as BOAs - but how they communicate it. This letter is replete with misleading information, polarizing wording, and sensational visuals, including fonts and graphics intended to evoke strong emotional reactions.
+As a member of the BOA (birth-only advocate) community, I often relied on the word of authority. Any entity operating as "Pro-Life" deserved my respect and attention - especially if the word "Christian" was in their title or mission statement. I did not doubt what I heard from them. This was how I failed to notice false statements, and also why I thought WCAs (woman's choice advocates) were my enemy.
 
-What troubles me even more is there was a time I assumed this was how to present one's position.
+Below is a recent letter from one such evangelical Christian BOA nonprofit. I am sharing this not to mock it but to provide a clear example of why the BOA community has lost its status of integrity and how it has failed to generate sustainable long-term solutions for unintended pregnancies. This letter is replete with misleading information, polarizing wording, and sensational visuals, including fonts and graphics intended to evoke strong emotional reactions. It speaks of problems and villains, but not realistic, pragmatic answers.
 
-Since I once believed that, I have to conclude others have as well - and some still do. That is why I am marking up the letter below with factual information. My goal is twofold:
+I am marking up this letter with factual information and highlighting fear-based/fear-inducing language. My goal is twofold:
 
 1. Provide objective data so readers can form their own opinions, and
 2. Illuminate manipulative tactics employed by "Christian" organizations.
 
-Realistically, I get why an objective and balanced presentation is not used in partisan communications: It doesn't inflame passion that charges us up for action. It would be a lousy pep talk before a big game. Nonetheless, it would be closer to true Christianity, to the Fruits of the Spirit: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control.
+Work done by deception and hate is incompatible with the heart of Jesus, out of which flows love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. No matter the cause, ends do not justify the means because the means - the process - are part of the entire package to God.
 
-> _"...for it is out of the abundance of the heart that the mouth speaks." Luke 6:45_
+> "...for it is out of the abundance of the heart that the mouth speaks." Luke 6:45
 
-Work done by deception and hate is incompatible with the heart of Jesus. No matter the cause, ends do not justify the means because the means - the process - is part of the entire package to God.
+My intent is unbiased accuracy, although I offer the disclaimer that I am human with my own biases. Thus, throughout this post, I will do my best to only use sources from the "Mainstreem (minimal partisan bias)" section in the following chart.
 
-In the photos and commentary below, I'm identifying this particular organization's non-Jesus-like practices. Please keep in mind: it is not the only one doing this.
-
-My intent is unbiased accuracy. Thus, throughout this post, I will do my best to use sources from the "Mainstreem (minimal partisanbias)" section in the following chart.
-
-![Media Bias Chart](/images/uploads/media-bias-chart_3.1.jpg)
+![Media Bias Chart](/images/uploads/media-bias-chart_version-3.1_watermark-min-2.jpg)
 
 This is extremely important, as I'll get into later. I'll also identify [logical fallacies](https://yourlogicalfallacyis.com), which hinder and sidetrack legitimate arguments. So here we go!
 
@@ -51,7 +47,7 @@ Fetal tissue has been used for [80 years of research](https://www.usatoday.com/s
 
 ![null](/images/uploads/img_3099.png)
 
-**BLUE:** Although the author states he "can assure you" of it, the allegation that "the Left" - AKA, WCAs (woman's choice advocates) - is holed up in a dark place conjuring up "new ways to keep killing unborn babies" cannot be proven. This places the [burden of proof](https://yourlogicalfallacyis.com/burden-of-proof) on the ones against whom the claim is made, when it should actually be on the one making the claim. Also, this divisive language pits BOAs and WCAs as enemies, the latter devious and scheming to commit murder.
+**BLUE:** Although the author states he "can assure you" of it, the allegation that "the Left" - AKA, WCAs (woman's choice advocates) - is holed up in a dark place conjuring up "new ways to keep killing unborn babies" cannot be proven. This places the [burden of proof](https://yourlogicalfallacyis.com/burden-of-proof) on the ones against whom the claim is made, when it should actually be on the one making the claim. Also, this divisive language pits BOAs and WCAs as enemies, the latter devious and scheming to commit murder. This is a [black-or-white](https://yourlogicalfallacyis.com/black-or-white) fallacy, creating only two options when there is actually a broad spectrum between. 
 
 The second blue circle continues this idea that "abortionists" are harboring "deepest, darkest secrets" in the aforementioned shadows. "Big Abortion," an inflammatory term that connotates an industry built to kill babies, links those who support women's choice with that type of business. The [ambiguity](https://yourlogicalfallacyis.com/ambiguity) regarding the types of secrets allows the reader's mind to fill in the blanks. Again, none of this has evidence to back up the claims. As such, it exists to anger, scare, and take action against a faceless nemesis.
 
