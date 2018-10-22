@@ -1,7 +1,7 @@
 ---
 layout: blog
 type: post
-title: the newly untethered voter
+title: 'two perspectives: part 2 1/2'
 date: '2018-10-22T16:15:16-07:00'
 tags:
   - abortion
