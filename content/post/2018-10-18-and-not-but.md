@@ -7,6 +7,8 @@ tags:
   - illness
   - parenting
   - depression
+  - \#writingfromthemiddle
+
 ---
 He’s been discharged from the hospital. We’re still waiting for results, b̶u̶t̶ and I want y’all to know we’re home. Not “but”; but cancels out the significance of what came before it. “And” includes both as significant. It’s not either/or, but both/and. We are waiting \*and\* joyful. We are concerned _and_ celebrating. Living in the tension of equally valid experiences.
 
@@ -17,5 +19,3 @@ And thus, we laugh with guilt, and we sit somberly while suppressing the urge to
 My family is dancing today. We’re sashaying into school with grins on our faces. I’m taking myself out for lunch and giggling with the server. When I think of our follow-up appointment with the doctor, I feel the weight of possible life change, \*and\* it can integrate into this moment of being alive.
 
 Thank you for your prayers, encouragement, & positive thoughts. Love you, my friends.
-
-\#writingfromthemiddle
