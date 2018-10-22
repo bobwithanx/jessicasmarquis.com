@@ -5,6 +5,8 @@ title: 'two perspectives: part 1 1/2'
 date: '2018-10-06T16:52:00-07:00'
 tags:
   - Christianity
+  - '#writingfromthemiddle'
+  - '#twoperspectives'
 ---
 ![null](/images/uploads/3d-glasses-1413345-638x393.jpg)
 
@@ -35,7 +37,3 @@ The hardest topics for a CWE Christian to reconsider position on are often those
 And that, my friends, is where I bid you goodnight.
 
 To be continued…
-
-\#writingfromthemiddle
-
-\#twoperspectives
