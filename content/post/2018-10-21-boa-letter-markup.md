@@ -7,7 +7,6 @@ tags:
   - Abortion
   - Christianity
   - justice
-
 ---
 Below is a letter from an Evangelical Christian BOA (birth-only advocate) nonprofit. What troubles me is not their position - they are transparent about their work as BOAs - but how they communicate it. This letter is replete with misleading information, polarizing wording, and sensational visuals, including fonts and graphics intended to evoke strong emotional reactions.
 
@@ -37,15 +36,15 @@ This is extremely important, as I'll get into later. I'll also identify [logical
 
 The letter comes with a brightly colored envelope featuring text about the letter's subject, along with pictures of a baby and a white mouse. Page 1 starts out strongly with the word "ghastly". Throughout this letter, I have circled such words and phrases in **YELLOW**, terms that [appeal to emotions](https://yourlogicalfallacyis.com/appeal-to-emotion) like anger and fear. These are some of the [emotions advertisers seek](https://contently.com/2016/02/18/6-emotions-that-will-make-or-break-your-content-strategy/) to tap into to sell a product or concept. Nonprofits sell concepts, too, even if they are noble. They need an angle to gain participation.
 
-I have used **RED **for factual inaccuracies or misleading wording. **BLUE **is for allegations made without any proof. **GREEN **is for references to faith and God, which serves to align [Christianity with the organization's](https://yourlogicalfallacyis.com/no-true-scotsman) values.
+I have used **RED** for factual inaccuracies or misleading wording. **BLUE** is for allegations made without any proof. **GREEN** is for references to faith and God, which serves to align [Christianity with the organization's](https://yourlogicalfallacyis.com/no-true-scotsman) values.
 
-**1. **This is a common allegation against Planned Parenthood (PP), epitomized in 2015 by an undercover sting operation videotaped by a BOA organization called The Center for Medical Progress (CMP). The edited video was released, appearing to feature a PP representative negotiating the sale of fetal tissue. However, once CMP also released the unedited video, that footage showed this was the opposite of what took place in the conversation. This resulted in a [strawman](https://yourlogicalfallacyis.com/strawman) argument. You can read about the [entire controversy](https://www.factcheck.org/2015/07/unspinning-the-planned-parenthood-video/).
+**1.** This is a common allegation against Planned Parenthood (PP), epitomized in 2015 by an undercover sting operation videotaped by a BOA organization called The Center for Medical Progress (CMP). The edited video was released, appearing to feature a PP representative negotiating the sale of fetal tissue. However, once CMP also released the unedited video, that footage showed this was the opposite of what took place in the conversation. This resulted in a [strawman](https://yourlogicalfallacyis.com/strawman) argument. You can read about the [entire controversy](https://www.factcheck.org/2015/07/unspinning-the-planned-parenthood-video/).
 
 The link I've provided above is to FactCheck.org, a [non-biased, non-partisan](https://mediabiasfactcheck.com/factcheck/) news source. The reason I point this out is that many BOA news sites (in the chart above, the Hyper-Partisan Conservative column and those to its right) have not included the full story. This, then, perpetuates the narrative that PP is seeking profit and wealth from the sales of the fetal body parts. The fact is Planned Parenthood [underwent investigations](https://www.npr.org/2016/01/28/464594826/in-wake-of-videos-planned-parenthood-investigations-find-no-fetal-tissue-sales) in several states, none of which turned up evidence of such sales for profit.
 
 While this information might lead to a discussion on the ethics of stem cell research, this isn't the time. So we'll move on.
 
-**2. **This is correct, although it is not as scandalous as it appears. The term "humanized mice" sounds particularly bizarre. Here's the truth: These human immune systems are created in mice to test treatments' effectiveness without having to do it on humans. [Humanized mice ](https://www.scientificamerican.com/article/the-truth-about-fetal-tissue-research/)have been invaluable in research on diseases and for vaccines.
+**2.** This is correct, although it is not as scandalous as it appears. The term "humanized mice" sounds particularly bizarre. Here's the truth: These human immune systems are created in mice to test treatments' effectiveness without having to do it on humans. [Humanized mice ](https://www.scientificamerican.com/article/the-truth-about-fetal-tissue-research/)have been invaluable in research on diseases and for vaccines.
 
 Fetal tissue has been used for [80 years of research](https://www.usatoday.com/story/news/nation-now/2015/07/29/fetal-tissue-research-planned-parenthood/30839625/), resulting in a vaccine for polio in 1954.* This info could segue into debates about animal testing or how vaccines are made, but those are not the discussions taking place. So we'll move on.
 
@@ -53,15 +52,15 @@ Fetal tissue has been used for [80 years of research](https://www.usatoday.com/s
 
 ![](/images/uploads/img_3099.png)
 
-**BLUE: **Although the author states he "can assure you" of it, the allegation that "the Left" - AKA, WCAs (woman's choice advocates) - is holed up in a dark place conjuring up "new ways to keep killing unborn babies" cannot be proven. This places the [burden of proof](https://yourlogicalfallacyis.com/burden-of-proof) on the ones against whom the claim is made, when it should actually be on the one making the claim. Also, this divisive language pits BOAs and WCAs as enemies, the latter devious and scheming to commit murder.
+**BLUE:** Although the author states he "can assure you" of it, the allegation that "the Left" - AKA, WCAs (woman's choice advocates) - is holed up in a dark place conjuring up "new ways to keep killing unborn babies" cannot be proven. This places the [burden of proof](https://yourlogicalfallacyis.com/burden-of-proof) on the ones against whom the claim is made, when it should actually be on the one making the claim. Also, this divisive language pits BOAs and WCAs as enemies, the latter devious and scheming to commit murder.
 
 The second blue circle continues this idea that "abortionists" are harboring "deepest, darkest secrets" in the aforementioned shadows. "Big Abortion," an inflammatory term that connotates an industry built to kill babies, links those who support women's choice with that type of business. The [ambiguity](https://yourlogicalfallacyis.com/ambiguity) regarding the types of secrets allows the reader's mind to fill in the blanks. Again, none of this has evidence to back up the claims. As such, it exists to anger, scare, and take action against a faceless nemesis.
 
-**3. **This entire red box points back to #1. The tapes to be released by the "whistleblowers" were misleading and led to DOJ investigations that disproved the claims. This was not without consequence: One additional committee spent [over $1.6 million](https://www.vox.com/2016/4/29/11469044/congress-planned-parenthood-witch-hunt-fetal-tissue-scientists) investigating.
+**3.** This entire red box points back to #1. The tapes to be released by the "whistleblowers" were misleading and led to DOJ investigations that disproved the claims. This was not without consequence: One additional committee spent [over $1.6 million](https://www.vox.com/2016/4/29/11469044/congress-planned-parenthood-witch-hunt-fetal-tissue-scientists) investigating.
 
 For more information on _National Abortion Federation v. Center for Medical Progress_, and that [CMP has not won](https://www.law360.com/articles/1089086) the case (and instead were indicted themselves), here is a [timeline of events](https://prochoice.org/tag/center-for-medical-progress/) up until 2017. You can also listen to the audio of the court [hearing](https://www.courtlistener.com/audio/58285/national-abortion-federation-v-center-for-medical-progress/) that took place on September 18, 2018.
 
-For more information on _Planned Parenthood v. CMP, _here are the [case documents](https://law.justia.com/cases/federal/appellate-courts/ca9/16-16997/16-16997-2018-05-16.html). You can also read a narrative [timeline](https://www.christianpost.com/news/undercover-videos-alleging-illegal-aborted-baby-body-parts-selling-cant-be-given-to-cops-supreme-court-agrees-222372/) of this case. The DOJ investigation, as mentioned earier, did not yield support for the claims.
+For more information on _Planned Parenthood v. CMP,_ here are the [case documents](https://law.justia.com/cases/federal/appellate-courts/ca9/16-16997/16-16997-2018-05-16.html). You can also read a narrative [timeline](https://www.christianpost.com/news/undercover-videos-alleging-illegal-aborted-baby-body-parts-selling-cant-be-given-to-cops-supreme-court-agrees-222372/) of this case. The DOJ investigation, as mentioned earier, did not yield support for the claims.
 
 I want to take a moment right now to tell you how difficult it was to find the links above. A lot of the "news" sites that came up were biased toward BOA or WCA - primarily BOA. The headlines and website "About" pages skewed Right or Left, but had this been while I was a BOA I would not have seen it. This is what makes finding the objective truth so difficult. Both sides are passionate. Both sides add color commentary to the news, even if it is simply with terminology (e.g., choosing to use "baby" over "fetus", "pro-life" over "anti-abortion", etc.). Please keep this in mind while doing your own research. You may be only getting a fraction of the story, depending on where the story comes from.
 
@@ -79,11 +78,11 @@ Perhaps creates an opportunity to discuss providing federal funding for health s
 
 ![](/images/uploads/img_3102.png)
 
-**YELLOW: **"windfall," "every inch of ground we've won will be swallowed back up by the abortion lobby."
+**YELLOW:** "windfall," "every inch of ground we've won will be swallowed back up by the abortion lobby."
 
-**GREEN: **Invoking God's name in this call to action.
+**GREEN:** Invoking God's name in this call to action.
 
-**5: **This description of amount only helps the reader to conceptualize its size. It does nothing to explain what the money is used for. Also, notice that the items purchased - buying Teslas, paying for Harvard - are status symbols. They could have used Ford Tauruses and state college, for example, which would allow them to increase the numbers above 8 and 3, respectively. However, those aren't as flashy. They don't catch the eye or the imagination. It's advertising, albeit subtle.
+**5:** This description of amount only helps the reader to conceptualize its size. It does nothing to explain what the money is used for. Also, notice that the items purchased - buying Teslas, paying for Harvard - are status symbols. They could have used Ford Tauruses and state college, for example, which would allow them to increase the numbers above 8 and 3, respectively. However, those aren't as flashy. They don't catch the eye or the imagination. It's advertising, albeit subtle.
 
 That ends my analysis of this letter. Having read and reread this communication, I keep coming back to this:
 
