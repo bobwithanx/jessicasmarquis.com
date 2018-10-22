@@ -7,15 +7,14 @@
   <h3 class="page-title">{{ .Title }}</h3>
   <h5>{{ $.Scratch.Get "subtitle" }}</h5>
 
+  <br>
+  <div class="content text-justify">{{ .Content }}</div>
+
   {{ range .Params.tags }}
   <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">
     <kbd class="item-tag">{{ . }}</kbd>
   </a>
   {{ end }}
-
-  </div>
-  <br>
-  <div class="content text-justify">{{ .Content }}</div>
 
   <!-- related posts with the same tags -->
   {{ $related := first 3 (where (where (where .Site.Pages.ByDate.Reverse ".Type" "==" "post") ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }} {{ if $related }}
