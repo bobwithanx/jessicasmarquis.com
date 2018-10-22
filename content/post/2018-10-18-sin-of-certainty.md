@@ -3,15 +3,16 @@ layout: blog
 type: post
 title: sin of certainty
 date: '2018-08-26T09:44:00-07:00'
-tags: faith
+tags:
+  - faith
 ---
 How many times have I confessed the “sin” of doubt? How many times have I promised God, “I’ll trust you!” then reneged on it? I used to beat myself up for it, naming “doubt” as my weakness. My faith tradition supported this call to repentance. “More faith!” was the second most common Sunday school answer (after “Jesus”).
 
-And then I realized doubt was actually one of my superpowers. 
+And then I realized doubt was actually one of my superpowers.
 
-Call me Doubtera. 
+Call me Doubtera.
 
-Or something cooler - I’m not wasting mental energy on it. 
+Or something cooler - I’m not wasting mental energy on it.
 
 Yet.
 

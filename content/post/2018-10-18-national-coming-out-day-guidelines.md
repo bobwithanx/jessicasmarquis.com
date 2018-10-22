@@ -3,9 +3,10 @@ layout: blog
 type: post
 title: national coming out day guidelines
 date: '2018-10-10T17:13:00-07:00'
-tags: LGBTQ
+tags:
+  - LGBTQ
 ---
-To: Allies 
+To: Allies
 
 Re: #NationalComingOutDay guidelines 🏳️‍🌈
 

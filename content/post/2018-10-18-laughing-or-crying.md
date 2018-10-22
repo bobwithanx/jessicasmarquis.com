@@ -3,7 +3,10 @@ layout: blog
 type: post
 title: laughing or crying?
 date: '2018-07-25T09:22:00-07:00'
-tags: 'depression, anxiety, parenting'
+tags:
+  - depression
+  - anxiety
+  - parenting
 ---
 I've lived with depression and anxiety as far back as I can remember. I'm also a stay-at-home parent, trying to succeed in the most demanding job I’ve ever held while various issues pop up and I wrestle them. It’s like a really lousy video game.
 

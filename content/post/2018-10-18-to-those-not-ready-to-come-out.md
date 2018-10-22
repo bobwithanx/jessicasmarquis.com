@@ -3,7 +3,8 @@ layout: blog
 type: post
 title: to those not ready to come out
 date: '2018-09-23T14:45:00-07:00'
-tags: LGBTQ
+tags:
+  - LGBTQ
 ---
 Okay friends, I've done a disservice to a group of people I respect, and I want to make that right tonight. I'll get right to it. I've been posting in support of the LGBTQ community, recognizing the courage & sacrifice required to come out.
 

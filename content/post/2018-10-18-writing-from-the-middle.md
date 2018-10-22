@@ -3,7 +3,11 @@ layout: blog
 type: post
 title: writing from the middle
 date: '2018-08-03T09:27:00-07:00'
-tags: 'lament, parenting, illness'
+tags:
+  - lament
+  - parenting
+  - illness
+
 ---
 I’m about to do something that is contrary to my nature, which is why I need to do it. While I’m getting better at not hiding my weaknesses - and there are many - I’m still an underachiever when it comes to giving details in the midst of the yuck. So here goes.
 

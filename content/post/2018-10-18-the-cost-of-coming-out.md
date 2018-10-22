@@ -3,7 +3,8 @@ layout: blog
 type: post
 title: the cost of coming out
 date: '2018-09-20T14:30:00-07:00'
-tags: LGBTQ
+tags:
+  - LGBTQ
 ---
 ![null](/images/uploads/candy-color-difference-54633.jpg)
 
@@ -13,7 +14,7 @@ For these individuals, coming out comes with a cost. Still they prepare themselv
 
 If enduring the pain described above is preferable, we can only imagine the agony in which they have been existing.
 
-In Amber Cantorna's memoir [_Refocusing My Family_](https://www.amazon.com/Refocusing-My-Family-Coming-Discovering/dp/1506418791), she describes what it was like to finally come out as a lesbian to her parents. Here, her mother is distraught and angry about the announcement: 
+In Amber Cantorna's memoir [_Refocusing My Family_](https://www.amazon.com/Refocusing-My-Family-Coming-Discovering/dp/1506418791), she describes what it was like to finally come out as a lesbian to her parents. Here, her mother is distraught and angry about the announcement:
 
 "'It's extremely selfish of you to do something that makes you happy without thinking about how this would affect the family.' I couldn't believe she was serious. How this would affect the family is _all_ I'd thought about for months leading up to this conversation."
 

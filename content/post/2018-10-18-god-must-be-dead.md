@@ -3,7 +3,9 @@ layout: blog
 type: post
 title: God must be dead
 date: '2018-08-10T09:00:00-07:00'
-tags: 'faith, parenting'
+tags:
+  - faith
+  - parenting
 ---
 “I think God is dead.”
 

@@ -3,11 +3,15 @@ layout: blog
 type: post
 title: BOA letter markup
 date: '2018-10-21T06:00:00-07:00'
-tags: 'abortion, Christianity, justice'
----
-Below is a letter from an Evangelical Christian BOA (birth-only advocate) nonprofit. What troubles me is not their position - they are transparent about their work as BOAs - but how they communicate it. This letter is replete with misleading information, polarizing wording, and sensational visuals, including fonts and graphics intended to evoke strong emotional reactions. 
+tags:
+  - Abortion
+  - Christianity
+  - justice
 
-What troubles me even more is there was a time I assumed this was how to present one's position. 
+---
+Below is a letter from an Evangelical Christian BOA (birth-only advocate) nonprofit. What troubles me is not their position - they are transparent about their work as BOAs - but how they communicate it. This letter is replete with misleading information, polarizing wording, and sensational visuals, including fonts and graphics intended to evoke strong emotional reactions.
+
+What troubles me even more is there was a time I assumed this was how to present one's position.
 
 Since I once believed that, I have to conclude others have as well - and some still do. That is why I am marking up the letter below with factual information. My goal is twofold:
 
@@ -19,9 +23,9 @@ Realistically, I get why an objective and balanced presentation is not used in p
 
 > _"...for it is out of the abundance of the heart that the mouth speaks." Luke 6:45_
 
-Work done by deception and hate is incompatible with the heart of Jesus. No matter the cause, ends do not justify the means because the means - the process - is part of the entire package to God. 
+Work done by deception and hate is incompatible with the heart of Jesus. No matter the cause, ends do not justify the means because the means - the process - is part of the entire package to God.
 
-In the photos and commentary below, I'm identifying this particular organization's non-Jesus-like practices. Please keep in mind: it is not the only one doing this. 
+In the photos and commentary below, I'm identifying this particular organization's non-Jesus-like practices. Please keep in mind: it is not the only one doing this.
 
 My intent is unbiased accuracy. Thus, throughout this post, I will do my best to use sources from the "Mainstreem (minimal partisanbias)" section in the following chart.
 
@@ -35,13 +39,13 @@ The letter comes with a brightly colored envelope featuring text about the lette
 
 I have used **RED **for factual inaccuracies or misleading wording. **BLUE **is for allegations made without any proof. **GREEN **is for references to faith and God, which serves to align [Christianity with the organization's](https://yourlogicalfallacyis.com/no-true-scotsman) values.
 
-**1. **This is a common allegation against Planned Parenthood (PP), epitomized in 2015 by an undercover sting operation videotaped by a BOA organization called The Center for Medical Progress (CMP). The edited video was released, appearing to feature a PP representative negotiating the sale of fetal tissue. However, once CMP also released the unedited video, that footage showed this was the opposite of what took place in the conversation. This resulted in a [strawman](https://yourlogicalfallacyis.com/strawman) argument. You can read about the [entire controversy](https://www.factcheck.org/2015/07/unspinning-the-planned-parenthood-video/). 
+**1. **This is a common allegation against Planned Parenthood (PP), epitomized in 2015 by an undercover sting operation videotaped by a BOA organization called The Center for Medical Progress (CMP). The edited video was released, appearing to feature a PP representative negotiating the sale of fetal tissue. However, once CMP also released the unedited video, that footage showed this was the opposite of what took place in the conversation. This resulted in a [strawman](https://yourlogicalfallacyis.com/strawman) argument. You can read about the [entire controversy](https://www.factcheck.org/2015/07/unspinning-the-planned-parenthood-video/).
 
-The link I've provided above is to FactCheck.org, a [non-biased, non-partisan](https://mediabiasfactcheck.com/factcheck/) news source. The reason I point this out is that many BOA news sites (in the chart above, the Hyper-Partisan Conservative column and those to its right) have not included the full story. This, then, perpetuates the narrative that PP is seeking profit and wealth from the sales of the fetal body parts. The fact is Planned Parenthood [underwent investigations](https://www.npr.org/2016/01/28/464594826/in-wake-of-videos-planned-parenthood-investigations-find-no-fetal-tissue-sales) in several states, none of which turned up evidence of such sales for profit. 
+The link I've provided above is to FactCheck.org, a [non-biased, non-partisan](https://mediabiasfactcheck.com/factcheck/) news source. The reason I point this out is that many BOA news sites (in the chart above, the Hyper-Partisan Conservative column and those to its right) have not included the full story. This, then, perpetuates the narrative that PP is seeking profit and wealth from the sales of the fetal body parts. The fact is Planned Parenthood [underwent investigations](https://www.npr.org/2016/01/28/464594826/in-wake-of-videos-planned-parenthood-investigations-find-no-fetal-tissue-sales) in several states, none of which turned up evidence of such sales for profit.
 
 While this information might lead to a discussion on the ethics of stem cell research, this isn't the time. So we'll move on.
 
-**2. **This is correct, although it is not as scandalous as it appears. The term "humanized mice" sounds particularly bizarre. Here's the truth: These human immune systems are created in mice to test treatments' effectiveness without having to do it on humans. [Humanized mice ](https://www.scientificamerican.com/article/the-truth-about-fetal-tissue-research/)have been invaluable in research on diseases and for vaccines. 
+**2. **This is correct, although it is not as scandalous as it appears. The term "humanized mice" sounds particularly bizarre. Here's the truth: These human immune systems are created in mice to test treatments' effectiveness without having to do it on humans. [Humanized mice ](https://www.scientificamerican.com/article/the-truth-about-fetal-tissue-research/)have been invaluable in research on diseases and for vaccines.
 
 Fetal tissue has been used for [80 years of research](https://www.usatoday.com/story/news/nation-now/2015/07/29/fetal-tissue-research-planned-parenthood/30839625/), resulting in a vaccine for polio in 1954.* This info could segue into debates about animal testing or how vaccines are made, but those are not the discussions taking place. So we'll move on.
 
@@ -49,13 +53,13 @@ Fetal tissue has been used for [80 years of research](https://www.usatoday.com/s
 
 ![](/images/uploads/img_3099.png)
 
-**BLUE: **Although the author states he "can assure you" of it, the allegation that "the Left" - AKA, WCAs (woman's choice advocates) - is holed up in a dark place conjuring up "new ways to keep killing unborn babies" cannot be proven. This places the [burden of proof](https://yourlogicalfallacyis.com/burden-of-proof) on the ones against whom the claim is made, when it should actually be on the one making the claim. Also, this divisive language pits BOAs and WCAs as enemies, the latter devious and scheming to commit murder. 
+**BLUE: **Although the author states he "can assure you" of it, the allegation that "the Left" - AKA, WCAs (woman's choice advocates) - is holed up in a dark place conjuring up "new ways to keep killing unborn babies" cannot be proven. This places the [burden of proof](https://yourlogicalfallacyis.com/burden-of-proof) on the ones against whom the claim is made, when it should actually be on the one making the claim. Also, this divisive language pits BOAs and WCAs as enemies, the latter devious and scheming to commit murder.
 
 The second blue circle continues this idea that "abortionists" are harboring "deepest, darkest secrets" in the aforementioned shadows. "Big Abortion," an inflammatory term that connotates an industry built to kill babies, links those who support women's choice with that type of business. The [ambiguity](https://yourlogicalfallacyis.com/ambiguity) regarding the types of secrets allows the reader's mind to fill in the blanks. Again, none of this has evidence to back up the claims. As such, it exists to anger, scare, and take action against a faceless nemesis.
 
-**3. **This entire red box points back to #1. The tapes to be released by the "whistleblowers" were misleading and led to DOJ investigations that disproved the claims. This was not without consequence: One additional committee spent [over $1.6 million](https://www.vox.com/2016/4/29/11469044/congress-planned-parenthood-witch-hunt-fetal-tissue-scientists) investigating. 
+**3. **This entire red box points back to #1. The tapes to be released by the "whistleblowers" were misleading and led to DOJ investigations that disproved the claims. This was not without consequence: One additional committee spent [over $1.6 million](https://www.vox.com/2016/4/29/11469044/congress-planned-parenthood-witch-hunt-fetal-tissue-scientists) investigating.
 
-For more information on _National Abortion Federation v. Center for Medical Progress_, and that [CMP has not won](https://www.law360.com/articles/1089086) the case (and instead were indicted themselves), here is a [timeline of events](https://prochoice.org/tag/center-for-medical-progress/) up until 2017. You can also listen to the audio of the court [hearing](https://www.courtlistener.com/audio/58285/national-abortion-federation-v-center-for-medical-progress/) that took place on September 18, 2018. 
+For more information on _National Abortion Federation v. Center for Medical Progress_, and that [CMP has not won](https://www.law360.com/articles/1089086) the case (and instead were indicted themselves), here is a [timeline of events](https://prochoice.org/tag/center-for-medical-progress/) up until 2017. You can also listen to the audio of the court [hearing](https://www.courtlistener.com/audio/58285/national-abortion-federation-v-center-for-medical-progress/) that took place on September 18, 2018.
 
 For more information on _Planned Parenthood v. CMP, _here are the [case documents](https://law.justia.com/cases/federal/appellate-courts/ca9/16-16997/16-16997-2018-05-16.html). You can also read a narrative [timeline](https://www.christianpost.com/news/undercover-videos-alleging-illegal-aborted-baby-body-parts-selling-cant-be-given-to-cops-supreme-court-agrees-222372/) of this case. The DOJ investigation, as mentioned earier, did not yield support for the claims.
 
@@ -67,7 +71,7 @@ I want to take a moment right now to tell you how difficult it was to find the l
 
 The $543 million in taxpayer money is going to helping [the sick and the poor](https://www.biblegateway.com/passage/?search=Matthew+25%3A34-36&version=NRSV). In fact, through the contraception services provided by PP, it is estimated that [2 million unintended pregnancies](https://www.guttmacher.org/report/moving-forward-family-planning-era-health-reform) were prevented. That means that without those services, paid for through taxes, the rate of such pregnancies as well as unplanned births and abortions would be 66% higher. This is all skipping over the fact that abortion services through PP are [primarily paid for](https://www.vox.com/cards/abortion-policy-in-america/who-pays-for-abortions) by the patient, private insurance, or private funding, although [some states](https://www.kff.org/medicaid/state-indicator/abortion-under-medicaid/) provide funding.
 
-So can other organizations or community health centers provide the services that constitute 97% of what PP does? [In a word, no.](https://www.healthaffairs.org/do/10.1377/hblog20170127.058486/full/) Many don't provide all the services (beyond abortion) of PP, and there isn't a lot of funding to ramp them up to do so. Also, 13% of the US counties [with a PP](https://www.guttmacher.org/gpr/2017/05/federally-qualified-health-centers-vital-sources-care-no-substitute-family-planning?utm_source=Master+List&utm_campaign=e65360dd73-GPR18_RHIC_2017_05_15&utm_medium=email&utm_term=0_9ac83dc920-e65360dd73-260649117) don't have a community health center. 
+So can other organizations or community health centers provide the services that constitute 97% of what PP does? [In a word, no.](https://www.healthaffairs.org/do/10.1377/hblog20170127.058486/full/) Many don't provide all the services (beyond abortion) of PP, and there isn't a lot of funding to ramp them up to do so. Also, 13% of the US counties [with a PP](https://www.guttmacher.org/gpr/2017/05/federally-qualified-health-centers-vital-sources-care-no-substitute-family-planning?utm_source=Master+List&utm_campaign=e65360dd73-GPR18_RHIC_2017_05_15&utm_medium=email&utm_term=0_9ac83dc920-e65360dd73-260649117) don't have a community health center.
 
 Lastly, the Congressional Budget Office provided an estimate in 2015 that cutting off all federal funds to PP would actually _increase_ governmental spending [by $130 million](https://www.cbo.gov/sites/default/files/114th-congress-2015-2016/costestimate/ltrpermanentdefundplannedparenthood.pdf).
 
@@ -87,7 +91,7 @@ That ends my analysis of this letter. Having read and reread this communication,
 >
 > _Let no evil talk come out of your mouths, but only what is useful for building up, as there is need, so that your words may give grace to those who hear." Ephesians 4:29_
 
-I'm not sure what that letter would look like, but I'd like to see it some day. 
+I'm not sure what that letter would look like, but I'd like to see it some day.
 
 .
 

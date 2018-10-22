@@ -3,7 +3,9 @@ layout: blog
 type: post
 title: 'two perspectives: part 2'
 date: '2018-10-14T16:57:00-07:00'
-tags: 'abortion, Christianity'
+tags:
+  - abortion
+  - Christianity
 ---
 ![null](/images/uploads/dresser.png)
 
@@ -33,9 +35,9 @@ Then my friend told me she was pregnant by a violent partner who had a history o
 
 Of course, I had easy answers to all of those:
 
-Friend 1: Adopt out the baby. 
+Friend 1: Adopt out the baby.
 
-Friend 2: Stay pregnant and see how it goes because God works miracles. 
+Friend 2: Stay pregnant and see how it goes because God works miracles.
 
 Friend 3: Adopt out the baby or build a support system to help raise it.
 
@@ -71,7 +73,7 @@ See, a woman in a BOA community that emphasizes women’s purity and opposes pre
 
 My friend had the courage and support to face them. Other women do not, according to the data: In a [2015 survey](https://www.christianpost.com/news/70-of-women-who-get-abortions-identify-as-christians-survey-finds-150937/?fbclid=IwAR1_uxAC0tyaNH92m4le-s687c8prgaHClSVo1Tso90iQsPl0gk5YzLB_-E) by a Christian organization, 52% of Christian women who had abortions reported no one at their church knew. Independent of that survey, a [2014 study](https://www.guttmacher.org/sites/default/files/report_pdf/characteristics-us-abortion-patients-2014.pdf?fbclid=IwAR2pRh0wU3K9nSr8mLxpzPwuRw8LDhHvp4SjsqkJ6DkL2BZIEBbUlqLRqzU) of abortion patients found that 13% identified as evangelical, and 38% had “no religious affiliation” (the option I personally would select if I was an evangelical ashamed of getting an abortion).
 
-Know what that means? There are women sitting next to us at church who had abortions and may never have told anyone. That includes women leaders, (here are [one example](https://www.thedailybeast.com/im-a-minister-and-a-motherand-i-had-an-abortion?ref=scroll&fbclid=IwAR1IxtqxDO5e5Cq6bmCXhGM_HUp-fmCR0Kq9jUV1UCCmJ7EyDYoXjkNtpXE) and [another](https://www.usatoday.com/story/opinion/2016/10/26/abortion-late-term-donald-trump-column/92691850/?fbclid=IwAR2BFtBhcdHLJchqWvT6HjhU2Wnzbk4DFwMcPa_OWLTjgfP0Dv_fbeqXpsY)), as well as male leaders who pressured women in their lives (here are [one example](https://www.christianitytoday.com/ct/2003/november/11.28.html?fbclid=IwAR3mEhKWO7W9a4y0_Y5tezsIfV1-ZcwE_RNW6fZufFupZ7DApMM3Vu_V0-s) and [another](http://thebells.umhb.edu/2012/03/06/arterburns-struggle-with-abortion/?fbclid=IwAR3Ea76hkgYyxAmyTOGQWMtFetmdKhrwFilM88m6y0X-LMkeKi_BS0yGpBA)). 
+Know what that means? There are women sitting next to us at church who had abortions and may never have told anyone. That includes women leaders, (here are [one example](https://www.thedailybeast.com/im-a-minister-and-a-motherand-i-had-an-abortion?ref=scroll&fbclid=IwAR1IxtqxDO5e5Cq6bmCXhGM_HUp-fmCR0Kq9jUV1UCCmJ7EyDYoXjkNtpXE) and [another](https://www.usatoday.com/story/opinion/2016/10/26/abortion-late-term-donald-trump-column/92691850/?fbclid=IwAR2BFtBhcdHLJchqWvT6HjhU2Wnzbk4DFwMcPa_OWLTjgfP0Dv_fbeqXpsY)), as well as male leaders who pressured women in their lives (here are [one example](https://www.christianitytoday.com/ct/2003/november/11.28.html?fbclid=IwAR3mEhKWO7W9a4y0_Y5tezsIfV1-ZcwE_RNW6fZufFupZ7DApMM3Vu_V0-s) and [another](http://thebells.umhb.edu/2012/03/06/arterburns-struggle-with-abortion/?fbclid=IwAR3Ea76hkgYyxAmyTOGQWMtFetmdKhrwFilM88m6y0X-LMkeKi_BS0yGpBA)).
 
 The BOA culture in which I was raised created an environment in which failure (by their standards) was so frightening that we strived to pretend we hadn’t failed at all. As much as people talked about grace and “love the sinner hate the sin,” hating the sin leaked over to their treatment of the sinner. And so the unmarried hid their activities. According to most reported estimates, 80% of unmarried evangelicals have [had premarital sex](https://www.christianpost.com/news/are-most-single-christians-in-america-having-sex-56680/?fbclid=IwAR2-WDHgOI_lbEEvCsfyAP39snSAr6Ivv1T69kJGHPnnBZg0nUViTZRqJgs). Interestingly, the National Association of Evangelicals [has their own research](https://www.nae.net/most-unmarried-evangelical-millennials-have-never-had-sex/?fbclid=IwAR37HC2Hp6x489JInv9m6983f8OcmfYQNv5KFdODLpM9Mzm_1AZ0h92BNDY), reporting that only 46% have had premarital sex. Even if the latter number is correct, that is still close to half of the demographic.
 
@@ -103,7 +105,7 @@ I love you all.
 
 \* - “Woman” does not accurately encompass all genders that can become pregnant. However, since I could only think of “carrier” as the other option, and that connotes someone with a disease, we’ll have to allow this placeholder until a linguist greater than I provides the best word.
 
-\*\* - Don’t let the “tax dollar” verbiage trip you up; there are very tight restrictions on any federal money being used. Here is a bunch of reading if you’re skittish about this - or just a geek for research. 
+\*\* - Don’t let the “tax dollar” verbiage trip you up; there are very tight restrictions on any federal money being used. Here is a bunch of reading if you’re skittish about this - or just a geek for research.
 
 1. Federal tax dollars cannot be used to pay for abortions due to the [Hyde Amendment](https://en.wikipedia.org/wiki/Hyde_Amendment).
 2. The funding that goes to Planned Parenthood is not directly used for abortions.

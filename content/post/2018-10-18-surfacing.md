@@ -3,7 +3,9 @@ layout: blog
 type: post
 title: surfacing
 date: '2018-06-24T09:14:31-07:00'
-tags: 'Depression, Anxiety'
+tags:
+  - Depression
+  - Anxiety
 ---
 As I’ve shared about my tidal wave of depression crested with anxiety, many people have come forward with similar stories. I’ve been audience to tales of phone calls to counselors never returned, shame over being a human who breaks sometimes, and fears of taking medication that affects the brain. Even as a former therapist, I’m not an expert on these things, so I often respond with, “Yep, it sucks.” And a hug. You know, if the person’s cool with that.
 
@@ -15,13 +17,13 @@ I’ve been host to a depression/anxiety combo since at least age 11, the age of
 
 I’m now back on the same SSRI (Lexapro), as well as an additional antidepressant (Wellbutrin). We had upped the Lexapro dose, but that wasn’t enough on its own. This doesn’t necessarily mean that I’m more depressed or anxious than someone else, but rather that my body needs something more. There are a lot of factors here - metabolism, genetics, etc. Some people don’t do well on one or both of these meds, and some see changes soon afterward. Again, I’m only sharing my own anecdotal experience. And I’m doing this because I didn’t have a lot of info about what it feels like to be on psychotropics, other than accounts of people on heavier meds in situations to which I could not relate.
 
-Lexapro takes 6-8 weeks to take full effect, so it’s a gradual change. I didn’t wake up one day and bound out of bed. It was more like this: 
+Lexapro takes 6-8 weeks to take full effect, so it’s a gradual change. I didn’t wake up one day and bound out of bed. It was more like this:
 
-\-During the first week, I wasn’t crying every day. 
+\-During the first week, I wasn’t crying every day.
 
-\-By the second week, I didn’t feel like I was falling without a bottom. 
+\-By the second week, I didn’t feel like I was falling without a bottom.
 
-\-By the third week, I felt some energy and hope. Not happiness, but no longer hopelessness. I still kept myself off social media and away from situations that required extraversion, and that helped in my improvement. 
+\-By the third week, I felt some energy and hope. Not happiness, but no longer hopelessness. I still kept myself off social media and away from situations that required extraversion, and that helped in my improvement.
 
 \-After 8 weeks, I wasn’t feeling arbitrary surges of panic, but rather small sparks that were quickly snuffed out. The anxiety and depression weren’t gone, but rather minimized to a stress I could manage and a trickle of blunted emotions. I knew I could do better - I’d felt better before - so my doctor and I chatted and she prescribed the additional med. I’m early on with it, so I can’t say much yet, but I’m not feeling as meh.
 

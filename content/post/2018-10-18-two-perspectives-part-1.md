@@ -3,7 +3,9 @@ layout: blog
 type: post
 title: 'two perspectives: part 1'
 date: '2018-09-30T14:50:00-07:00'
-tags: 'christianity, abuse'
+tags:
+  - Christianity
+  - abuse
 ---
 ![null](/images/uploads/pexels-photo-209981.png)
 
@@ -29,7 +31,7 @@ Men were placed in the role of decision-makers, leaders, credible sources, and h
 
 One contributor to this post described requesting marriage counseling from her pastoral team, with particular attention on her husband’s anger issues. They ignored the request, instead reprimanding her for usurping his authority. He was never talked to about her request.
 
-What I say next is controversial, so I’ll end the paragraph with links to reported instances, which contain their own links to supporting evidence. The subtle promotion of male over female described above has led to a lot of confusion when a church leader has sex with a congregant (consensual or not). If he is important enough, his ministry is effective enough, the woman often stays quiet. She doesn’t want to hurt his good work or reputation. She knows she will become a pariah to those who respect him. She will have to find a new community, and either witness the downfall of his ministry or the shredding of her reputation - or both. Essentially, she does not report because of a power differential and the belief that he is more important than she. 
+What I say next is controversial, so I’ll end the paragraph with links to reported instances, which contain their own links to supporting evidence. The subtle promotion of male over female described above has led to a lot of confusion when a church leader has sex with a congregant (consensual or not). If he is important enough, his ministry is effective enough, the woman often stays quiet. She doesn’t want to hurt his good work or reputation. She knows she will become a pariah to those who respect him. She will have to find a new community, and either witness the downfall of his ministry or the shredding of her reputation - or both. Essentially, she does not report because of a power differential and the belief that he is more important than she.
 
 1. [Ravi Zacharias](http://thewartburgwatch.com/2017/12/04/ravi-zacharias-why-i-dont-think-his-response-at-christianity-today-cleared-things-up/?fbclid=IwAR1xjfpUscNSnVME_JPTJRCxp4ehdHTaO5DG_e-W909yUg6tO1JhhE8z-t8)
 2. [Numerous male leaders](https://natesparks130.com/2016/05/19/5-reasons-not-to-support-new-calvinism/amp/?fbclid=IwAR2FIXgbTPiXLdH_N46J3of-k5o6pDbuyOkgdY_Y_lKj8XjLG1GPa34LwL8)
@@ -72,7 +74,7 @@ You know what? I’m going to save this for another post.
 
 In the meantime, I pray that this post may, in some small way, generate more compassion and less ugliness.
 
-Yes, my evangelical friends, I still pray. 😉 
+Yes, my evangelical friends, I still pray. 😉
 
 I still love Jesus, as well as you all.
 

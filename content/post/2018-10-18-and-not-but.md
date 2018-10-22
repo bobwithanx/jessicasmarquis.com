@@ -3,7 +3,10 @@ layout: blog
 type: post
 title: 'and, not but'
 date: '2018-08-07T09:30:00-07:00'
-tags: 'illness, parenting, depression'
+tags:
+  - illness
+  - parenting
+  - depression
 ---
 He’s been discharged from the hospital. We’re still waiting for results, b̶u̶t̶ and I want y’all to know we’re home. Not “but”; but cancels out the significance of what came before it. “And” includes both as significant. It’s not either/or, but both/and. We are waiting \*and\* joyful. We are concerned _and_ celebrating. Living in the tension of equally valid experiences.
 

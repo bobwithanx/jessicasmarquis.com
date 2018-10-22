@@ -3,7 +3,8 @@ layout: blog
 type: post
 title: 'two perspectives: part 1 1/2'
 date: '2018-10-06T16:52:00-07:00'
-tags: Christianity
+tags:
+  - Christianity
 ---
 ![null](/images/uploads/3d-glasses-1413345-638x393.jpg)
 
@@ -17,7 +18,7 @@ An outsider may assume that women in that community would take action to achieve
 
 One of the prime ways this happens is by what I refer to as the Back-of-Math-Textbook approach. Remember those fantastic textbooks that gave a sampling of answers at the end? It turbo-charged our homework process - until the smart teachers started making us show our work. We had the answer but had to figure out how we would get to it. That’s how many religious beliefs were disseminated to me:
 
-“Here’s what we believe. Now figure out why it’s right. Or just trust us that it is.” 
+“Here’s what we believe. Now figure out why it’s right. Or just trust us that it is.”
 
 I wasn’t one to simply believe everything I was told, so I put in the effort to show my work. I had to sacrifice logic, make leaps of faith, and sometimes excuse ethical transgressions to get to the answer, but, if I trusted that my authority figure spoke for God, then I believed God had given the stamp of approval to do all of that. This was how I justified a lot of stuff that embarrasses me now to admit.
 
@@ -31,7 +32,7 @@ Why am I taking the time to write this precursor post? Because it shows how ingr
 
 The hardest topics for a CWE Christian to reconsider position on are often those sitting as cornerstones to voting. In my time in that community, those topics were same-sex marriage and abortion, but especially abortion. If one candidate was Pro-Life and the other was not, the first always got our vote regardless of their position on other issues. This is why I resisted examining how I got to that answer - and if I in my God-given agency could agree with it.
 
-And that, my friends, is where I bid you goodnight. 
+And that, my friends, is where I bid you goodnight.
 
 To be continued…
 

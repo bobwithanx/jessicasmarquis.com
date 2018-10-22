@@ -3,7 +3,9 @@ layout: blog
 type: post
 title: grieving the end of sadness
 date: '2018-08-22T09:38:00-07:00'
-tags: 'depression, grief'
+tags:
+  - depression
+  - grief
 ---
 Have you ever had a thought, then shut it down because it seemed way too weird? I’m guessing you have, and that some of those thoughts are ones we’ve actually shared. So today I’m going to talk about grieving the loss of depression and anxiety.
 
@@ -27,7 +29,7 @@ Again, I reference the Kids in the Hall movie_ Brain Candy_, where a sullen rock
 
 This all may seem like a tangent, but I wonder this because, if it’s hard for me as a stay-at-home mom and reporter on unicorns, it’s gotta be _so_ much harder for those whose identities are tied up with suffering.
 
-I’m not applying a blanket contemplation. There are some who are unable to dismiss the dark cloud, others whose suffering is so severe they will never escape its reverberations, and others for whom contextual or health factors make this entire discussion a moot point. To them, I say this: 
+I’m not applying a blanket contemplation. There are some who are unable to dismiss the dark cloud, others whose suffering is so severe they will never escape its reverberations, and others for whom contextual or health factors make this entire discussion a moot point. To them, I say this:
 
 I admire your perseverance. You are doing your very best with what you have and where you are, and I can see it. Thank you for being you.
 
