@@ -15,7 +15,6 @@ What troubles me even more is there was a time I assumed this was how to present
 Since I once believed that, I have to conclude others have as well - and some still do. That is why I am marking up the letter below with factual information. My goal is twofold:
 
 1. Provide objective data so readers can form their own opinions, and
-
 2. Illuminate manipulative tactics employed by "Christian" organizations.
 
 Realistically, I get why an objective and balanced presentation is not used in partisan communications: It doesn't inflame passion that charges us up for action. It would be a lousy pep talk before a big game. Nonetheless, it would be closer to true Christianity, to the Fruits of the Spirit: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control.
@@ -28,11 +27,11 @@ In the photos and commentary below, I'm identifying this particular organization
 
 My intent is unbiased accuracy. Thus, throughout this post, I will do my best to use sources from the "Mainstreem (minimal partisanbias)" section in the following chart.
 
-![](/images/uploads/media-bias-chart_3.0_hi-res.jpg)
+![Media Bias Chart](/images/uploads/media-bias-chart_3.1.jpg)
 
 This is extremely important, as I'll get into later. I'll also identify [logical fallacies](https://yourlogicalfallacyis.com), which hinder and sidetrack legitimate arguments. So here we go!
 
-![](/images/uploads/img_3098.png)
+![null](/images/uploads/img_3098.png)
 
 The letter comes with a brightly colored envelope featuring text about the letter's subject, along with pictures of a baby and a white mouse. Page 1 starts out strongly with the word "ghastly". Throughout this letter, I have circled such words and phrases in **YELLOW**, terms that [appeal to emotions](https://yourlogicalfallacyis.com/appeal-to-emotion) like anger and fear. These are some of the [emotions advertisers seek](https://contently.com/2016/02/18/6-emotions-that-will-make-or-break-your-content-strategy/) to tap into to sell a product or concept. Nonprofits sell concepts, too, even if they are noble. They need an angle to gain participation.
 
@@ -50,7 +49,7 @@ Fetal tissue has been used for [80 years of research](https://www.usatoday.com/s
 
 **YELLOW:** "worst, science-fiction nightmare," "horror show," "radical Left," "anti-life agenda," "anti-life Left will STOP AT NOTHING."
 
-![](/images/uploads/img_3099.png)
+![null](/images/uploads/img_3099.png)
 
 **BLUE:** Although the author states he "can assure you" of it, the allegation that "the Left" - AKA, WCAs (woman's choice advocates) - is holed up in a dark place conjuring up "new ways to keep killing unborn babies" cannot be proven. This places the [burden of proof](https://yourlogicalfallacyis.com/burden-of-proof) on the ones against whom the claim is made, when it should actually be on the one making the claim. Also, this divisive language pits BOAs and WCAs as enemies, the latter devious and scheming to commit murder.
 
@@ -64,7 +63,7 @@ For more information on _Planned Parenthood v. CMP,_ here are the [case document
 
 I want to take a moment right now to tell you how difficult it was to find the links above. A lot of the "news" sites that came up were biased toward BOA or WCA - primarily BOA. The headlines and website "About" pages skewed Right or Left, but had this been while I was a BOA I would not have seen it. This is what makes finding the objective truth so difficult. Both sides are passionate. Both sides add color commentary to the news, even if it is simply with terminology (e.g., choosing to use "baby" over "fetus", "pro-life" over "anti-abortion", etc.). Please keep this in mind while doing your own research. You may be only getting a fraction of the story, depending on where the story comes from.
 
-![](/images/uploads/img_3100.png)
+![null](/images/uploads/img_3100.png)
 
 **4.** Here's the budget question, which is key to the argument against PP. Keep in mind that they [Hyde Amendment ](https://www.kff.org/womens-health-policy/perspective/the-hyde-amendment-and-coverage-for-abortion-services/)prevents federal tax money from paying for abortions, outside of medical necessity such as instances of rape and incest. PP reports that only [3% of its services ](https://www.washingtonpost.com/news/fact-checker/wp/2015/08/12/for-planned-parenthood-abortion-stats-3-percent-and-94-percent-are-both-misleading/?fbclid=IwAR3keWCUBTetjr3uqIZ6rju92f0-_LSXUykTJ6hOqrWeimWCQ_Nin37AiDU&noredirect=on&utm_term=.6f9721b0146e)are for abortion. Other services include such women's needs as cancer screening, low-cost women's care, men's health services, STD testing, and birth control. As someone who has known a lot of broke gals (and been one myself), when you don't have insurance you still need medical care. PP has provided that to low-income individuals and communities. The [2015 report](https://www.gao.gov/assets/670/669194.pdf) from the U.S. Government Accountability Office reported that 79% of the patients of PP had an income of 150% or below the national poverty level. This report also allows readers to view how many services in 2012 were performed for each service type (p. 25), and provides details on governmental funding information throughout.
 
@@ -76,7 +75,7 @@ Lastly, the Congressional Budget Office provided an estimate in 2015 that cuttin
 
 Perhaps creates an opportunity to discuss providing federal funding for health services to low-income populations and access to health services for those in rural settings. Since that is not the focus of this analysis, we'll go ahead and wrap up with the final page of the letter.
 
-![](/images/uploads/img_3102.png)
+![null](/images/uploads/img_3102.png)
 
 **YELLOW:** "windfall," "every inch of ground we've won will be swallowed back up by the abortion lobby."
 
