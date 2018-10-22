@@ -10,8 +10,7 @@
   <br>
   <div class="content text-justify">{{ .Content }}</div>
 
-  Tags:
-  {{ range sort .Params.tags }}
+  Tags: {{ range .Params.tags }}
   <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">
     <kbd class="item-tag">{{ . }}</kbd>
   </a>
