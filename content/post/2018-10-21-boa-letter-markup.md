@@ -41,7 +41,7 @@ While this information might lead to a discussion on the ethics of stem cell res
 
 **2.** This is correct, although it is not as scandalous as it appears. The term "humanized mice" sounds particularly bizarre. Here's the truth: These human immune systems are created in mice to test treatments' effectiveness without having to do it on humans. [Humanized mice ](https://www.scientificamerican.com/article/the-truth-about-fetal-tissue-research/)have been invaluable in research on diseases and for vaccines.
 
-Fetal tissue has been used for [80 years of research](https://www.usatoday.com/story/news/nation-now/2015/07/29/fetal-tissue-research-planned-parenthood/30839625/), resulting in a vaccine for polio in 1954.* This info could segue into debates about animal testing or how vaccines are made, but those are not the discussions taking place. So we'll move on.
+Fetal tissue has been used for [80 years of research](https://www.usatoday.com/story/news/nation-now/2015/07/29/fetal-tissue-research-planned-parenthood/30839625/), resulting in a vaccine for polio in 1954.* This info could segue into debates about animal testing or how vaccines are made, but those are not the discussions taking place here. So we'll move on.
 
 **YELLOW:** "worst, science-fiction nightmare," "horror show," "radical Left," "anti-life agenda," "anti-life Left will STOP AT NOTHING."
 
