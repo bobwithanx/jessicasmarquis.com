@@ -5,6 +5,7 @@ title: derealization
 date: '2018-09-04T09:45:00-07:00'
 tags:
   - integration
+  - '#writingfromthemiddle'
 ---
 I recently discovered a word for which I’d been searching 30 years. I owned a thesaurus, a dictionary, and an encyclopedia from the 1960s (the last of which proved dreadfully unhelpful - nay, detrimental). Through this trio, I learned a lot about adverbs, adjectives, and old-timey gadgets, but not about the word I needed.
 
@@ -25,5 +26,3 @@ If you aren’t sure how to do these kinds of searches for resources, email me. 
 Listen: You aren’t stupid or crazy. You may have used those words to describe yourself in the past to dismiss your unique quirks, mysterious dysfunctions, and incomprehensible giftedness. It’s a game so many of us - particularly women - play to pass as “normal”. Screw that. Normal is a construct no flawed human can attain. Dig deep and know yourself.
 
 You are too important to be anonymous.
-
-\#writingfromthemiddle
