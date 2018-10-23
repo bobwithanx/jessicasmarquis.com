@@ -1,7 +1,7 @@
 ---
 layout: blog
 type: post
-title: analysis of BOA letter
+title: 'two perspectives: analysis of BOA letter'
 date: '2018-10-21T06:00:00-07:00'
 tags:
   - Abortion
