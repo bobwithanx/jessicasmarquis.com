@@ -11,7 +11,7 @@ tags:
 ---
 Next edition of \#TwoPerspectives: The transgender conversation. I’d hoped to wait on this one because it is complex, so I’d prefer to build up to it; however, with recent events involving the potential loss of rights for this demographic it’s been bumped up in the queue.
 
-Before I start, thank you to all who have reached out regarding how this series has impacted you. I know these are tough topics to talk about, and they rarely are without vilifying the other perspective, so I’m glad to hear you are gaining insight on each side of the issues at hand. If you want to read more of them, I've labeled them by their titles in [this blog](jessicasmarquis.com/blog). 
+Before I start, thank you to all who have reached out regarding how this series has impacted you. I know these are tough topics to talk about, and they rarely are without vilifying the other perspective, so I’m glad to hear you are gaining insight on each side of the issues at hand. If you want to read more of them, I've labeled them by their titles in [this blog](https://www.jessicasmarquis.com/tags/twoperspectives/). 
 
 I’ve been struggling how to start this post. I thought about sharing my first encounter with a trans individual, when I encountered the fascinating work of the late artist Greer Lankton. I thought of giving a metaphor or relating a general experience we’ve all had. The trouble is that all of these are incomplete introductions to trans identity and experience. And that’s part of the many reasons it’s so misunderstood.
 
