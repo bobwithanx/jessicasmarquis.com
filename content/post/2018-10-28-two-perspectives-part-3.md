@@ -3,6 +3,11 @@ layout: blog
 type: post
 title: 'two perspectives: part 3'
 date: '2018-10-28T20:22:10-07:00'
+tags:
+  - two perspectives
+  - trans
+  - LGBTQ
+  - christianity
 ---
 Next edition of #TwoPerspectives: The transgender conversation. I’d hoped to wait on this one because it is complex, so I’d prefer to build up to it; however, with recent events involving the potential loss of rights for this demographic it’s been bumped up in the queue.
 
