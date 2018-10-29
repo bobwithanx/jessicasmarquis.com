@@ -7,11 +7,11 @@ tags:
   - abortion
   - Christianity
   - 'writingfromthemiddle'
-  - 'twoperspectives'
+  - 'two perspectives'
 ---
 ![null](/images/uploads/dresser.png)
 
-Aaaaaaaaaand now, back to our program! If you’re just joining us, this is part 2 of a post series called twoperspectives, insights I’ve gained from my life in both the conservative and the left-leaning Christian traditions. You can read [**part 1**](https://www.facebook.com/photo.php?fbid=10156688766032387). I won’t recap - I’d rather just dive right into the boiling water of Roe v. Wade. (TW: abortion)
+Aaaaaaaaaand now, back to our program! If you’re just joining us, this is part 2 of a post series called two perspectives, insights I’ve gained from my life in both the conservative and the left-leaning Christian traditions. You can read [**part 1**](https://www.facebook.com/photo.php?fbid=10156688766032387). I won’t recap - I’d rather just dive right into the boiling water of Roe v. Wade. (TW: abortion)
 
 If you just felt your stomach contract and a flash of anxiety ambush your body, you aren’t alone. Some of you may even wonder if you’re allowed to read this. If that resonates loudly (or sounds odd), please read my [**intro post**](https://www.facebook.com/jessica.s.marquis/posts/10156703623422387.) that describes aspects of the Conservative White Evangelical culture.
 

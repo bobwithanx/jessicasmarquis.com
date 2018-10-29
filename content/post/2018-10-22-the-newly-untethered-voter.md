@@ -50,6 +50,6 @@ If you aren’t sure, take a slice of my hard-won experience for yourself. First
 
 I want to urge you again to [read the letter I’ve analyzed](http://www.jessicasmarquis.com/post/2018-10-21-boa-letter-markup/). It hurt to examine it and see how an organization that had previously served as an authority to me communicated with such suspicion and deception. We need to do better, my friends. BOA or WCA, we need to do better.
 
-Thank you for joining me in this journey. I’m convincing myself to get rather personal in a future installment of twoperspectives, so I need to go prepare for that.
+Thank you for joining me in this journey. I’m convincing myself to get rather personal in a future installment of two perspectives, so I need to go prepare for that.
 
 I love you all. Happy researching!

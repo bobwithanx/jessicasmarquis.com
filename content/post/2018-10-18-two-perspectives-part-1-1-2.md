@@ -6,7 +6,7 @@ date: '2018-10-06T16:52:00-07:00'
 tags:
   - Christianity
   - 'writingfromthemiddle'
-  - 'twoperspectives'
+  - 'two perspectives'
 ---
 ![null](/images/uploads/3d-glasses-1413345-638x393.jpg)
 

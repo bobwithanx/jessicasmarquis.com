@@ -7,7 +7,7 @@ tags:
   - Abortion
   - Christianity
   - justice
-  - 'twoperspectives'
+  - 'two perspectives'
 ---
 As a member of the BOA (birth-only advocate) community, I relied on the word of authority. Any entity operating as "Pro-Life" deserved my respect and attention - especially if the word "Christian" was in their title or mission statement. I did not doubt what I heard from them, which was how I failed to notice false claims. It's also why I viewed WCAs (woman's choice advocates) as my enemy.
 
