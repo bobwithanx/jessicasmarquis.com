@@ -4,7 +4,7 @@ type: post
 title: 'two perspectives: part 3'
 date: '2018-10-28T20:22:10-07:00'
 tags:
-  - two perspectives
+  - twoperspectives
   - trans
   - LGBTQ
   - christianity
