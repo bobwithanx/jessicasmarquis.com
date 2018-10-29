@@ -6,7 +6,7 @@ date: '2018-06-24T09:14:31-07:00'
 tags:
   - Depression
   - Anxiety
-  - '#writingfromthemiddle'
+  - 'writingfromthemiddle'
 ---
 As I’ve shared about my tidal wave of depression crested with anxiety, many people have come forward with similar stories. I’ve been audience to tales of phone calls to counselors never returned, shame over being a human who breaks sometimes, and fears of taking medication that affects the brain. Even as a former therapist, I’m not an expert on these things, so I often respond with, “Yep, it sucks.” And a hug. You know, if the person’s cool with that.
 

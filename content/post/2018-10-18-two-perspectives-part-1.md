@@ -4,8 +4,8 @@ type: post
 title: 'two perspectives: part 1'
 date: '2018-09-30T14:50:00-07:00'
 tags:
-  - '#writingfromthemiddle'
-  - '#twoperspectives'
+  - 'writingfromthemiddle'
+  - 'twoperspectives'
   - Christianity
   - abuse
 ---

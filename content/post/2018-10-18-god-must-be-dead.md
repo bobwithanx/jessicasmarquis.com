@@ -6,7 +6,7 @@ date: '2018-08-10T09:00:00-07:00'
 tags:
   - faith
   - parenting
-  - '#writingfromthemiddle'
+  - 'writingfromthemiddle'
 ---
 “I think God is dead.”
 

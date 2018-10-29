@@ -7,7 +7,7 @@ tags:
   - depression
   - anxiety
   - parenting
-  - '#writingfromthemiddle'
+  - 'writingfromthemiddle'
 ---
 I've lived with depression and anxiety as far back as I can remember. I'm also a stay-at-home parent, trying to succeed in the most demanding job I’ve ever held while various issues pop up and I wrestle them. It’s like a really lousy video game.
 

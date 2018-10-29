@@ -5,7 +5,7 @@ title: derealization
 date: '2018-09-04T09:45:00-07:00'
 tags:
   - integration
-  - '#writingfromthemiddle'
+  - 'writingfromthemiddle'
 ---
 I recently discovered a word for which I’d been searching 30 years. I owned a thesaurus, a dictionary, and an encyclopedia from the 1960s (the last of which proved dreadfully unhelpful - nay, detrimental). Through this trio, I learned a lot about adverbs, adjectives, and old-timey gadgets, but not about the word I needed.
 

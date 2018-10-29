@@ -5,7 +5,7 @@ title: depression's rudeness
 date: '2018-08-17T09:37:00-07:00'
 tags:
   - depression
-  - '#writingfromthemiddle'
+  - 'writingfromthemiddle'
 ---
 When someone doesn’t appear to be listening or doesn’t ask us about ourselves, we tend to think them rude. Please keep this in mind:
 

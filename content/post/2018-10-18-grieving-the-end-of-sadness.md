@@ -6,7 +6,7 @@ date: '2018-08-22T09:38:00-07:00'
 tags:
   - depression
   - grief
-  - '#writingfromthemiddle'
+  - 'writingfromthemiddle'
 ---
 Have you ever had a thought, then shut it down because it seemed way too weird? I’m guessing you have, and that some of those thoughts are ones we’ve actually shared. So today I’m going to talk about grieving the loss of depression and anxiety.
 

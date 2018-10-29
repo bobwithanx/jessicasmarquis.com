@@ -5,7 +5,7 @@ title: sin of certainty
 date: '2018-08-26T09:44:00-07:00'
 tags:
   - faith
-  - '#writingfromthemiddle'
+  - 'writingfromthemiddle'
 ---
 How many times have I confessed the “sin” of doubt? How many times have I promised God, “I’ll trust you!” then reneged on it? I used to beat myself up for it, naming “doubt” as my weakness. My faith tradition supported this call to repentance. “More faith!” was the second most common Sunday school answer (after “Jesus”).
 

@@ -7,7 +7,7 @@ tags:
   - lament
   - parenting
   - illness
-  - '#writingfromthemiddle'
+  - 'writingfromthemiddle'
 ---
 I’m about to do something that is contrary to my nature, which is why I need to do it. While I’m getting better at not hiding my weaknesses - and there are many - I’m still an underachiever when it comes to giving details in the midst of the yuck. So here goes.
 

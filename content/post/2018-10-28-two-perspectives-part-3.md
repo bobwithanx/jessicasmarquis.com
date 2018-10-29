@@ -9,15 +9,15 @@ tags:
   - LGBTQ
   - christianity
 ---
-Next edition of #TwoPerspectives: The transgender conversation. I’d hoped to wait on this one because it is complex, so I’d prefer to build up to it; however, with recent events involving the potential loss of rights for this demographic it’s been bumped up in the queue.
+Next edition of twoperspectives: The transgender conversation. I’d hoped to wait on this one because it is complex, so I’d prefer to build up to it; however, with recent events involving the potential loss of rights for this demographic it’s been bumped up in the queue.
 
-Before I start, thank you to all who have reached out regarding how this series has impacted you. I know these are tough topics to talk about, and they rarely are without vilifying the other perspective, so I’m glad to hear you are gaining insight on each side of the issues at hand. If you want to read more of them, I've labeled them by their titles in [this blog](jessicasmarquis.com/blog). 
+Before I start, thank you to all who have reached out regarding how this series has impacted you. I know these are tough topics to talk about, and they rarely are without vilifying the other perspective, so I’m glad to hear you are gaining insight on each side of the issues at hand. If you want to read more of them, I've labeled them by their titles in [this blog](jessicasmarquis.com/blog).
 
 I’ve been struggling how to start this post. I thought about sharing my first encounter with a trans individual, when I encountered the fascinating work of the late artist Greer Lankton. I thought of giving a metaphor or relating a general experience we’ve all had. The trouble is that all of these are incomplete introductions to trans identity and experience. And that’s part of the many reasons it’s so misunderstood.
 
-When I was in the CWE (conservative White evangelical) church, transgender individuals were not part of the conversation. I think they got lumped in with gay people, and it led to confusion about what trans actually was. I’m going to list below some of the misconceptions I had that got in my way of learning more. 
+When I was in the CWE (conservative White evangelical) church, transgender individuals were not part of the conversation. I think they got lumped in with gay people, and it led to confusion about what trans actually was. I’m going to list below some of the misconceptions I had that got in my way of learning more.
 
-1. Transgender = transvestite, transexual, drag queen, or cross-dresser. 
+1. Transgender = transvestite, transexual, drag queen, or cross-dresser.
 
 2. Transgender = gay or lesbian.
 
@@ -43,29 +43,29 @@ When I was in the CWE (conservative White evangelical) church, transgender indiv
 
 That’s a long list. It’s likely why I didn’t do much investigating on the topic - I didn’t know where to begin. I could find info for and against in the LGB (lesbian, gay, bisexual) conversation, but the T and Q (trans and queer) left me befuddled. And I \*do not\* like feeling befuddled.
 
-I heard that men wearing women’s clothing - and vice versa - was wrong (Deuteronomy 22:5), but that meant I’d have to toss out 85% of my wardrobe in high school. Plus, I was already out of step with Deuteronomy 22 because I really did like my mixed textiles (vs. 11). I had these fabulous plaid wool pants I found in the old-men’s section of the thrift store. They were extremely itchy but had some comfy lining of another fabric in the waist. I paired them with a bowling shirt and my pixie cut - which seemed in contradiction to 1 Corinthians 11:14-15. And if I wasn’t, then my boyfriends probably were because I dated long-haired musicians. Maybe I sound cheeky, but these were actual points used in CWE discussions regarding being trans. 
+I heard that men wearing women’s clothing - and vice versa - was wrong (Deuteronomy 22:5), but that meant I’d have to toss out 85% of my wardrobe in high school. Plus, I was already out of step with Deuteronomy 22 because I really did like my mixed textiles (vs. 11). I had these fabulous plaid wool pants I found in the old-men’s section of the thrift store. They were extremely itchy but had some comfy lining of another fabric in the waist. I paired them with a bowling shirt and my pixie cut - which seemed in contradiction to 1 Corinthians 11:14-15. And if I wasn’t, then my boyfriends probably were because I dated long-haired musicians. Maybe I sound cheeky, but these were actual points used in CWE discussions regarding being trans.
 
-Most commonly, we were sent to Genesis to check out verses 1:27 and 5:2, which said God created male and female. 
+Most commonly, we were sent to Genesis to check out verses 1:27 and 5:2, which said God created male and female.
 
-That’s it. 
+That’s it.
 
-No further discussion needed. 
+No further discussion needed.
 
-Except that there was. 
+Except that there was.
 
-Because gender isn’t that simple. In addition to intersex individuals, there are- Ah, crap, you got me addressing #4 in the list above! I haven’t even done the first 3 yet! You all are quite sneaky, aren’t you? 
+Because gender isn’t that simple. In addition to intersex individuals, there are- Ah, crap, you got me addressing #4 in the list above! I haven’t even done the first 3 yet! You all are quite sneaky, aren’t you?
 
-Point is that I didn’t have a clear picture of what being trans meant, and I didn’t have a way to talk about it. So I didn’t.  
+Point is that I didn’t have a clear picture of what being trans meant, and I didn’t have a way to talk about it. So I didn’t.
 
-When I read about the death of the aforementioned trans artist Greer Lankton and the way her pastor father had helped with her sex reassignment surgery (now termed “gender confirmation surgery”), I felt compelled to discover how the supportive congregation had reconciled their faith with this transition. Lost for a starting point from with to explore, I turned to a tried-&-true strategy: lurking. I listened to interviews, watched documentaries, read books, visited web forums, eavesdropped on conversations. 
+When I read about the death of the aforementioned trans artist Greer Lankton and the way her pastor father had helped with her sex reassignment surgery (now termed “gender confirmation surgery”), I felt compelled to discover how the supportive congregation had reconciled their faith with this transition. Lost for a starting point from with to explore, I turned to a tried-&-true strategy: lurking. I listened to interviews, watched documentaries, read books, visited web forums, eavesdropped on conversations.
 
-I now have a better understanding, but I’ll never fully get it because I’m cisgender. My sex and gender match. I can’t imagine them not matching. I _can_ imagine what it’s like to feel extremely, hopelessly depressed when I’m supposed to feel happy, and not be able to do anything to change it so I fake happiness but deep down I know where I really am. I can imagine that, but it’s still insufficient. 
+I now have a better understanding, but I’ll never fully get it because I’m cisgender. My sex and gender match. I can’t imagine them not matching. I _can_ imagine what it’s like to feel extremely, hopelessly depressed when I’m supposed to feel happy, and not be able to do anything to change it so I fake happiness but deep down I know where I really am. I can imagine that, but it’s still insufficient.
 
 This is why I’ve asked some friends who are transgender, allies, and Christians with a conservative and/or fundamentalist background to help me address the points above. As my trans friend Julie told me regarding my perspective and role:  “…as a cis person you literally cannot ever understand how a trans person feels. That is ok, you don’t have to. I like to give cis people permission to accept that, and that you can stop trying to figure out how we feel. You can’t. We barely understand how we feel, and it is impossible to explain with words… We appreciate the empathy but there are better and easier ways to be an ally.”
 
 My goal of this post is for both the conservative and the left-leaning Christian communities to understand why neither side is hearing the other: They aren’t speaking the same language. I hope to create some translation here so no more lives are lost. No, that isn’t hyperbole, as I’ll get into shortly.  
 
-1. Here’s a super handy page that differentiates each term: http://www.askthegay.com/2010/10/what’s-the-difference-between-transsexual-transgender-transvestite-and-cross-dresser/. One common area of confusion is the difference between being trans and cross-dressing. A trans individual’s gender does not match the gender assigned them at birth, so they may wear clothes of another gender to feel more congruent. A cross-dresser is cis and simply enjoys wearing the clothing of another gender. 
+1. Here’s a super handy page that differentiates each term: http://www.askthegay.com/2010/10/what’s-the-difference-between-transsexual-transgender-transvestite-and-cross-dresser/. One common area of confusion is the difference between being trans and cross-dressing. A trans individual’s gender does not match the gender assigned them at birth, so they may wear clothes of another gender to feel more congruent. A cross-dresser is cis and simply enjoys wearing the clothing of another gender.
 
 2. Being transgender is about gender identity, about who someone is. It does not reflect or impact sexuality, and there are straight and gay trans individuals.  
 
@@ -145,7 +145,7 @@ Since I’d rather not end this post with the word “dick”, I will instead th
 
 
 
-\*- This isn’t definitive, as individuals don’t always disclose their trans status. Also, many homeless people are trans and may not be counted in estimates: https://fivethirtyeight.com/features/why-we-dont-know-the-size-of-the-transgender-population/. 
+\*- This isn’t definitive, as individuals don’t always disclose their trans status. Also, many homeless people are trans and may not be counted in estimates: https://fivethirtyeight.com/features/why-we-dont-know-the-size-of-the-transgender-population/.
 
 
 
@@ -163,7 +163,7 @@ Since I’d rather not end this post with the word “dick”, I will instead th
 
 [_Gender Revolution_](https://www.facebook.com/katiecouric/videos/gender-revolution-a-journey-with-katie-couric/10154790608436005/) National Geographic documentary with Katie Couric
 
-["I'm an Adventist, and I'm Transgender"](https://spectrummagazine.org/article/2015/06/15/adventist-story-switching-sexes) article by Randi in _Spectrum_ 
+["I'm an Adventist, and I'm Transgender"](https://spectrummagazine.org/article/2015/06/15/adventist-story-switching-sexes) article by Randi in _Spectrum_
 
 [Q Christian Fellowship](https://www.qchristian.org)
 
@@ -182,6 +182,6 @@ Official medical society statements: \
 
 .
 
-\* - [This isn’t definitive](https://fivethirtyeight.com/features/why-we-dont-know-the-size-of-the-transgender-population/), as individuals don’t always disclose their trans status. Also, many homeless people are trans and may not be counted in estimates. 
+\* - [This isn’t definitive](https://fivethirtyeight.com/features/why-we-dont-know-the-size-of-the-transgender-population/), as individuals don’t always disclose their trans status. Also, many homeless people are trans and may not be counted in estimates.
 
 \*\* - Beware: There is an anti-LGBT group called American College of Pediatricians. Because of its name, it is often confused for the AAP, [**_but it is not_**](https://www.psychologytoday.com/us/blog/political-minds/201705/the-american-college-pediatricians-is-anti-lgbt-group).
