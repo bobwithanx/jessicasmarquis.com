@@ -4,6 +4,7 @@ type: post
 title: 'two perspectives: part 2 1/2'
 date: '2018-10-22T16:15:16-07:00'
 tags:
+  - two perspectives
   - abortion
   - christianity
 ---
