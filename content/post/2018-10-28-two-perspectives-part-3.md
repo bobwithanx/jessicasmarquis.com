@@ -9,7 +9,9 @@ tags:
   - LGBTQ
   - christianity
 ---
-Next edition of \#TwoPerspectives: The transgender conversation. I’d hoped to wait on this one because it is complex, so I’d prefer to build up to it; however, with recent events involving the potential loss of rights for this demographic it’s been bumped up in the queue.
+![](/images/uploads/img_2369.png)
+
+Next edition of #TwoPerspectives: The transgender conversation. I’d hoped to wait on this one because it is complex, so I’d prefer to build up to it; however, with recent events involving the potential loss of rights for this demographic it’s been bumped up in the queue.
 
 Before I start, thank you to all who have reached out regarding how this series has impacted you. I know these are tough topics to talk about, and they rarely are without vilifying the other perspective, so I’m glad to hear you are gaining insight on each side of the issues at hand. If you want to read more of them, I've labeled them by their titles in [this blog](https://www.jessicasmarquis.com/tags/two-perspectives/).
 
@@ -154,4 +156,4 @@ Official medical society statements: \
 
 \* - [This isn’t definitive](https://fivethirtyeight.com/features/why-we-dont-know-the-size-of-the-transgender-population/), as individuals don’t always disclose their trans status. Also, many homeless people are trans and may not be counted in estimates.
 
-\*\* - Beware: There is an anti-LGBT group called American College of Pediatricians. Because of its name, it is often confused for the AAP, [_**but it is not**_](https://www.psychologytoday.com/us/blog/political-minds/201705/the-american-college-pediatricians-is-anti-lgbt-group).
+\*\* - Beware: There is an anti-LGBT group called American College of Pediatricians. Because of its name, it is often confused for the AAP, [**_but it is not_**](https://www.psychologytoday.com/us/blog/political-minds/201705/the-american-college-pediatricians-is-anti-lgbt-group).
