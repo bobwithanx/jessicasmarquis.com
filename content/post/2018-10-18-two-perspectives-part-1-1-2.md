@@ -10,7 +10,7 @@ tags:
 ---
 ![null](/images/uploads/3d-glasses-1413345-638x393.jpg)
 
-3/4 of the way through writing part 2 of my [**earlier post**](https://www.facebook.com/photo.php?fbid=10156688766032387), it hit me that it required prerequisite knowledge of the culture. Those without could understand the post, yes, but it would make more sense with some framework. It’s like the difference between watching a 3D movie with and without the glasses. This post will serve as your glasses for [**part 2**](https://www.facebook.com/jessica.s.marquis/posts/10156723696197387) in the twoperspectives series.
+3/4 of the way through writing part 2 of my [**earlier post**](https://www.jessicasmarquis.com/post/2018-10-18-two-perspectives-part-1/), it hit me that it required prerequisite knowledge of the culture. Those without could understand the post, yes, but it would make more sense with some framework. It’s like the difference between watching a 3D movie with and without the glasses. This post will serve as your glasses for [**part 2**](https://www.jessicasmarquis.com/post/2018-10-18-two-perspectives-part-2/) in the twoperspectives series.
 
 Conservative White evangelical (CWE) culture differs from many Christian traditions in that it doesn’t tend to share common rituals or texts. No Stations of the Cross, no Revised Common Lectionary. Nonetheless, the churches do share [common beliefs](https://www.nae.net/what-is-an-evangelical/). They also have similar applications of those beliefs, as well as [values and moral codes](http://www.pewforum.org/2011/06/22/global-survey-beliefs/).
 

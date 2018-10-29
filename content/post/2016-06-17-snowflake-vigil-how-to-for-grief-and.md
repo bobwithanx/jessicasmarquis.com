@@ -14,7 +14,7 @@ tags:
 
 ---
 
-I mentioned in <a href="/cottonwoodblessings/2016/06/snowflake-vigil.html" target="_blank">an earlier post</a> that I may do a &#8220;snowflake vigil&#8221; with my kiddos, all under age 4, regarding the tragic mass shooting at Pulse, a gay club in Orlando. It&#8217;s critical to start an ongoing conversation with them even now about loving others, respecting all, and advocacy. If we claim to love Jesus, whose heart was all about justice, we need to also claim verses like this one:  _
+I mentioned in <a href="https://www.jessicasmarquis.com/post/2016-06-13-snowflake-vigil/">an earlier post</a> that I may do a &#8220;snowflake vigil&#8221; with my kiddos, all under age 4, regarding the tragic mass shooting at Pulse, a gay club in Orlando. It&#8217;s critical to start an ongoing conversation with them even now about loving others, respecting all, and advocacy. If we claim to love Jesus, whose heart was all about justice, we need to also claim verses like this one:  _
 _
 
 _Speak up for those who cannot speak for themselves; ensure justice for those being crushed._
