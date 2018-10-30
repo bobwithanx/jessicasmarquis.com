@@ -101,15 +101,15 @@ My goal of this post is for both the conservative and the left-leaning Christian
     \
     These are contributors to the [statistics](https://transequality.org/sites/default/files/docs/usts/USTS-Executive-Summary-Dec17.pdf) that 40% of trans people in the U.S. attempt suicide, compared to 4.6% in the general population. In fact, for trans people in unsupportive families, the homelessness, attempted suicide, and serious psychological distress rates are significantly higher than their supported trans peers.  \
     \
-    Are there transgender Christians who identify as evangelical? Absolutely. In fact, of the respondents to the 2016 Cooperative Congregational Election Study who identified as “born again or evangelical Christian,” [a summary](https://religioninpublic.blog/2017/03/16/religion-gender-and-sexuality/) reported: 
-
-“Transgender Americans lead the way with 44 percent, while heterosexuals trail with just under 30 percent identifying. As with the religious tradition results, gay men identify with the born again label at the lowest rates (11.5%), though they are not distinguishable from lesbian and bisexual Americans (both 13-14%).”\
+    Are there transgender Christians who identify as evangelical? Absolutely. In fact, of the respondents to the 2016 Cooperative Congregational Election Study who identified as “born again or evangelical Christian,” [a summary](https://religioninpublic.blog/2017/03/16/religion-gender-and-sexuality/) reported: \
+    \
+    “Transgender Americans lead the way with 44 percent, while heterosexuals trail with just under 30 percent identifying. As with the religious tradition results, gay men identify with the born again label at the lowest rates (11.5%), though they are not distinguishable from lesbian and bisexual Americans (both 13-14%).”\
 \
-  There are a lot of trans people with a religious background. Of the respondents to the [2015 U.S. Transgender Survey](http://www.transequality.org/sites/default/files/docs/USTS-Full-Report-FINAL.PDF) who stated they had been part of a spiritual or religious community, 19% stated they left due to rejection. 
-
-That isn’t the end of their faith journey, as you can see above; nonetheless, they continue to be seen as broken, Godless projects by many who share the communion table with them. To help others understand what this experience is like, one woman who is trans and Christian [publicly shared](https://www.thelily.com/im-transgender-and-christian-heres-what-i-did-when-evangelicals-tried-to-pray-for-me/) about being approached by evangelists and then leading them in prayer.   
-
-So do you need to confront these individuals with what you believe about them? No. Many have already heard the spiel, so it’s wasted air. Even more important, that is not how relationships are built or God’s love is shared. On the other hand, that_ is_ a good way to alienate people, wound the wounded, and make yourself an unsafe person to trans individuals - if that’s what you’re going for.  
+      There are a lot of trans people with a religious background. Of the respondents to the [2015 U.S. Transgender Survey](http://www.transequality.org/sites/default/files/docs/USTS-Full-Report-FINAL.PDF) who stated they had been part of a spiritual or religious community, 19% stated they left due to rejection. \
+\
+    That isn’t the end of their faith journey, as you can see above; nonetheless, they continue to be seen as broken, Godless projects by many who share the communion table with them. To help others understand what this experience is like, one woman who is trans and Christian [publicly shared](https://www.thelily.com/im-transgender-and-christian-heres-what-i-did-when-evangelicals-tried-to-pray-for-me/) about being approached by evangelists and then leading them in prayer.   \
+\
+    So do you need to confront these individuals with what you believe about them? No. Many have already heard the spiel, so it’s wasted air. Even more important, that is not how relationships are built or God’s love is shared. On the other hand, that_ is_ a good way to alienate people, wound the wounded, and make yourself an unsafe person to trans individuals - if that’s what you’re going for.  
 
 11. Trans people are more than just one thing. As a matter of fact, contributors to this post remarked they often forget they are trans; they simply don’t talk about it much. They’re too busy blending in, living their lives, and trying to accomplish the same goals we all have: work, groceries, health care, etc. \
     \
@@ -126,7 +126,7 @@ So do you need to confront these individuals with what you believe about them? N
     \
     However, if you’ve just met someone who is trans and you insist on using their dead name or misgendering them through incorrect pronouns, comedian Paul F. Tompkins says this: 
 
-> “‘My name is Robert but I would prefer that you call me Bob.’ It’s just like that. You know what I mean? And if you were to insist upon calling that person Robert, you would be a colossal dick.”
+    “‘My name is Robert but I would prefer that you call me Bob.’ It’s just like that. You know what I mean? And if you were to insist upon calling that person Robert, you would be a colossal dick.”
 
 Since I’d rather not end this post with the word “dick”, I will instead thank all those who helped in contributing and editing this post. I know we didn’t cover everything, and if there is something specific you’d like answered by me or by someone who is trans, please let me know!\
 \
