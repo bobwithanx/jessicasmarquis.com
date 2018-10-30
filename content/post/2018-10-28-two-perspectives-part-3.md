@@ -158,7 +158,6 @@ Official medical society statements: \
 \
 \
 \
-\
 * - [This isn’t definitive](https://fivethirtyeight.com/features/why-we-dont-know-the-size-of-the-transgender-population/), as individuals don’t always disclose their trans status. Also, many homeless people are trans and may not be counted in estimates.
 
 \*\* - Beware: There is an anti-LGBT group called American College of Pediatricians. Because of its name, it is often confused for the AAP, [**_but it is not_**](https://www.psychologytoday.com/us/blog/political-minds/201705/the-american-college-pediatricians-is-anti-lgbt-group).
