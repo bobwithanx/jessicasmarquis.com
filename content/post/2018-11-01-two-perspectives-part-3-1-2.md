@@ -35,7 +35,7 @@ Isn’t that exciting news‽ Well, it would be if one’s goal is to celebrate 
 
 That objection tips me off to a much bigger story: Every time something new was introduced as a possibility, our authority figures jumped up to disprove or delegitimize it. They called it “defending the flock”, but as a member of that flock I would have liked to have done the research for myself. R-rated movies received scathing reviews to prevent us from seeing them. Evolution was written off before I even got to know the basic principles. Women who wanted to be pastors were cast into the category of ego-driven bitches (but without that title, because swearing was off-limits). 
 
-I became well-versed at defending and reacting. I knew what we were against and who we were not. Unfortunately, the muscles and brain parts used for proactive behavior - creating, advocating, defining who we _were_ - were used much less frequently. I’d even say some atrophied. 
+I became well-versed at defending and reacting. I knew what we were against and who we were not. Unfortunately, the muscles and brain parts used for proactive behavior - creating, advocating, defining who we _were_ - were used much less frequently. I’d even say some of mine atrophied. 
 
 We retracted more often than we expanded. 
 
