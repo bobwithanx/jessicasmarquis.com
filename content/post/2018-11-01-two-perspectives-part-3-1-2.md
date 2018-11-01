@@ -9,11 +9,11 @@ tags:
   - deconstruction
   - grief
 ---
-![](/images/uploads/dali-image.jpg)
+![null](/images/uploads/dali-image.jpg)
 
 Grief sucks. Cryptogenic grief sucks even more. Looking up the word “cryptogenic” is oddly satisfying. 
 
-If you didn’t look it up, what I’m saying is that grief can appear without an apparent source, and it's a special kind of awful. I slogged through it a while back, and it wasn’t until I had gotten through Denial, Anger, Bargaining, and was mostly through Depression that I realized what was going on. It launched me back into Anger for a fresh round.
+If you didn’t look it up, what I’m saying is that grief can appear without an apparent source, and it's a special kind of awful. I slogged through it a while back, and it wasn’t until I had gotten past Denial, Anger, Bargaining, and was halfway through Depression that I realized what was going on. It launched me back into Anger for a fresh round.
 
 The grief resulted from interrogating my beliefs and discovering how many didn’t hold up. It was like taking apart a complicated contraption and setting off the stink bomb hidden inside. Grief is a stink bomb. You can quote me on that.
 
