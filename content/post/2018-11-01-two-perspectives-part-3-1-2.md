@@ -1,7 +1,7 @@
 ---
 layout: blog
 type: post
-title: 'Two Perspectives: Part 3 1/2'
+title: 'two perspectives: part 3 1/2'
 date: '2018-11-01T16:02:11-07:00'
 tags:
   - Two Perspectives
