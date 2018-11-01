@@ -45,9 +45,9 @@ Removing something that exists as a key joint in decision-making on who’s in, 
 
 If you’re starting to make room for questions, or if you’re entering a state of disintegration,\*\* you aren’t alone. Many have tread this path before you and are doing it alongside you; you just don't see them because the path is dark. Keep in mind that many have shrunk back in fear - if you're_ anywhere_ on the path, I applaud your courage.
 
-Make room for the grief. Set margins to be angry or confused or depressed. Have grace with yourself when you emote without warning - it's all integral to taking the contraption apart so you can reconstruct it in a robust and lasting way. It may be If you know what I’m talking about, clap your hands. 
+Make room for the grief. Set margins to be angry or confused or depressed. Have grace with yourself when you emote without warning - it's all integral to taking the contraption apart so you can reconstruct it in a robust and lasting way. If you know what I’m talking about, clap your hands. 
 
-This entry won’t have a long list of recommended resources, studies, or statistics. I’m simply spilling my heart and sharing why and how I faded from one community. My reconstruction led me to another community where my heart beats more in synch with the Divine. I love it here. I have peace here and don’t need to remind myself to cease striving, because anxiety and fear no longer catalyzes my actions. Love pulls action from me, energizing me and connecting me to others. This is home.
+This entry won’t have a long list of recommended resources, studies, or statistics. I’m simply spilling my heart and sharing why and how I faded from one community. My reconstruction led me to another community where my heart beats more in synch with the Divine. I love it here. I have peace here and don’t need to remind myself to cease striving, because anxiety and fear no longer catalyze my actions. Love pulls action from me, energizing me and connecting me to others. This is home.
 
 I’ll be back with another #TwoPerspectives post soon. PM me if there are any you’d like to learn about, especially before the election next week. Informed and compassionate voters are the best kind!  
 
@@ -56,4 +56,4 @@ Take a moment to dance today, my friends.
 
 \*- Total tangent: My mom says grade school teachers expressed concern about my 1940s vocab, courtesy of my live-in grandma. The fact that “gussied up” was the first phrase that came to mind here indicates they were onto something.
 
-\*\* - The paintings below are both by Salvador Dali: The Persistence of Memory (1931) and The Disintegration of the Persistence of Memory (1952-1954). Perhaps there is one you connect with more.
+\*\* - The paintings below are both by Salvador Dali: The Persistence of Memory (1931) and The Disintegration of the Persistence of Memory (1952-1954). Perhaps there is one you connect with more...
