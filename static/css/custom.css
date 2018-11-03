@@ -5,6 +5,14 @@ main {
   font-weight: 300;
 }
 
+main a {
+  font-weight: normal;
+}
+
+.list-title {
+  font-size: 110%;
+}
+
 .content {
   max-width: 800px;
   margin-top: 10px;
@@ -50,13 +58,17 @@ main {
   transition: all 0.2s ease-in-out;
 }
 
+.item {
+  padding: 5px 0;
+}
+
 .item img {
   height: 150px;
   width: 150px;
 }
 
-.item p {
-  font-size: 90%;
+.item .date {
+  font-size: 80%;
 }
 
 .item h4 {
