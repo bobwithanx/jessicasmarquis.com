@@ -8,7 +8,7 @@
   <h5>{{ $.Scratch.Get "subtitle" }}</h5>
 
   <br>
-  <div class="content text-justify">{{ .Content }}</div>
+  <div class="content text-left">{{ .Content }}</div>
 
   Tags: {{ range .Params.tags }}
   <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">
