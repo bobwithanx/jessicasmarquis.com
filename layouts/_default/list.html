@@ -5,10 +5,7 @@
 {{ range (.Paginator 15).Pages.GroupByDate "2006" }}
 <h3>{{ .Key }}</h3>
     {{ range .Pages }}
-    <div class="item">
-    <a class="list-title" href="{{ .Permalink }}">{{ .Title }}</a>
-    <span class="meta date text-muted"> {{ .Date.Format "Jan 2" }}</span>
-    </div>
+    {{ partial "list-item" . }}
     {{ end }}
 {{ end }}
 

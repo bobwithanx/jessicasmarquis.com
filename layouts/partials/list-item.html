@@ -1,4 +1,4 @@
-<div class="item">
+<!-- <div class="item">
 
     {{ $.Scratch.Set "link" .RelPermalink }}
     {{ with .Params.repo }}
@@ -18,4 +18,9 @@
 
     <h4><a href="{{ .Scratch.Get "link" }}">{{ .Title }}</a></h4>
     <h5>{{ $.Scratch.Get "subtitle" }}</h5>
-</div>
+</div> -->
+
+<div class="item">
+    <a class="list-title" href="{{ .Permalink }}">{{ .Title }}</a>
+    <span class="meta date text-muted"> {{ .Date.Format "Jan 2" }}</span>
+    </div>
