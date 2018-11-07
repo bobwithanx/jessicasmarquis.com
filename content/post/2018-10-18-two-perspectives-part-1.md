@@ -4,8 +4,8 @@ type: post
 title: 'two perspectives: part 1'
 date: '2018-09-30T14:50:00-07:00'
 tags:
-  - 'writingfromthemiddle'
-  - 'two perspectives'
+  - writingfromthemiddle
+  - two perspectives
   - Christianity
   - abuse
 ---
@@ -68,11 +68,11 @@ The bottom line was that, in many of our communities, there was little trust pla
 
 Christians with left-leaning values do not tend to have a primary news source or organization at the intersection of journalism and faith. We use a variety or resources, including (and I'd venture to say especially) ones without ties to faith. Some may turn to a specific group to create their filter for news, but many are members of several groups. As a result of input from many sources, we may disagree among ourselves and change our minds upon new discoveries. This is why we grow frustrated in conversations when others refuse to examine carefully researched articles, peer-reviewed journals, or objective data that challenge their position.
 
-The fact is that there is too much information to examine and weigh it all. We all need a filter; we all have bias. The key is to _know_ that we are using a filter and carrying bias. Thinking we have all the truth from a flawless news source or looking to someone else to form our opinions are each reckless decisions. We need to use the brain God gave us, not fear or avoid it.
+The fact is that there is too much information to examine and weigh it all. We all need a filter; we all have bias. The key is to _know_ that we are using a filter and carrying bias. Thinking we have all the truth from a flawless news source or looking to someone else to form our opinions are both reckless decisions. We need to use the brain God gave us, not fear or avoid it.
 
 ROE V. WADE
 
-You know what? I’m going to save this for another post.
+You know what? I’m going to save this for [another post](https://www.jessicasmarquis.com/post/2018-10-18-two-perspectives-part-2/).
 
 In the meantime, I pray that this post may, in some small way, generate more compassion and less ugliness.
 
@@ -80,10 +80,6 @@ Yes, my evangelical friends, I still pray. 😉
 
 I still love Jesus, as well as you all.
 
-
-
 \* - As for the Libertarian camp, my time spent there was only a layover. Thus, if any of my friends are Libertarian and People of Color and/or identify as LGBTQ - no straight white people, please - PM me so I can ask you some questions.
-
-
 
 Edit to add: A deep-hearted thank you to everyone who helped with this piece. Not all wished to be identified, but all were integral.
