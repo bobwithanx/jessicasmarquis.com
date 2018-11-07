@@ -8,7 +8,7 @@ tags:
   - abortion
   - christianity
 ---
-![](/images/uploads/arrows-conflict-directions-434446.jpg)
+![null](/images/uploads/arrows-conflict-directions-434446.jpg)
 
 “So what do I do now?” Ugh, that unwelcome question. I’m way too familiar with it, an uninvited guest who lingers forever and keeps giving me a knowing glance.
 
@@ -26,7 +26,7 @@ Downgrading my primary voting issue and adjusting my position from BOA to “It�
 
 My friends, I will shoot straight with you: It sucked.
 
-As a White person, I had no societal issues I needed addressed. As a woman in the conservative White evangelical (CWE) church, I’d been told I didn’t have rights I needed to protect. Thus, I didn’t want to be political. I didn’t want to hold divisive opinions. I didn’t want to delve into unfamiliar territories that caused me to view myself as uninvolved, inadequate, ignorant, and indifferent. It was so much easier to tie myself to a noble cause, appearing both informed and exemplary.
+As a White person, I had no societal issues I needed addressed. As a woman in the conservative white evangelical (CWE) church, I’d been told I didn’t have rights I needed to protect. Thus, I didn’t want to be political. I didn’t want to hold divisive opinions. I didn’t want to delve into unfamiliar territories that caused me to view myself as uninvolved, inadequate, ignorant, and indifferent. It was so much easier to tie myself to a noble cause, appearing both informed and exemplary.
 
 This was when I encountered the following passage:
 
